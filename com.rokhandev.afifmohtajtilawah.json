@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Best Tilawah",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Best Tilawah",
+      "title": "Surah AlFatiha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahAlFatiha.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Best Tilawah",
+      "title": "Surah Alfurqan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahAlfurqan.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Best Tilawah",
+      "title": "Surah AlKahf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahAlKahf.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Best Tilawah",
+      "title": "Surah ArRahman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahArRahman.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Best Tilawah",
+      "title": "Surah Hajj",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahHajj.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Best Tilawah",
+      "title": "Surah Ibrahim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahIbrahim.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Best Tilawah",
+      "title": "Surah Maryam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahMaryam.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Best Tilawah",
+      "title": "Surah Yasin",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahYasin.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Best Tilawah",
+      "title": "Surah Yusuf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahYusuf.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Best Tilawah",
+      "title": "Surah Luqman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/Surah Luqman.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Best Tilawah",
+      "title": "Surat Yaseen",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SuratYaseen.mp3",
+      "lyrics": ""
+    }
+  ]
+}
