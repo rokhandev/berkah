@@ -122,14 +122,6 @@
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "BestTilawah/SuratYaseen.mp3",
       "lyrics": ""
-    },
-    {
-      "id": 12,
-      "name_category": "Best Tilawah",
-      "title": "Best Tilawah",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1wDokr5C2BkHbhM7JDd-vPuZtvBeMMpJC",
-      "lyrics": ""
     }
   ]
 }
