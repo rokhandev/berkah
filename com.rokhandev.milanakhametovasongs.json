@@ -1,0 +1,103 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Best Song",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Best Song",
+      "title": "LP",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/LPnormal.mp3",
+      "lyrics": "<p>Krestiki noliki, dve Milany v domike<br />Ukatilis' dazhe shariki za roliki<br />Uly-ulybayemsya, razgonyaya tuchki<br />Lyudi obzyvayutsya, chto my dve pochemuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga</p>\n<p>LP</p>\n<p>Eniki-beniki, v yutube i na teleke<br />My tik-tok dovodim topy do isteriki<br />Srazu vse vlyublyayutsya, kogda khochu na ruchki<br />Lyudi obzyvayutsya, chto my kak dve lipuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga<br />LP</p>\n<p>U nas s toboy svoy Disney<br />Nam ne nado kukol<br />Povsyudu za mnoy vezde<br />Moya luchshaya podruga<br />LP</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Best Song",
+      "title": "LP (Speed Up)",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/LPSpeed.mp3",
+      "lyrics": "<p>Krestiki noliki, dve Milany v domike<br />Ukatilis' dazhe shariki za roliki<br />Uly-ulybayemsya, razgonyaya tuchki<br />Lyudi obzyvayutsya, chto my dve pochemuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga</p>\n<p>LP</p>\n<p>Eniki-beniki, v yutube i na teleke<br />My tik-tok dovodim topy do isteriki<br />Srazu vse vlyublyayutsya, kogda khochu na ruchki<br />Lyudi obzyvayutsya, chto my kak dve lipuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga<br />LP</p>\n<p>U nas s toboy svoy Disney<br />Nam ne nado kukol<br />Povsyudu za mnoy vezde<br />Moya luchshaya podruga<br />LP</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "Best Song",
+      "title": "Vozdushnyy potseluy",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/Vozdushnyy.mp3",
+      "lyrics": "<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Kak ty? Gde ty? Ne zvonish', ne pishesh' <br />Mozhet, bol'she menya ne khochesh' slyshat' <br />Ili ne mozhesh' priznat'sya, chto bol'she ne drug <br />A ya ne podruga</p>\n<p>Snova vecher, ya ishchu glazami <br />Vdrug ya vstrechu, a v otvet molchaniye <br />Ili obnimesh' i skazhesh', kak sil'no skuchal <br />A ya oshibalas' (Oy)</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Skol'ko mozhno mne zvonit' vpustuyu? <br />Yesli b tol'ko znal, kak ya toskuyu <br />S kazhdoy minutoy vse chuvstva moi lish' sil'ney <br />Ty dazhe ne znayesh'</p>\n<p>Sprosyat snova, chto so mnoy, podrugi <br />No ya skroyu o nashey razluke <br />A ty s tsvetami okliknesh' menya za spinoy <br />Malaya, malaya</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozd&hellip;</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "Best Song",
+      "title": "Nechego Nadet",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/Nechego.mp3",
+      "lyrics": "<p>Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget'</p>\n<p>Guchi, fendi, lui, prada, vzglyad tigritsy, vse, kak nado <br />YA napyalyu na sebya samyy modnyy shmot <br />Chtoby kazhdyy obernulsya i otkryl svoy rot <br />Mogu ya pered zerkalom chasami vozit'sya <br />Ved' ya zhe ni kakaya-to &mdash; ya svetskaya l'vitsa</p>\n<p>Khochu ya v trende byt' i super stil'no vyglyadet' <br />No yest' odna problema &mdash; mne nechego nadet' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget'</p>\n<p>Svet, moy instagram skazhi, tru infu mne dolozhi <br />Kto zdes' samaya krutaya bez nakrutov, bezo lzhi <br />Vse otvety znayu ya zadolgo napered <br />Svoim vidom plavlyu boyev, kak gorelka led <br />Po sravneniyu so mnoyu fashion week polova <br />Yesli na menya vzglyanul, schitay ty zakoldovan <br />Moy shkaf pokhozh skoreye na konteyner iz <br />Kitaya V odnom i tom zhe dvazhdy ne khozhu &mdash; da, ya takaya</p>\n<p>Khochu ya v trende byt' i super stil'no vyglyadet' <br />No yest' odna problema &mdash; mne nechego nadet' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget'</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "Best Song",
+      "title": "Odin Doma",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/Odin.mp3",
+      "lyrics": "<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Provozhayu staryy god, vklyuchayu staryy fil'm <br />\"Sluzhebnyy roman\", po Pervomu efir <br />YA znayu napered &mdash; segodnya k devyati <br />Ozhidayetsya zvonok, ya uzhe u dveri</p>\n<p>O-o-o, seledka pod shuboy <br />O-o-o, solenyye guby <br />O-o-o, krutyye plastinki <br />O-o-o, nachalas' vecherinka</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Na sankakh s gorki, den' byl dolgiy <br />A vecherom s babuley ya postoyu u yelki <br />Istochnik teksty-pesenok.ru <br />Krasivyye girlyandy, snezhinki i igolki <br />My budem tantsevat', poka ne ustanut nogi</p>\n<p>O-o-o, salyut i khlopushki <br />O-o-o, krutyye igrushki <br />O-o-o, ya tak lyublyu eto <br />O-o-o, shar zelenogo tsveta</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "Best Song",
+      "title": "S Dnem Rozhdeniya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/Rozhdeniya.mp3",
+      "lyrics": "<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>Pochemu vstala tak rano, pochemu tantsuyu <br />Moya mama stala mamoy, idi, potseluyu <br />Bez yelki, no vezde podarki tol'ko mne odnoy <br />Oy, nu a Umka vot ved' darit vsem svoyu lyubov'</p>\n<p>Khorovodyat khorovod, ottaskali za ushi <br />Zhalko, chto vsego raz v god starshe stali malyshi <br />YA zaduyu svechi, ikh uzhe tak mnogo <br />Mama, podari, nu podari yedinoroga</p>\n<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki<br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "Best Song",
+      "title": "UMKA",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/UMKA.mp3",
+      "lyrics": "<p>Ot ulybki pobegut murashki <br />V volosakh romashki ruki obnimashki <br />Zaletayet v trendy khit chetveroklashki <br />V tantse kryshu uneset i otorvet tormashki</p>\n<p>Gubki bantikom, brovki domikom <br />Letyat layki pod kazhdym rolikom <br />Sporim, kazhdyy ulybnetsya dazhe yesli zlyuka <br />Ved' ya vsya takaya, ved' ya vsya takaya</p>\n<p>Umka, umka, umka <br />La-la-la-la-layki menya lyubyat <br />I v tiki-tiko-tok ya v rek povsyudu <br />Ved' ya snimayu kruto, kruto, kruto</p>\n<p>Khot' i malyutka umka <br />YA vsya takaya umka <br />YA vsya takaya umka <br />Umka, umka <br />Umka, umka, umka <br />YA vsya takaya umka</p>\n<p>Grust' astalavista, vremya veselit'sya <br />Mezhdu nami iskry, prilipli tvoi pal'tsy <br />Moy TikTok kak barbariska</p>\n<p>Eto ot moyey ulybki tayali ledyshki <br />Kak murashki, naperegonki, bez peredyshki <br />Razuchu tebya grustit', dazhe yesli buka <br />Ved' ya vsya takaya, ved' ya vsya takaya</p>\n<p>Umka, umka, umka <br />La-la-la-la-layki menya lyubyat <br />I v tiki-tiko-tok ya v rek povsyudu <br />Ved' ya snimayu kruto, kruto, kruto</p>\n<p>Khot' i malyutka umka <br />YA vsya takaya umka <br />YA vsya takaya umka <br />Umka, umka <br />Umka, umka, umka <br />YA vsya takaya umka</p>\n<p>Khot' i malyutka umka <br />La-la-la-la-layki menya lyubyat <br />I v tiki-tiko-tok ya v rek povsyudu <br />Ved' ya snimayu kruto, kruto, kruto</p>\n<p>Khot' i malyutka umka <br />YA vsya takaya umka <br />YA vsya takaya umka <br />Umka, umka<br />Umka, umka, umka <br />YA vsya takaya umka <br />Umka, umka <br />YA vsya takaya umka <br />Menya lyubyat <br />YA vsya takaya umka <br />Umka, umka <br />Ved' ya snimayu <br />Umka, umka, umka <br />YA vsya takaya umka</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "Best Song",
+      "title": "Hit",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "MilanaKhametova/Hit.mp3",
+      "lyrics": ""
+    }
+  ]
+}
