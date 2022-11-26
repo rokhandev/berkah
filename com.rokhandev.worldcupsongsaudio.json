@@ -30,74 +30,569 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Qatar",
-      "image": "file:///android_asset/image/check.jpg"
+      "name_category": "Do'a",
+      "image": "file:///android_asset/image/doa.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Surah Pendek",
+      "image": "file:///android_asset/image/surah.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Qatar",
-      "title": "All I Do Is Win",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/AllIDoIsWin.mp3",
-      "lyrics": "<div>\n<div class=\"ujudUb\">D-J Khaled<br aria-hidden=\"true\" />Hey, yeah (we the best)</div>\n<div class=\"ujudUb\">All I do is win win win no matter what<br aria-hidden=\"true\" />Got money on my mind I can never get enough<br aria-hidden=\"true\" />And every time I step up in the buildin'<br aria-hidden=\"true\" />Everybody hands go up<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />And they say yeah<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />Up down, up down, up down<br aria-hidden=\"true\" />'Cause all I do is win win win<br aria-hidden=\"true\" />And if you goin' in put your hands in the air<br aria-hidden=\"true\" />Make 'em stay there</div>\n<div class=\"ujudUb\">Ludacris goin' in on the verse<br aria-hidden=\"true\" />Cause I never been defeated and I won't stop now<br aria-hidden=\"true\" />Keep your hands up get 'em in the sky for the homies<br aria-hidden=\"true\" />That didn't make it and the folks locked down<br aria-hidden=\"true\" />I never went no where<br aria-hidden=\"true\" />But they saying Luda's back<br aria-hidden=\"true\" />Blame it on that Conjure<br aria-hidden=\"true\" />The hood call it Luda-Yac<br aria-hidden=\"true\" />And I'm on this foolish track, so I spit my foolish flow<br aria-hidden=\"true\" />My hands go up and down like strippers booty's go<br aria-hidden=\"true\" />My verses still be serving, tight like a million virgins<br aria-hidden=\"true\" />Last time on a Khaled remix, now I'm on the original version<br aria-hidden=\"true\" />Can't never count me out<br aria-hidden=\"true\" />Y'all better count me in<br aria-hidden=\"true\" />Got twenty bank accounts, accountants count me in<br aria-hidden=\"true\" />Make millions every year, the south's champion<br aria-hidden=\"true\" />Cause all I do, all I, all I, all I<br aria-hidden=\"true\" />All I do is</div>\n<div class=\"ujudUb\">All I do is win win win no matter what<br aria-hidden=\"true\" />Got money on my mind I can never get enough<br aria-hidden=\"true\" />And every time I step up in the buildin'<br aria-hidden=\"true\" />Everybody hands go up<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />And they say yeah<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />Up down, up down, up down<br aria-hidden=\"true\" />'Cause all I do is win win win<br aria-hidden=\"true\" />And if you goin' in put your hands in the air<br aria-hidden=\"true\" />Make 'em stay there</div>\n<div class=\"ujudUb\">Swerving in my lo-lo,<br aria-hidden=\"true\" />Head on the swivel<br aria-hidden=\"true\" />You know serving me's a no no<br aria-hidden=\"true\" />Clean as a whistle as I pull out in my Rolls Royce<br aria-hidden=\"true\" />Yellow bone passenger they see it, they say oh boy!<br aria-hidden=\"true\" />Tell Khaled back it up, my niggas call me Loco<br aria-hidden=\"true\" />Down for armed trafficking, don't make me pull that fo-fo<br aria-hidden=\"true\" />Ask you what you laughing at<br aria-hidden=\"true\" />Represent that mud life (mud life)<br aria-hidden=\"true\" />Dirty money bitch you better get your mug right (mug right)<br aria-hidden=\"true\" />We come together holding hands and holla thug life (thug life)<br aria-hidden=\"true\" />We all strapped in all black<br aria-hidden=\"true\" />It's like fuck life<br aria-hidden=\"true\" />(All we do is win)<br aria-hidden=\"true\" />You riding or what (what!)<br aria-hidden=\"true\" />'Cause we riding tonight (night!)<br aria-hidden=\"true\" />Now she riding with me cause you wasn't ridin' her right,</div>\n<div class=\"ujudUb\">All I do is win win win no matter what<br aria-hidden=\"true\" />Got money on my mind I can never get enough<br aria-hidden=\"true\" />And every time I step up in the buildin'<br aria-hidden=\"true\" />Everybody hands go up<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />And they say yeah<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />Up down, up down, up down<br aria-hidden=\"true\" />'Cause all I do is win win win<br aria-hidden=\"true\" />And if you goin' in put your hands in the air<br aria-hidden=\"true\" />Make 'em stay there</div>\n<div class=\"ujudUb\">Heat in the kitchen, pot on the stove<br aria-hidden=\"true\" />Water getting boiled, dope being sold<br aria-hidden=\"true\" />Snoopy in the hoopty, system overload<br aria-hidden=\"true\" />I've been runnin' this rap game since I was twenty years old<br aria-hidden=\"true\" />I hung with the worst of 'em<br aria-hidden=\"true\" />Bust till I burst on 'em<br aria-hidden=\"true\" />Floss 'em up, toss 'em up, Hardaway, cross 'em up<br aria-hidden=\"true\" />Pardon me I'm bossin' up, pressure up, bless ya bruh<br aria-hidden=\"true\" />Don't mess with us<br aria-hidden=\"true\" />We like the \"U\" in the 80's<br aria-hidden=\"true\" />Back to back set a trap<br aria-hidden=\"true\" />Hit the lick, get it back<br aria-hidden=\"true\" />Hit the trick, jump the track<br aria-hidden=\"true\" />Bitch I want my money back<br aria-hidden=\"true\" />Time and time again while I'm sipping on this gin<br aria-hidden=\"true\" />Al Davis said it best, just win baby win</div>\n<div class=\"ujudUb WRZytc\">All I do is win win win no matter what<br aria-hidden=\"true\" />Got money on my mind I can never get enough<br aria-hidden=\"true\" />And every time I step up in the buildin'<br aria-hidden=\"true\" />Everybody hands go up<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />And they say yeah<br aria-hidden=\"true\" />And they stay there<br aria-hidden=\"true\" />Up down, up down, up down<br aria-hidden=\"true\" />'Cause all I do is win win win<br aria-hidden=\"true\" />And if you goin' in put your hands in the air<br aria-hidden=\"true\" />Make 'em stay there</div>\n</div>"
-    },
-    {
-      "id": 2,
-      "name_category": "Qatar",
-      "title": "Dont You Worry",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/DONTYOUWORRY.mp3",
-      "lyrics": "<div>\n<div>\n<div class=\"ujudUb\">Don't you worry<br aria-hidden=\"true\" />Don't you worry 'bout a thing<br aria-hidden=\"true\" />'Cause everything's gonna be alright<br aria-hidden=\"true\" />Everything's gonna be alright<br aria-hidden=\"true\" />So don't you worry<br aria-hidden=\"true\" />Don't you worry 'bout a thing<br aria-hidden=\"true\" />'Cause everything's gonna be alright<br aria-hidden=\"true\" />Everything's gonna be alright</div>\n<div class=\"ujudUb\">It's gon' be al-, be alright, thumbs up vibe<br aria-hidden=\"true\" />Ready for the night, lit like a light<br aria-hidden=\"true\" />'Bout to take a flight, get higher than a kite<br aria-hidden=\"true\" />Floatin' on the sky, look mama, I can fly</div>\n<div class=\"ujudUb\">I feel so alive, I'ma live my best life<br aria-hidden=\"true\" />Do just, do just what I like<br aria-hidden=\"true\" />Get de-, get de-, get depressed<br aria-hidden=\"true\" />I was down now I rise up<br aria-hidden=\"true\" />Head up and my eyes up<br aria-hidden=\"true\" />I keep getting wiser<br aria-hidden=\"true\" />Then I realize that everything will be</div>\n<div class=\"ujudUb\">Oh, oh-oh, oh-oh, oh-oh<br aria-hidden=\"true\" />Kay, ayy-ayy, ayy-ayy, okay<br aria-hidden=\"true\" />This is how we do it, baby, this is what we say<br aria-hidden=\"true\" />Eso es lo que t&uacute; y yo vamo' a hace'</div>\n<div class=\"ujudUb\">Don't you worry<br aria-hidden=\"true\" />Don't you worry 'bout a thing<br aria-hidden=\"true\" />'Cause everything's gonna be alright<br aria-hidden=\"true\" />Everything's gonna be alright<br aria-hidden=\"true\" />So don't you worry<br aria-hidden=\"true\" />Don't you worry 'bout a thing<br aria-hidden=\"true\" />'Cause everything's gonna be alright<br aria-hidden=\"true\" />Everything's gonna be alright</div>\n<div class=\"ujudUb\">It's gon' be o-, be okay (ayy)<br aria-hidden=\"true\" />Work hard, play hard, that's the only way (ayy)<br aria-hidden=\"true\" />I'ma live my life like every day's a holiday (ayy)<br aria-hidden=\"true\" />Time to celebrate (ayy), time to elevate<br aria-hidden=\"true\" />Hold up, wait<br aria-hidden=\"true\" />Tres, cuatro, cinco, seis<br aria-hidden=\"true\" />Take it to the top, top, top, like, ooh<br aria-hidden=\"true\" />We don't stop, stop, keep on movin' makin' moves<br aria-hidden=\"true\" />Take a shot, shot, take a shot, take a few<br aria-hidden=\"true\" />We gon' keep on doin' what we do <br aria-hidden=\"true\" />'Cause everything will be</div>\n<div class=\"ujudUb\">Oh, oh-oh, oh-oh, oh-oh<br aria-hidden=\"true\" />Kay, ayy-ayy, ayy-ayy, okay<br aria-hidden=\"true\" />This is how we do it, baby, this is what we say<br aria-hidden=\"true\" />Eso es lo que t&uacute; y yo vamo' a hace'</div>\n<div class=\"ujudUb WRZytc\">Don't you worry<br aria-hidden=\"true\" />Don't you worry 'bout a thing<br aria-hidden=\"true\" />'Cause everything's gonna be alright<br aria-hidden=\"true\" />Everything's gonna be alright<br aria-hidden=\"true\" />So don't you worry<br aria-hidden=\"true\" />Don't you worry 'bout a thing<br aria-hidden=\"true\" />'Cause everything's gonna be alright<br aria-hidden=\"true\" />Everything's gonna be alright</div>\n</div>\n</div>"
-    },
-    {
-      "id": 3,
-      "name_category": "Qatar",
-      "title": "Get Over It",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/GetoverIt.mp3",
+      "name_category": "Surah Pendek",
+      "title": "1. Surah Al-Fatihah (Pembukaan)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/1AlFatihah.mp3",
       "lyrics": ""
     },
     {
-      "id": 4,
-      "name_category": "Qatar",
-      "title": "Hayya Hayya",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/HayyaHayya.mp3",
-      "lyrics": "<div>\n<p>Hayya, Hayya, Hayya (Yeah)<br />Hayya, Hayya, Ha&mdash; (You know what it is)<br />Hayya, Hayya, Hayya<br />Hayya, Hayya, Ha&mdash; (Redwood)</p>\n<p>Hayya, Hayya, Hayya<br />(Aisha)<br />Hayya, Hayya, Ha&mdash;<br />(Davido)<br />Hayya, Hayya, Hayya<br />(Trinidad)<br />Hayya, Hayya, Ha&mdash;</p>\n<p>I wanna walk the walk on every street<br />I wanna ball out with the world at my feet<br />Hit every discotheque and not skip a beat, eh, eh<br />I wanna party, party eight days a week</p>\n<p>I promise, I promise, I promise you now<br />Everything, everything gonna work out<br />Every tomorrow, no matter what goes down<br />I promise, I promise, I promise you now<br />Gonna be, gonna be sticking around<br />Every tomorrow, no matter what goes down</p>\n<p>(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />Don't wanna wait forever<br />(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />The time is now or never</p>\n<p>(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />Don't wanna wait forever<br />(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />The time is now or never</p>\n<p>Hayya, Hayya, Hayya<br />Hayya, Hayya, Ha&mdash;</p>\n<p>Life can be up and down but what can you do, eh?<br />We navigate through all the rough and the smooth, yeah<br />We got that rock 'n' roll, that rhythm and blues, yeah, yeah<br />I'm never blue if I am rockin' with you</p>\n<p>I promise, I promise, I promise you now<br />Everything, everything gonna work out<br />Every tomorrow, no matter what goes down<br />I promise, I promise, I promise you now<br />Gonna be, gonna be sticking around<br />Every tomorrow, no matter what goes down</p>\n<p>(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />Don't wanna wait forever<br />(Yo yo yo, yo ho)<br />(You know we better together)<br />(Yo yo yo, yo ho)<br />The time is now or never</p>\n<p>(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />Don't wanna wait forever<br />(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />The time is now or never</p>\n<p>Yeah, you can hop on your own wave<br />(Yeah, you can ride it for life)<br />But every journey is better<br />(When you got love on your side)</p>\n<p>(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />Don't wanna wait forever<br />(Yo yo yo, yo ho)<br />(You know we better together)<br />(Yo yo yo, yo ho)<br />The time is now or never</p>\n<p>(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />Don't wanna wait forever<br />(Yo yo yo, yo ho)<br />You know we better together<br />(Yo yo yo, yo ho)<br />The time is now or never</p>\n<p>Hayya, Hayya, Hayya<br />Hayya, Hayya, Ha&mdash;<br />Hayya, Hayya, Hayya<br />Hayya, Hayya, Ha&mdash;</p>\n</div>"
+      "id": 78,
+      "name_category": "Surah Pendek",
+      "title": "78. Surah An-Naba' (Berita Besar)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/78AnNaba.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 79,
+      "name_category": "Surah Pendek",
+      "title": "79. Surah An-Naazi'aat (Malaikat Yang Mencabut)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/79AnNaziat.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 80,
+      "name_category": "Surah Pendek",
+      "title": "80. Surah 'Abasa (Dia Bermasam Muka)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/80Abasa.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 81,
+      "name_category": "Surah Pendek",
+      "title": "81. Surah At-Takwiir (Menggulung)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/81AtTakwir.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 82,
+      "name_category": "Surah Pendek",
+      "title": "82. Surah Al-Infitar (Terpecah & Terbelah)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/82AlInfitar.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 83,
+      "name_category": "Surah Pendek",
+      "title": "83. Surah Al-Mutaffifiin (Golongan yang Curang)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/83AlMutaffifin.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 84,
+      "name_category": "Surah Pendek",
+      "title": "84. Surah Al-Insyiqaaq (Terbelah)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/84AlInsyiqaq.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 85,
+      "name_category": "Surah Pendek",
+      "title": "85. Surah Al-Buruj (Gugusan Bintang)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/85AlBuruj.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 86,
+      "name_category": "Surah Pendek",
+      "title": "86. Surah At-Taariq (Pengunjung Malam)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/86AtTariq.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 87,
+      "name_category": "Surah Pendek",
+      "title": "87. Surah Al-A'laa (Yang Tertinggi)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/87AlAla.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 88,
+      "name_category": "Surah Pendek",
+      "title": "88. Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/88AlGhasiyah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 89,
+      "name_category": "Surah Pendek",
+      "title": "89. Surah Al-Fajr (Fajar / Sinar Mentari)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/89AlFajr.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 90,
+      "name_category": "Surah Pendek",
+      "title": "90. Surah Al-Balad (Negeri)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/90AlBalad.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 91,
+      "name_category": "Surah Pendek",
+      "title": "91. Surah Asy-Syams (Matahari)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/91AsySyams.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 92,
+      "name_category": "Surah Pendek",
+      "title": "92. Surah Al-Lail (Malam)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/92AlLail.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 93,
+      "name_category": "Surah Pendek",
+      "title": "93. Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/93AdhDhuha.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 94,
+      "name_category": "Surah Pendek",
+      "title": "94. Surah Al-Insyirah/An-Nasyrah (Melapangkan)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/94AlInsyirah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 95,
+      "name_category": "Surah Pendek",
+      "title": "95. Surah At-Tin (Buah Tin / Buah Ara)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/95AtTin.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 96,
+      "name_category": "Surah Pendek",
+      "title": "96. Surah Al-'Alaq (Segumpal Darah)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/96AlAlaq.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 97,
+      "name_category": "Surah Pendek",
+      "title": "97. Surah Al-Qadr (Kemuliaan)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/97AlQadr.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 98,
+      "name_category": "Surah Pendek",
+      "title": "98. Surah Al-Baiyinah (Bukti yang Nyata)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/98AlBayyinah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 99,
+      "name_category": "Surah Pendek",
+      "title": "99. Surah Al-Zalzalah (Kegoncangan)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/099-az-zalzalah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 100,
+      "name_category": "Surah Pendek",
+      "title": "100. Surah Al-'Aadiyaat (Yang Berlari Kencang)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/100AlAdiyat.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 101,
+      "name_category": "Surah Pendek",
+      "title": "101. Surah Al-Qari'ah (Hari Yang Hingar Bingar / Kiamat)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/101AlQariah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 102,
+      "name_category": "Surah Pendek",
+      "title": "102. Surah At-Takathur (Bermegah-megah)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/102AtTakatsur.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 103,
+      "name_category": "Surah Pendek",
+      "title": "103. Surah Al-'Asr (Masa)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/103AlAshr.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 104,
+      "name_category": "Surah Pendek",
+      "title": "104. Surah Al-Humazah (Pengumpat)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/104AlHumazah.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 105,
+      "name_category": "Surah Pendek",
+      "title": "105. Surah Al-Fiil (Gajah)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/105AlFil.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 106,
+      "name_category": "Surah Pendek",
+      "title": "106. Surah Quraisy (Kaum Quraisy)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/106Quraisy.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 107,
+      "name_category": "Surah Pendek",
+      "title": "107. Surah Al-Ma'un (Barangan Berguna)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/107AlMaun.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 108,
+      "name_category": "Surah Pendek",
+      "title": "108. Surah Al-Kauthar (Sungai Di Syurga)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/108AlKautsar.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 109,
+      "name_category": "Surah Pendek",
+      "title": "109. Surah Al-Kafirun (Golongan Kafir)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/109AlKafirun.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 110,
+      "name_category": "Surah Pendek",
+      "title": "110. Surah An-Nasr (Pertolongan)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/110AnNasr.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 111,
+      "name_category": "Surah Pendek",
+      "title": "111. Surah Al-Masad / Al-Lahab (Nyalaan Api)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/111AlLahab.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 112,
+      "name_category": "Surah Pendek",
+      "title": "112. Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/112AlIkhlas.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 113,
+      "name_category": "Surah Pendek",
+      "title": "113. Surah Al-Falaq (Waktu Subuh / Dini hari)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/113AlFalaq.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 114,
+      "name_category": "Surah Pendek",
+      "title": "114. Surah An-Naas (Manusia)",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/114AnNas.mp3",
+      "lyrics": ""
+    }
+  ,
+    {
+      "id": 115,
+      "name_category": "Surah Pendek",
+      "title": "115. Adzan",
+      "image": "file:///android_asset/image/SurahPendek.jpg",
+      "link_mp3": "mp3/Azan.mp3",
+      "lyrics": ""
     },
+    {
+      "id": 1,
+      "name_category": "Do'a",
+      "title": "1. Do'a Sebelum Tidur",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/1.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">ابِسْمِكَ اللّهُمَّ اَحْيَا وَ بِسْمِكَ اَمُوْتُ</p>\n<br />\n<p class='text_ltr'>\"BISMIKALLAAHUMMA AHYAA WABISMIKA AMUUT\"</p>\n<br />\n<p>Dengan menyebut Namamu Ya Allah Aku Hidup dan dengan menyebut Namamu Aku Mati</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Do'a",
+      "title": "2. Do'a Bangun Tidur",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/2.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَلْحَمْدُ ِللهِ الَّذِىْ اَحْيَانَا بَعْدَمَآ اَمَاتَنَا وَاِلَيْهِ النُّشُوْرُ</p>\n<br />\n<p class='text_ltr'>\"ALHAMDULILLAAHILLADZII AHYAANAA BA’DAMAA AMAATANAA WA ILAIHINNUSYUUR\"</p>\n<br />\n        <p>\"Segala puji bagi Allah Dzat yang menghidupkan kami setelah kami mati (tidur) dan kepadanyalah kami kembali\"</p>"
+    }
+  ,
+    {
+      "id": 3,
+      "name_category": "Do'a",
+      "title": "3. Do'a Sebelum Makan",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/3.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">الَّلهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا، وَقِنَا عَذَابَ النَّارِ</p>\n<br />\n<p class='text_ltr'>Allahumma baarik llanaa fiima razaqtanaa waqinaa adzaa ban-naar</p>\n<br />\n      <p>Yaa Allah, berkatilah rezeki yang engkau berikan kepada kami, dan peliharalah kami dari siksa api neraka</p>"
+    }
+  ,
+    {
+      "id": 4,
+      "name_category": "Do'a",
+      "title": "4. Do'a Sesudah Makan",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/4.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَلْحَمْدُ ِللهِ الَّذِيْنَ اَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مِنَ الْمُسْلِمِيْنَ</p>\n<br />\n<p class='text_ltr'>\"Alhamdu lillahhil-ladzi ath-amanaa wa saqaana waja'alanaa minal muslimiin\"</p>\n<br />\n      <p>Segala puji bagi Allah yang memberi kami makan dan minum serta menjadikan kami memeluk agama islam</p>"
+    }
+  ,
     {
       "id": 5,
-      "name_category": "Qatar",
-      "title": "Jalebi Baby",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/JalebiBaby.mp3",
-      "lyrics": "<div><strong>\"Jalebi Baby\"</strong><br /><br />\n<div>You got what I wanted soniye<br />Mithi gallan kar ke tu na ja chad ke (Chad ke)<br />Ayy, I think about it every day<br />Baby lookin' like Khana Khazana on a plate, ayy<br />Like mithai (Like mithai)<br />Like kulfi, ras malai (aye), pista barfi<br />Sardiyan vich, garmi lagdi<br />Jad vi tu mere raah vichon chaldi<br />Yeah, club vich mere kolo langdi<br />Throw it back and bu-bu-bubble up in front of me<br />Everybody tryna figure out your recipe<br />I'm just tryna get a piece<br />Baby<br /><br />I know that you wanna get crazy, crazy<br />Shawty take it slow then cheti, cheti<br />Ban ja tu meri<br />Jalebi Baby<br /><br />Ayy<br />Baby, let me see it<br />Jalebi Baby<br />I just wanna eat it<br />Jalebi Baby<br />Baby, let me see it<br />Jalebi Baby<br />Know I really need it<br />Jalebi (Oh)<br />Baby, let me see it<br />Jalebi Baby<br />I just wanna eat it<br />Jalebi I, I know the things, the things that you like<br /><br />Yuh, aye<br />Tell me how you feel<br />Lookin' like a movie star doin' it for reels<br />Lookin' like a snack, lookin' like a whole meal<br />Gucci and Chanel with your red bottom heels<br />Ice drip, like paani<br />Ban ja tu meri rani<br />Shawty bad, she my deewani mastani<br />Light it up, I'm livin' every day like it's Diwali<br />Young Tesher, Young Shahrukh, I'm at every party<br /><br />And you got what I wanted soniye<br />Mithi gallan kar ke tu na ja chad ke<br />Rab ton main manga tera pyar haaniye, girl<br />You know what imma say<br /><br />Aye<br />Baby, let me see it<br />Jalebi Baby<br />I just wanna eat it<br />Jalebi Baby<br />Baby, let me see it<br />Jalebi Baby<br />Know I really need it<br />Jalebi (Oh)<br />Baby, let me see it<br />Jalebi Baby<br />I just wanna eat it<br />Jalebi I, I know the things, the things that you like<br />Baby, let me see it<br />Jalebi Baby<br />I just wanna eat it<br />Jalebi Baby<br />Baby, let me see it<br />Jalebi Baby<br />Know I really need it<br />Jalebi (Oh)<br />Baby, let me see it<br />Jalebi Baby<br />I just wanna eat it<br />Jalebi Baby<br />Baby, let me see it<br />Jalebi</div>\n</div>"
-    },
+      "name_category": "Do'a",
+      "title": "5. Do'a Masuk WC",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/5.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَللهُمَّ اِنّىْ اَعُوْذُبِكَ مِنَ الْخُبُثِ وَالْخَبَآئِثِ</p>\n<br />\n<p class='text_ltr'>\"ALLOOHUMMA INNII A'UUDZUBIKA MINAL KHUBUTSI WAL KHOBAAITSI \"</p>\n<br />\n      <p>Ya Allah, aku berlindung dari godaan syetan laki-laki dan syetan perempuan</p>"
+    }
+  ,
     {
       "id": 6,
-      "name_category": "Qatar",
-      "title": "Light The Sky",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/LightTheSky.mp3",
-      "lyrics": "<div><strong>\"Light The Sky\"</strong><br /><span class=\"feat\">(from \"FIFA World Cup Qatar 2022\" soundtrack)</span><br /><br />\n<div>Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br /><br />If you feeling like a star<br />Then you feel like me<br />Gotta treat yourself<br />Like a VIP<br />Got the east and west<br />Meet you in-between<br />You don't need no rest<br />You can lean on me<br /><br />Tonight we out to play oh<br />No worries it's okay oh<br />Look up like Galileo<br />Them lights are saying hello<br />Tonight we out to play oh<br />No worries it's okay oh<br />Look up like Galileo<br />We up, we up, we up, we up<br /><br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br /><br />If you feeling like a star<br />Coming and hang with me<br />Open up your heart<br />Let your love run free<br />Wanna spend some time?<br />Then it's all on me<br />I can teach your things<br />Get your PHD<br /><br />Tonight we out to play oh<br />No worries it's okay oh<br />Look up like Galileo<br />Them lights are saying hello<br />Tonight we out to play oh<br />No worries it's okay oh<br />Look up like Galileo<br />We up, we up, we up, we up<br /><br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br /><br />Hamein karna hai jo<br />Ham karenge wahin<br />Ham jaisa yahan<br />Par koi bhi nahi<br />Chahe east or west<br />Ham milenge yahin<br />You don't need no rest<br />You can lean on me<br /><br />Trop fi&egrave;re ta pas id&eacute;e, rah bdina men zero<br />N3ti rouhi w9elbi, ala bladna kannghero<br />Une nouvelle page une nouvelle histoire, chacun sa version<br />Viens l'&eacute;crire avec moi, a travers les saisons<br /><br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya<br />Everybody<br />Everybody<br />Light the sky<br />Light the sky<br />Shout if you're with me<br />Shout if you're with me<br />Hayya hayya<br />Hayya hayya</div>\n</div>"
-    },
+      "name_category": "Do'a",
+      "title": "6. Do'a Keluar WC",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/6.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">غُفْرَانَكَ الْحَمْدُ ِللهِ الَّذِىْ اَذْهَبَ عَنّى اْلاَذَى وَعَافَانِىْ</p>\n<br />\n<p class='text_ltr'>\"GHUFROONAKAL HAMDU LILLAAHIL LADZII ADZHABA 'ANNIL ADZAA WA 'AAFAANII\"</p>\n<br />\n<p>Dengan mengharap ampunanMu, segala puji milik Allah yang telah menghilangkan kotoran dari badanku dan yang telah menyejahterakan.</br>"
+    }
+  ,
     {
       "id": 7,
-      "name_category": "Qatar",
-      "title": "This Ones For You",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/ThisOnesforYou.mp3",
-      "lyrics": "<div><strong>\"This One's For You\"</strong><br /><span class=\"feat\">(feat. Zara Larsson)</span><br /><br />\n<div><em>[Zara Larsson:]</em><br />We're born to fly<br />So let's keep living 'til it all falls down<br />Let's close our eyes<br />And let the moment drive the whole world out<br /><br />We're in this together<br />Hear our hearts beat together<br />We stand strong together<br />We're in this forever<br />This one's for you<br />This one's for you<br /><br /><em>[Breakdown]</em><br /><br />Waving colored flags<br />We won't surrender, there's no standing down (no standing down)<br />Love's a playing field<br />It's full of winners, we're breaking new ground<br /><br />We're in this together<br />Hear our hearts beat together<br />We stand strong together<br />We're in this forever<br />This one's for you<br />This one's for you<br /><br /><em>[Breakdown]</em><br /><br />In this together<br />Woah, woah<br />Oooooh<br /><br />We're in this together<br />Hear our hearts beat together<br />We stand strong together<br />We're in this forever<br />This one's for you</div>\n</div>"
-    },
+      "name_category": "Do'a",
+      "title": "7. Do'a Masuk Rumah",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/7.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَللهُمَّ اِنّىْ اَسْأَلُكَ خَيْرَالْمَوْلِجِ وَخَيْرَالْمَخْرَجِ بِسْمِ اللهِ وَلَجْنَا وَبِسْمِ اللهِ خَرَجْنَا وَعَلَى اللهِ رَبّنَا تَوَكَّلْنَا</p>\n<br />\n<p class='text_ltr'>\"ALLOOHUMMA INNII AS-ALUKA KHOIROL MAULIJI WA KHOIROL MAKHROJI BISMILLAAHI WA LAJNAA WA BISMILLAAHI KHOROJNAA WA 'ALALLOHI ROBBINAA TAWAKKALNAA.\"</p>\n<br /> \n\t<p>Ya Allah, sesungguhnya aku mohon kepada-Mu baiknya tempat masuk dan baiknya tempat keluar dengan menyebut nama Allah kami masuk, dan dengan menyebut nama Allah kami keluar dan kepada Allah Tuhan kami, kami bertawakkal.</p>\n"
+    }
+  ,
     {
       "id": 8,
-      "name_category": "Qatar",
-      "title": "Unstoppable",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "worldcup/Unstoppable.mp3",
-      "lyrics": "<div>\n<div class=\"ujudUb\">All smiles, I know what it takes to fool this town<br aria-hidden=\"true\" />I'll do it 'til the sun goes down<br aria-hidden=\"true\" />And all through the nighttime<br aria-hidden=\"true\" />Oh, yeah<br aria-hidden=\"true\" />Oh, yeah, I'll tell you what you wanna hear<br aria-hidden=\"true\" />Leave my sunglasses on while I shed a tear<br aria-hidden=\"true\" />It's never the right time<br aria-hidden=\"true\" />Yeah, yeah</div>\n<div class=\"ujudUb\">I put my armor on, show you how strong I am<br aria-hidden=\"true\" />I put my armor on, I'll show you that I am</div>\n<div class=\"ujudUb\">I'm unstoppable<br aria-hidden=\"true\" />I'm a Porsche with no brakes<br aria-hidden=\"true\" />I'm invincible<br aria-hidden=\"true\" />Yeah, I win every single game<br aria-hidden=\"true\" />I'm so powerful<br aria-hidden=\"true\" />I don't need batteries to play<br aria-hidden=\"true\" />I'm so confident<br aria-hidden=\"true\" />Yeah, I'm unstoppable today</div>\n<div class=\"ujudUb\">Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />I'm unstoppable today</div>\n<div class=\"ujudUb\">Break down, only alone I will cry out loud<br aria-hidden=\"true\" />You'll never see what's hiding out<br aria-hidden=\"true\" />Hiding out deep down<br aria-hidden=\"true\" />Yeah, yeah<br aria-hidden=\"true\" />I know, I've heard that to let your feelings show<br aria-hidden=\"true\" />Is the only way to make friendships grow<br aria-hidden=\"true\" />But I'm too afraid now<br aria-hidden=\"true\" />Yeah, yeah</div>\n<div class=\"ujudUb\">I put my armor on, show you how strong I am<br aria-hidden=\"true\" />I put my armor on, I'll show you that I am</div>\n<div class=\"ujudUb\">I'm unstoppable<br aria-hidden=\"true\" />I'm a Porsche with no brakes<br aria-hidden=\"true\" />I'm invincible<br aria-hidden=\"true\" />Yeah, I win every single game<br aria-hidden=\"true\" />I'm so powerful<br aria-hidden=\"true\" />I don't need batteries to play<br aria-hidden=\"true\" />I'm so confident<br aria-hidden=\"true\" />Yeah, I'm unstoppable today</div>\n<div class=\"ujudUb\">Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />I'm unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />I'm unstoppable today</div>\n<div class=\"ujudUb\">I put my armor on, show you how strong I am<br aria-hidden=\"true\" />I put my armor on, I'll show you that I am</div>\n<div class=\"ujudUb\">I'm unstoppable<br aria-hidden=\"true\" />I'm a Porsche with no brakes<br aria-hidden=\"true\" />I'm invincible<br aria-hidden=\"true\" />Yeah, I win every single game<br aria-hidden=\"true\" />I'm so powerful<br aria-hidden=\"true\" />I don't need batteries to play<br aria-hidden=\"true\" />I'm so confident<br aria-hidden=\"true\" />Yeah, I'm unstoppable today</div>\n<div class=\"ujudUb WRZytc\">Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />I'm unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />Unstoppable today<br aria-hidden=\"true\" />I'm unstoppable today</div>\n</div>"
+      "name_category": "Do'a",
+      "title": "8. Do'a Keluar Rumah",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/8.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">بِسْمِ اللهِ تَوَكَّلْتُ عَلَى اللهِ لاَحَوْلَ وَلاَقُوَّةَ اِلاَّ بِاللهِ</p>\n<br />\n<p class='text_ltr'>\"BISMILLAAHI TAWAKKALTU 'ALALLOOHI LAA HAWLAA WALAA QUWWATA ILLAA BILLAAHI\"</p>\n<br />\n      <p>Dengan menyebut nama Allah aku bertawakal kepada Allah, tiada daya kekuatan melainkan dengan Allah.</p>"
+    }
+  ,
+    {
+      "id": 9,
+      "name_category": "Do'a",
+      "title": "9. Do'a Memakai Pakaian",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/9.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَللّهُمَّ اِنِّيْ أَسْـأَلُكَ مِنْ خَيْرِهِ وَخَيْرِمَاهُوَلَهُ,وَأَعُوْذُبِكَ مِنْ شَرِّهِ وَشَرِّمَاهُوَلَهُ</p>\n<br />\n<p class='text_ltr'>\"Alloohumma innii as-aluka min khoirihi,wa khoiri maa huwa lahu wa a’udzubika min syarrihi wa syarri maa huwa lahu\"</p>\n<br />\n      <p>Wahai Tuhanku,berilah aku kebaikan dengan pakaian ini, dan hindarkanlah aku dari kejahatan yang ditimbulkan</p>\n\t"
+    }
+  ,
+    {
+      "id": 10,
+      "name_category": "Do'a",
+      "title": "10. Do'a Melepas Pakaian",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">أبِسْمِ اللهِ الَّذِيْ أَذْهَبَ عَنِّى اْلأَذَاى وَعَافَانِيْ</p>\n<br />\n<p class='text_ltr'>\"Bismillaahil ladzii laa ilaaha illaa huwa\"</p>\n<br />\n      <p>Dengan nama Allah yang tiada Tuhan selain Dia</p>"
+    }
+  ,
+    {
+      "id": 11,
+      "name_category": "Do'a",
+      "title": "11. Doa Ketika Mimpi Baik",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَلْحَمْدُ ِللهِ رَبِّ الْعَالَمِيْنَ</p>\n<br />\n<p class='text_ltr'>\"Alhamdulillahi rabbil 'aalamiin\"</p>\n<br />\n      <p>Segala puji bagi Allah, Tuhan yang memelihara alam semesta</p>"
+    }
+  ,
+    {
+      "id": 12,
+      "name_category": "Do'a",
+      "title": "12. Do'a Ketika Mimpi Buruk",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَللَّهُمَّ إِنّىِ أَعُوْذُ بِكَ مِنْ عَمَلِ الشَّيْطَانِ وَسَيِّئاَتِ اْلأَحْلاَمِ</p>\n<br />\n<p class='text_ltr'>\"Allaahumma innii a'uudzubika min 'amalisy syaithaani wa sayyiaatil ahlami\"</p>\n<br />\n      <p>Ya Allah, sesungguhnya aku mohon perlindungan kepada Engkau dari perbuatan setan dan dari mimpi-mimpi yang buruk</p>"
+    }
+  ,
+    {
+      "id": 13,
+      "name_category": "Do'a",
+      "title": "13. Do'a Masuk Masjid",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ</p>\n<br />\n<p class='text_ltr'>\"ALLOHUMMAFTA_HLIII ABWAABA RO_HMATIK\"</p>\n<br />\n      <p>Ya Alloh bukalah bagiku pintu-pintu rohmatmu.</p>"
+    }
+  ,
+    {
+      "id": 14,
+      "name_category": "Do'a",
+      "title": "14. Do'a Keluar Masjid",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">بِسْمِ اللهِ, وَالسَّلاَمُ عَلَى رَسُوْلِ اللهِ ,اللَّهُمَّ اغْفِرْلِيْ ذُنُوْبِيْ, وَافْتَحْ لِيْ أَبْوَابَ فَضْلِكَ</p>\n<br />\n<p class='text_ltr'>\"BISMILLAH, WASSALAAMU 'ALAA ROSUULILLAH, ALLOHUMMAGHFIRLII DZUNUUBII, WAFTA_HLII ABWAABA FADL-LIK\"</p>"
+    }
+  ,
+    {
+      "id": 15,
+      "name_category": "Do'a",
+      "title": "15. Do'a Bertemu Sesama Muslim",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَلسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُالله وَبَرَكاَتُهُ</p>\n<br />\n<p class='text_ltr'>\"ASSALAAMU'ALAIKUM WARO_HMATULLOHI WABAROKAATUH\"</p>\n<br />\n      <p>semoga keselamatan, rohmat dan barokah Alloh tetap atas kalian semua</p>\n\t  <br/>\n\t  <br />\n<p class=\"arab\" style=\"text-align: right;\">وَعَلَيْكُمُ السَّلاَمُ وَرَحْمَةُالله وَبَرَكاَتُهُ</p>\n<br />\n<p class='text_ltr'>\"WA'ALAIKUMUS-SALAAM, WARO_HMATULLOHI WABAROKAATUH\"</p>\n<br />\n      <p>semoga tetap bagi kalian keselamatan, rohmat serta barokah Alloh.</p>\t "
+    }
+  ,
+    {
+      "id": 16,
+      "name_category": "Do'a",
+      "title": "16. Do'a Ketika Ada Petir",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">سُبْحَانَ الَّذِيْ يُسَبِّحُ الرَّعْدُ بِحَمِدِهِ وَالْمَلاَئِكَةُ مِنْ خِيْفَتِهِ</p>\n<br />\n<p class='text_ltr'>\"Subhaanalladzi yusabbihur ra’du bihamdihi wal malaaikatu min khiifatihi”.</p>\n<br />\n<p>Maha Suci Allah yang halilintar bertasbih dengan memujiNya, begitu juga para malaikat, karena takut kepadaNya.\"</p>"
+    }
+  ,
+    {
+      "id": 17,
+      "name_category": "Do'a",
+      "title": "17. Do'a Ketika Bercermin",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَلْحَمْدُ ِللهِ، كَمَا حَسَّنْتَ خَلْقِىْ فَحَسّنْ خُلُقِىْ</p>\n<br />\n<p class='text_ltr'>\"AL-HAMDULILLAAHI KAMAA HASSANTA KHOLQII FAHASSIN KHULUQII\"</p>\n<br />\n      <p>Segala puji bagi Allah, baguskanlah budi pekertiku sebagaimana Engkau telah membaguskan rupa wajahku</p>"
+    }
+  ,
+    {
+      "id": 18,
+      "name_category": "Do'a",
+      "title": "18. Do'a Ketika Bersin",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">اَلْحَمْدُ ِللهِ</p>\n<br />\n<p class='text_ltr'>\"AL-HAMDU LILLAAHI\"</p>\n<br />\n      <p>Segala Puji Bagi Allah</p>"
+    }
+  ,
+    {
+      "id": 19,
+      "name_category": "Do'a",
+      "title": "19. Do'a Ketika Turun Hujan",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">أَللَّهُمَّ صَيِّباً نَافِعاً</p>\n<br />\n      <p>ALLOHUMMA SHOYYIBAN NAAFI'AAN</p>\n\t  <br />\n\t  <p>Ya Alloh jadikanlah hujan yang turun ini lebat dan membawa manfaat.</p>\n"
+    }
+  ,
+    {
+      "id": 20,
+      "name_category": "Do'a",
+      "title": "20. Do'a Ketika Menghadapi Kesulitan",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">للَّهُمَّ لا سَهْلَ إِلاَّ مَا جَعَلْتَهُ سَهْلاً وَ أَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلاً</p>\n<br />\n<p class='text_ltr'>\"Allaahumma Laa Sahla Illaa Maa Ja’altahu Sahlaa Wa Anta Taj’alul Hazna Idza Syi’ta Sahlaa \"</p>\n<br />\n\t  <p>\"Ya Allah, tidak ada kemudahan kecuali apa yang Engkau jadikan mudah. Dan apabila Engkau berkehendak, Engkau akan menjadikan kesusahan menjadi kemudahan\"</p>\n"
+    }
+  ,
+    {
+      "id": 21,
+      "name_category": "Do'a",
+      "title": "21. Do'a Melihat Keindahan Alam",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">رَبَّنَا مَا خَلَقْتَ هَذا بَاطِلاً سُبْحَانَكَ فَقِنَا عَذَابَ النَّارِ</p>\n<br />\n<p class='text_ltr'>\"ROBBANAA MAAKHALAQTA HAADZAA BAATHILAN SUBHAANAKA FAQINAA ‘ADZAABAN NAAR\"</p>\n<br />\n      <p>Ya Tuhan kami, tiadalah Engkau menciptakan ini dengan sia-sia, Maha Suci Engkau, maka peliharalah kami dari siksa neraka</p>\n"
+    }
+  ,
+    {
+      "id": 22,
+      "name_category": "Do'a",
+      "title": "22. Do'a Memohon Kebaikan Dunia dan Akhirat",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ</p>\n<br />\n<p class='text_ltr'>\"Robbanaa atinaa fid dunyaa hasanah wa fil aakhiroti hasanah waqinaa azabannaar\"</p>\n<br />\n      <p>Ya Allah,berilah kami kebaikan di dunia dan kebaikan di akhirat, serta selamatkanlah kami dari siksa neraka.</p>"
+    }
+  ,
+    {
+      "id": 23,
+      "name_category": "Do'a",
+      "title": "23. Doa Memperkuat Iman",
+      "image": "file:///android_asset/image/Do'a.jpg",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p class=\"arab\" style=\"text-align: right;\">رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ</p>\n<br />\n<p class='text_ltr'>\"RABBANA INNANA AMANNA FAGFIR LANA ZUNUBANA WA QINA ‘AZABAN-NAR.\"</p>\n<br />\n      <p>Ya Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah dosa-dosa kami dan lindungilah kami dari siksa neraka</p>"
     }
   ]
 }
