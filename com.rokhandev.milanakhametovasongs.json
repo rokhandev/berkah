@@ -30,73 +30,544 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Best Song",
+      "name_category": "Anis Kembang",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Branjangan",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Cendet",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 4,
+      "name_category": "Cililin",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 5,
+      "name_category": "Cucak Rowo",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 6,
+      "name_category": "Kacer",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Lovebird",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 8,
+      "name_category": "Pelatuk",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 9,
+      "name_category": "Pleci",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 10,
+      "name_category": "Poksay",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 11,
+      "name_category": "Sirtu",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 12,
+      "name_category": "Tengkek Buto",
       "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Best Song",
-      "title": "LP",
+      "name_category": "Anis Kembang",
+      "title": "Anis Kembang 1",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/LPnormal.mp3",
-      "lyrics": "<p>Krestiki noliki, dve Milany v domike<br />Ukatilis' dazhe shariki za roliki<br />Uly-ulybayemsya, razgonyaya tuchki<br />Lyudi obzyvayutsya, chto my dve pochemuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga</p>\n<p>LP</p>\n<p>Eniki-beniki, v yutube i na teleke<br />My tik-tok dovodim topy do isteriki<br />Srazu vse vlyublyayutsya, kogda khochu na ruchki<br />Lyudi obzyvayutsya, chto my kak dve lipuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga<br />LP</p>\n<p>U nas s toboy svoy Disney<br />Nam ne nado kukol<br />Povsyudu za mnoy vezde<br />Moya luchshaya podruga<br />LP</p>"
+      "link_mp3": "Kicau/anis_1.mp3",
+      "lyrics": ""
     },
     {
       "id": 2,
-      "name_category": "Best Song",
-      "title": "LP (Speed Up)",
+      "name_category": "Anis Kembang",
+      "title": "Anis Kembang 2",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/LPSpeed.mp3",
-      "lyrics": "<p>Krestiki noliki, dve Milany v domike<br />Ukatilis' dazhe shariki za roliki<br />Uly-ulybayemsya, razgonyaya tuchki<br />Lyudi obzyvayutsya, chto my dve pochemuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga</p>\n<p>LP</p>\n<p>Eniki-beniki, v yutube i na teleke<br />My tik-tok dovodim topy do isteriki<br />Srazu vse vlyublyayutsya, kogda khochu na ruchki<br />Lyudi obzyvayutsya, chto my kak dve lipuchki</p>\n<p>Otputi, ne putyu, no komu ya govoryu<br />Ne putyu ved' ya lyublyu svoyu luchshuyu podrugu<br />Otputi, ne putyu, no komu ya govoryu<br />Ne putyu, ved' ya lyublyu, navsegda my drug dlya druga<br />LP</p>\n<p>U nas s toboy svoy Disney<br />Nam ne nado kukol<br />Povsyudu za mnoy vezde<br />Moya luchshaya podruga<br />LP</p>"
+      "link_mp3": "Kicau/anis_2.mp3",
+      "lyrics": ""
     },
     {
       "id": 3,
-      "name_category": "Best Song",
-      "title": "Vozdushnyy potseluy",
+      "name_category": "Anis Kembang",
+      "title": "Anis Kembang 3",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/Vozdushnyy.mp3",
-      "lyrics": "<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Kak ty? Gde ty? Ne zvonish', ne pishesh' <br />Mozhet, bol'she menya ne khochesh' slyshat' <br />Ili ne mozhesh' priznat'sya, chto bol'she ne drug <br />A ya ne podruga</p>\n<p>Snova vecher, ya ishchu glazami <br />Vdrug ya vstrechu, a v otvet molchaniye <br />Ili obnimesh' i skazhesh', kak sil'no skuchal <br />A ya oshibalas' (Oy)</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Skol'ko mozhno mne zvonit' vpustuyu? <br />Yesli b tol'ko znal, kak ya toskuyu <br />S kazhdoy minutoy vse chuvstva moi lish' sil'ney <br />Ty dazhe ne znayesh'</p>\n<p>Sprosyat snova, chto so mnoy, podrugi <br />No ya skroyu o nashey razluke <br />A ty s tsvetami okliknesh' menya za spinoy <br />Malaya, malaya</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozdushnyy potseluy <br />I ya tebe otvechu: Eto vzaimno <br />Ved' vse, chto vokrug, menya ne volnuyet <br />Volnuyet, ved' ya tebya lavki sil'no</p>\n<p>Prishli mne vozd&hellip;</p>"
+      "link_mp3": "Kicau/anis_3.mp3",
+      "lyrics": ""
     },
     {
       "id": 4,
-      "name_category": "Best Song",
-      "title": "Nechego Nadet",
+      "name_category": "Anis Kembang",
+      "title": "Anis Kembang 4",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/Nechego.mp3",
-      "lyrics": "<p>Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget'</p>\n<p>Guchi, fendi, lui, prada, vzglyad tigritsy, vse, kak nado <br />YA napyalyu na sebya samyy modnyy shmot <br />Chtoby kazhdyy obernulsya i otkryl svoy rot <br />Mogu ya pered zerkalom chasami vozit'sya <br />Ved' ya zhe ni kakaya-to &mdash; ya svetskaya l'vitsa</p>\n<p>Khochu ya v trende byt' i super stil'no vyglyadet' <br />No yest' odna problema &mdash; mne nechego nadet' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget'</p>\n<p>Svet, moy instagram skazhi, tru infu mne dolozhi <br />Kto zdes' samaya krutaya bez nakrutov, bezo lzhi <br />Vse otvety znayu ya zadolgo napered <br />Svoim vidom plavlyu boyev, kak gorelka led <br />Po sravneniyu so mnoyu fashion week polova <br />Yesli na menya vzglyanul, schitay ty zakoldovan <br />Moy shkaf pokhozh skoreye na konteyner iz <br />Kitaya V odnom i tom zhe dvazhdy ne khozhu &mdash; da, ya takaya</p>\n<p>Khochu ya v trende byt' i super stil'no vyglyadet' <br />No yest' odna problema &mdash; mne nechego nadet' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget' <br />Mne snova nechego nadet', ofiget', ofiget' <br />Mne snova nechego nadet', ofiget'</p>"
+      "link_mp3": "Kicau/anis_4.mp3",
+      "lyrics": ""
     },
     {
       "id": 5,
-      "name_category": "Best Song",
-      "title": "Odin Doma",
+      "name_category": "Anis Kembang",
+      "title": "Anis Kembang 5",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/Odin.mp3",
-      "lyrics": "<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Provozhayu staryy god, vklyuchayu staryy fil'm <br />\"Sluzhebnyy roman\", po Pervomu efir <br />YA znayu napered &mdash; segodnya k devyati <br />Ozhidayetsya zvonok, ya uzhe u dveri</p>\n<p>O-o-o, seledka pod shuboy <br />O-o-o, solenyye guby <br />O-o-o, krutyye plastinki <br />O-o-o, nachalas' vecherinka</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Na sankakh s gorki, den' byl dolgiy <br />A vecherom s babuley ya postoyu u yelki <br />Istochnik teksty-pesenok.ru <br />Krasivyye girlyandy, snezhinki i igolki <br />My budem tantsevat', poka ne ustanut nogi</p>\n<p>O-o-o, salyut i khlopushki <br />O-o-o, krutyye igrushki <br />O-o-o, ya tak lyublyu eto <br />O-o-o, shar zelenogo tsveta</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>\n<p>Doma ya odin, kak Makoley Kalkin <br />Snezhinki vyrezayu pryamo iz tetradki <br />Pushistaya yelka, po teliku Galkin <br />Sobralis' rodnyye, otkryvayem podarki</p>"
+      "link_mp3": "Kicau/anis_5.mp3",
+      "lyrics": ""
     },
     {
       "id": 6,
-      "name_category": "Best Song",
-      "title": "S Dnem Rozhdeniya",
+      "name_category": "Branjangan",
+      "title": "Branjangan 1",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/Rozhdeniya.mp3",
-      "lyrics": "<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>Pochemu vstala tak rano, pochemu tantsuyu <br />Moya mama stala mamoy, idi, potseluyu <br />Bez yelki, no vezde podarki tol'ko mne odnoy <br />Oy, nu a Umka vot ved' darit vsem svoyu lyubov'</p>\n<p>Khorovodyat khorovod, ottaskali za ushi <br />Zhalko, chto vsego raz v god starshe stali malyshi <br />YA zaduyu svechi, ikh uzhe tak mnogo <br />Mama, podari, nu podari yedinoroga</p>\n<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Vokrug vse ulybayutsya i letayut shariki<br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>\n<p>S dnem rozhdeniya tebya <br />Ty zaduyesh' svechi, na tortike fonariki <br />Mama s papoy govoryat <br />Segodnya ty bol'shaya, khotya vchera byla malen'koy</p>"
+      "link_mp3": "Kicau/branjangan_1.mp3",
+      "lyrics": ""
     },
     {
       "id": 7,
-      "name_category": "Best Song",
-      "title": "UMKA",
+      "name_category": "Branjangan",
+      "title": "Branjangan 2",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/UMKA.mp3",
-      "lyrics": "<p>Ot ulybki pobegut murashki <br />V volosakh romashki ruki obnimashki <br />Zaletayet v trendy khit chetveroklashki <br />V tantse kryshu uneset i otorvet tormashki</p>\n<p>Gubki bantikom, brovki domikom <br />Letyat layki pod kazhdym rolikom <br />Sporim, kazhdyy ulybnetsya dazhe yesli zlyuka <br />Ved' ya vsya takaya, ved' ya vsya takaya</p>\n<p>Umka, umka, umka <br />La-la-la-la-layki menya lyubyat <br />I v tiki-tiko-tok ya v rek povsyudu <br />Ved' ya snimayu kruto, kruto, kruto</p>\n<p>Khot' i malyutka umka <br />YA vsya takaya umka <br />YA vsya takaya umka <br />Umka, umka <br />Umka, umka, umka <br />YA vsya takaya umka</p>\n<p>Grust' astalavista, vremya veselit'sya <br />Mezhdu nami iskry, prilipli tvoi pal'tsy <br />Moy TikTok kak barbariska</p>\n<p>Eto ot moyey ulybki tayali ledyshki <br />Kak murashki, naperegonki, bez peredyshki <br />Razuchu tebya grustit', dazhe yesli buka <br />Ved' ya vsya takaya, ved' ya vsya takaya</p>\n<p>Umka, umka, umka <br />La-la-la-la-layki menya lyubyat <br />I v tiki-tiko-tok ya v rek povsyudu <br />Ved' ya snimayu kruto, kruto, kruto</p>\n<p>Khot' i malyutka umka <br />YA vsya takaya umka <br />YA vsya takaya umka <br />Umka, umka <br />Umka, umka, umka <br />YA vsya takaya umka</p>\n<p>Khot' i malyutka umka <br />La-la-la-la-layki menya lyubyat <br />I v tiki-tiko-tok ya v rek povsyudu <br />Ved' ya snimayu kruto, kruto, kruto</p>\n<p>Khot' i malyutka umka <br />YA vsya takaya umka <br />YA vsya takaya umka <br />Umka, umka<br />Umka, umka, umka <br />YA vsya takaya umka <br />Umka, umka <br />YA vsya takaya umka <br />Menya lyubyat <br />YA vsya takaya umka <br />Umka, umka <br />Ved' ya snimayu <br />Umka, umka, umka <br />YA vsya takaya umka</p>"
+      "link_mp3": "Kicau/branjangan_2.mp3",
+      "lyrics": ""
     },
     {
       "id": 8,
-      "name_category": "Best Song",
-      "title": "Hit",
+      "name_category": "Branjangan",
+      "title": "Branjangan 3",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "MilanaKhametova/Hit.mp3",
+      "link_mp3": "Kicau/branjangan_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Branjangan",
+      "title": "Branjangan 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/branjangan_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Branjangan",
+      "title": "Branjangan 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/branjangan_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Cendet",
+      "title": "Cendet 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cendet_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "Cendet",
+      "title": "Cendet 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cendet_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Cendet",
+      "title": "Cendet 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cendet_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Cendet",
+      "title": "Cendet 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cendet_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Cendet",
+      "title": "Cendet 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cendet_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Cililin",
+      "title": "Cililin 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cil_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Cililin",
+      "title": "Cililin 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cil_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Cililin",
+      "title": "Cililin 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cil_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Cililin",
+      "title": "Cililin 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cil_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Cililin",
+      "title": "Cililin 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cil_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Cucak Rowo",
+      "title": "Cucak Rowo 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cuc_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Cucak Rowo",
+      "title": "Cucak Rowo 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cuc_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Cucak Rowo",
+      "title": "Cucak Rowo 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cuc_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Cucak Rowo",
+      "title": "Cucak Rowo 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cuc_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Cucak Rowo",
+      "title": "Cucak Rowo 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/cuc_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Kacer",
+      "title": "Kacer 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/kac_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Kacer",
+      "title": "Kacer 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/kac_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Kacer",
+      "title": "Kacer 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/kac_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Kacer",
+      "title": "Kacer 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/kac_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Kacer",
+      "title": "Kacer 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/kac_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Lovebird",
+      "title": "Lovebird 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/lov_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Lovebird",
+      "title": "Lovebird 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/lov_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Lovebird",
+      "title": "Lovebird 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/lov_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Lovebird",
+      "title": "Lovebird 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/lov_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Lovebird",
+      "title": "Lovebird 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/lov_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Pelatuk",
+      "title": "Pelatuk 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pelatuk_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Pelatuk",
+      "title": "Pelatuk 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pelatuk_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Pelatuk",
+      "title": "Pelatuk 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pelatuk_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Pelatuk",
+      "title": "Pelatuk 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pelatuk_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Pelatuk",
+      "title": "Pelatuk 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pelatuk_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Pleci",
+      "title": "Pleci 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pleci_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Pleci",
+      "title": "Pleci 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pleci_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Pleci",
+      "title": "Pleci 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pleci_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Pleci",
+      "title": "Pleci 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pleci_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Pleci",
+      "title": "Pleci 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pleci_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Poksay",
+      "title": "Poksay 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pok_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Poksay",
+      "title": "Poksay 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pok_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Poksay",
+      "title": "Poksay 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pok_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Poksay",
+      "title": "Poksay 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pok_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Poksay",
+      "title": "Poksay 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/pok_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Sirtu",
+      "title": "Sirtu 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/sirtu_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Sirtu",
+      "title": "Sirtu 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/sirtu_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Sirtu",
+      "title": "Sirtu 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/sirtu_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Sirtu",
+      "title": "Sirtu 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/sirtu_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Sirtu",
+      "title": "Sirtu 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/sirtu_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Tengkek Buto",
+      "title": "Tengkek Buto 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/teng_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Tengkek Buto",
+      "title": "Tengkek Buto 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/teng_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Tengkek Buto",
+      "title": "Tengkek Buto 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/teng_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Tengkek Buto",
+      "title": "Tengkek Buto 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/teng_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Tengkek Buto",
+      "title": "Tengkek Buto 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "Kicau/teng_5.mp3",
       "lyrics": ""
     }
   ]
