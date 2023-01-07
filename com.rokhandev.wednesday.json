@@ -1,0 +1,183 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Wednesday Songs",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Wednesday Songs",
+      "title": "Paint It Black viola",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_1.mp3",
+      "lyrics": "<div>\n<div class=\"ujudUb\"><span class=\"yKMVIe\" role=\"heading\" aria-level=\"1\">Paint It, Black</span></div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a line of cars<br aria-hidden=\"true\" />And they're all painted black<br aria-hidden=\"true\" />With flowers and my love<br aria-hidden=\"true\" />Both never to come back</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I've seen people turn their heads<br aria-hidden=\"true\" />And quickly look away<br aria-hidden=\"true\" />Like a newborn baby<br aria-hidden=\"true\" />It just happens everyday</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I look inside myself<br aria-hidden=\"true\" />And see my heart is black<br aria-hidden=\"true\" />I see my red door<br aria-hidden=\"true\" />I must have it painted black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">Maybe then, I'll fade away<br aria-hidden=\"true\" />And not have to face the facts<br aria-hidden=\"true\" />It's not easy facing up<br aria-hidden=\"true\" />When your whole world is black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">No more will my green sea<br aria-hidden=\"true\" />Go turn a deeper blue<br aria-hidden=\"true\" />I could not foresee this thing<br aria-hidden=\"true\" />Happening to you</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">If I look hard enough<br aria-hidden=\"true\" />Into the setting sun<br aria-hidden=\"true\" />My love will laugh with me<br aria-hidden=\"true\" />Before the morning comes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb WRZytc\">I wanna see it painted<br aria-hidden=\"true\" />Painted black<br aria-hidden=\"true\" />Black as night<br aria-hidden=\"true\" />Black as coal</div>\n<div class=\"ujudUb WRZytc\"><br aria-hidden=\"true\" />I wanna see the sun<br aria-hidden=\"true\" />Blotted out from the sky<br aria-hidden=\"true\" />I wanna see it painted, painted, painted<br aria-hidden=\"true\" />Painted black, yeah</div>\n</div>\n</div>"
+    },
+    {
+      "id": 2,
+      "name_category": "Wednesday Songs",
+      "title": "Bloody Mary piano",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_2.mp3",
+      "lyrics": "<p><strong>\"Bloody Mary\"</strong><br /><br /></p>\n<div>Money<br />Oh<br /><br />Love is just a history that they may prove<br />And when you're gone<br />I'll tell them my religion's you<br />When Punktious comes to kill the king upon his throne<br />I'm ready for their stones<br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />We are not just art for Michelangelo to carve<br />He can't rewrite the agro of my furied heart<br />I'll wait on mountain tops in Paris, cold<br />J'veux pas mourir toute seule<br /><em>[English translation: \"I don't want to die alone\"]</em><br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br /><br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br /><br />I won't cry for you<br />I won't crucify the things you do, do, do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />L&iacute;berate, mi amor<br /><em>[English translation: \"Oh, free my Love\"]</em></div>"
+    },
+    {
+      "id": 3,
+      "name_category": "Wednesday Songs",
+      "title": "Bloody Mary rap",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_3.mp3",
+      "lyrics": "<p><strong>\"Bloody Mary\"</strong><br /><br /></p>\n<div>Money<br />Oh<br /><br />Love is just a history that they may prove<br />And when you're gone<br />I'll tell them my religion's you<br />When Punktious comes to kill the king upon his throne<br />I'm ready for their stones<br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />We are not just art for Michelangelo to carve<br />He can't rewrite the agro of my furied heart<br />I'll wait on mountain tops in Paris, cold<br />J'veux pas mourir toute seule<br /><em>[English translation: \"I don't want to die alone\"]</em><br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br /><br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br /><br />I won't cry for you<br />I won't crucify the things you do, do, do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />L&iacute;berate, mi amor<br /><em>[English translation: \"Oh, free my Love\"]</em></div>"
+    },
+    {
+      "id": 4,
+      "name_category": "Wednesday Songs",
+      "title": "Cello Scene song",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_4.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 5,
+      "name_category": "Wednesday Songs",
+      "title": "Dance Scene song",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_5.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 6,
+      "name_category": "Wednesday Songs",
+      "title": "Enid Sings A Song",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_6.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 7,
+      "name_category": "Wednesday Songs",
+      "title": "If I Be Wrong",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_7.mp3",
+      "lyrics": "<p>If I Be Wrong</p>\n<p>What if I&rsquo;m wrong, what if I&rsquo;ve lied<br />What if I&rsquo;ve dragged you here to my own dark night<br />And what if I know, what if I see<br />There is a crack run right down the front of me</p>\n<p>What if they&rsquo;re right, what if we&rsquo;re wrong<br />What if I&rsquo;ve lured you here with a siren song?</p>\n<p>But if I be wrong, if I be right<br />Let me be here with you tonight</p>\n<p>Ten thousand cars, ten thousand trains<br />There are ten thousand roads to run away</p>\n<p>But I am not lost, I am not found<br />I am not Dylan&rsquo;s wife, not Cohen&rsquo;s hound</p>\n<p>But if I be wrong, if I be right<br />Let me be here with you tonight</p>\n<p>And what if I can&rsquo;t, what if I can<br />What if I&rsquo;m just an ordinary man</p>\n<p>If there is a will, there is a way<br />I will escape for sure, I am David Blane</p>\n<p>But if I be wrong, if I be right<br />Let me be here with you<br />If I be wrong, if I be right<br />Let me stay here in your arms tonight<br />And I have been wrong, I have been right<br />I have been both these things all in the same night<br />So if I be wrong, if I be right<br />Let me here, with you, tonight.</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "Wednesday Songs",
+      "title": "Bloody Mary Remix",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_8.mp3",
+      "lyrics": "<p><strong>\"Bloody Mary\"</strong><br /><br /></p>\n<div>Money<br />Oh<br /><br />Love is just a history that they may prove<br />And when you're gone<br />I'll tell them my religion's you<br />When Punktious comes to kill the king upon his throne<br />I'm ready for their stones<br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />We are not just art for Michelangelo to carve<br />He can't rewrite the agro of my furied heart<br />I'll wait on mountain tops in Paris, cold<br />J'veux pas mourir toute seule<br /><em>[English translation: \"I don't want to die alone\"]</em><br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br /><br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br /><br />I won't cry for you<br />I won't crucify the things you do, do, do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />L&iacute;berate, mi amor<br /><em>[English translation: \"Oh, free my Love\"]</em></div>"
+    },
+    {
+      "id": 9,
+      "name_category": "Wednesday Songs",
+      "title": "Bloody Mary Remix Boom",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_9.mp3",
+      "lyrics": "<p><strong>\"Bloody Mary\"</strong><br /><br /></p>\n<div>Money<br />Oh<br /><br />Love is just a history that they may prove<br />And when you're gone<br />I'll tell them my religion's you<br />When Punktious comes to kill the king upon his throne<br />I'm ready for their stones<br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />We are not just art for Michelangelo to carve<br />He can't rewrite the agro of my furied heart<br />I'll wait on mountain tops in Paris, cold<br />J'veux pas mourir toute seule<br /><em>[English translation: \"I don't want to die alone\"]</em><br /><br />I'll dance, dance, dance<br />With my hands, hands, hands<br />Above my head, head, head<br />Like Jesus said<br />I'm gonna dance, dance, dance<br />With my hands, hands, hands above my head<br />Hands together, forgive him before he's dead, because<br /><br />I won't cry for you<br />I won't crucify the things you do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Love<br /><br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br />Gaga, Gaga<br /><br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da<br />Dum dum, da-di-da-dadda-da-di-da<br />Dum dum, da-di-da<br /><br />I won't cry for you<br />I won't crucify the things you do, do, do<br />I won't cry for you<br />See (see), when you're gone, I'll still be Bloody Mary<br /><br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />Oh-oh-oh-oh-oh<br />L&iacute;berate, mi amor<br /><em>[English translation: \"Oh, free my Love\"]</em></div>"
+    },
+    {
+      "id": 10,
+      "name_category": "Wednesday Songs",
+      "title": "Paint It Black guitar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_10.mp3",
+      "lyrics": "<div>\n<div class=\"ujudUb\"><span class=\"yKMVIe\" role=\"heading\" aria-level=\"1\">Paint It, Black</span></div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a line of cars<br aria-hidden=\"true\" />And they're all painted black<br aria-hidden=\"true\" />With flowers and my love<br aria-hidden=\"true\" />Both never to come back</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I've seen people turn their heads<br aria-hidden=\"true\" />And quickly look away<br aria-hidden=\"true\" />Like a newborn baby<br aria-hidden=\"true\" />It just happens everyday</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I look inside myself<br aria-hidden=\"true\" />And see my heart is black<br aria-hidden=\"true\" />I see my red door<br aria-hidden=\"true\" />I must have it painted black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">Maybe then, I'll fade away<br aria-hidden=\"true\" />And not have to face the facts<br aria-hidden=\"true\" />It's not easy facing up<br aria-hidden=\"true\" />When your whole world is black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">No more will my green sea<br aria-hidden=\"true\" />Go turn a deeper blue<br aria-hidden=\"true\" />I could not foresee this thing<br aria-hidden=\"true\" />Happening to you</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">If I look hard enough<br aria-hidden=\"true\" />Into the setting sun<br aria-hidden=\"true\" />My love will laugh with me<br aria-hidden=\"true\" />Before the morning comes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb WRZytc\">I wanna see it painted<br aria-hidden=\"true\" />Painted black<br aria-hidden=\"true\" />Black as night<br aria-hidden=\"true\" />Black as coal</div>\n<div class=\"ujudUb WRZytc\"><br aria-hidden=\"true\" />I wanna see the sun<br aria-hidden=\"true\" />Blotted out from the sky<br aria-hidden=\"true\" />I wanna see it painted, painted, painted<br aria-hidden=\"true\" />Painted black, yeah</div>\n</div>\n</div>"
+    },
+    {
+      "id": 11,
+      "name_category": "Wednesday Songs",
+      "title": "Paint It Black song",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_11.mp3",
+      "lyrics": "<div>\n<div class=\"ujudUb\"><span class=\"yKMVIe\" role=\"heading\" aria-level=\"1\">Paint It, Black</span></div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a line of cars<br aria-hidden=\"true\" />And they're all painted black<br aria-hidden=\"true\" />With flowers and my love<br aria-hidden=\"true\" />Both never to come back</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I've seen people turn their heads<br aria-hidden=\"true\" />And quickly look away<br aria-hidden=\"true\" />Like a newborn baby<br aria-hidden=\"true\" />It just happens everyday</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I look inside myself<br aria-hidden=\"true\" />And see my heart is black<br aria-hidden=\"true\" />I see my red door<br aria-hidden=\"true\" />I must have it painted black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">Maybe then, I'll fade away<br aria-hidden=\"true\" />And not have to face the facts<br aria-hidden=\"true\" />It's not easy facing up<br aria-hidden=\"true\" />When your whole world is black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">No more will my green sea<br aria-hidden=\"true\" />Go turn a deeper blue<br aria-hidden=\"true\" />I could not foresee this thing<br aria-hidden=\"true\" />Happening to you</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">If I look hard enough<br aria-hidden=\"true\" />Into the setting sun<br aria-hidden=\"true\" />My love will laugh with me<br aria-hidden=\"true\" />Before the morning comes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb WRZytc\">I wanna see it painted<br aria-hidden=\"true\" />Painted black<br aria-hidden=\"true\" />Black as night<br aria-hidden=\"true\" />Black as coal</div>\n<div class=\"ujudUb WRZytc\"><br aria-hidden=\"true\" />I wanna see the sun<br aria-hidden=\"true\" />Blotted out from the sky<br aria-hidden=\"true\" />I wanna see it painted, painted, painted<br aria-hidden=\"true\" />Painted black, yeah</div>\n</div>\n</div>"
+    },
+	{
+      "id": 12,
+      "name_category": "Wednesday Songs",
+      "title": "Playing The Cello",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_12.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 13,
+      "name_category": "Wednesday Songs",
+      "title": "Addams Song",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_13.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 14,
+      "name_category": "Wednesday Songs",
+      "title": "True Love",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_14.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 15,
+      "name_category": "Wednesday Songs",
+      "title": "Wednesday Song",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_15.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 16,
+      "name_category": "Wednesday Songs",
+      "title": "Cello Theme Guitar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_16.mp3",
+      "lyrics": "Sorry, song lyrics are not available at the moment"
+    },
+    {
+      "id": 17,
+      "name_category": "Wednesday Songs",
+      "title": "If I Be Wrong cover",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_17.mp3",
+      "lyrics": "<p>If I Be Wrong</p>\n<p>What if I&rsquo;m wrong, what if I&rsquo;ve lied<br />What if I&rsquo;ve dragged you here to my own dark night<br />And what if I know, what if I see<br />There is a crack run right down the front of me</p>\n<p>What if they&rsquo;re right, what if we&rsquo;re wrong<br />What if I&rsquo;ve lured you here with a siren song?</p>\n<p>But if I be wrong, if I be right<br />Let me be here with you tonight</p>\n<p>Ten thousand cars, ten thousand trains<br />There are ten thousand roads to run away</p>\n<p>But I am not lost, I am not found<br />I am not Dylan&rsquo;s wife, not Cohen&rsquo;s hound</p>\n<p>But if I be wrong, if I be right<br />Let me be here with you tonight</p>\n<p>And what if I can&rsquo;t, what if I can<br />What if I&rsquo;m just an ordinary man</p>\n<p>If there is a will, there is a way<br />I will escape for sure, I am David Blane</p>\n<p>But if I be wrong, if I be right<br />Let me be here with you<br />If I be wrong, if I be right<br />Let me stay here in your arms tonight<br />And I have been wrong, I have been right<br />I have been both these things all in the same night<br />So if I be wrong, if I be right<br />Let me here, with you, tonight.</p>"
+    },
+    {
+      "id": 18,
+      "name_category": "Wednesday Songs",
+      "title": "Paint it Black Electric",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "wednesday/wednes_18.mp3",
+      "lyrics": "<div>\n<div class=\"ujudUb\"><span class=\"yKMVIe\" role=\"heading\" aria-level=\"1\">Paint It, Black</span></div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a line of cars<br aria-hidden=\"true\" />And they're all painted black<br aria-hidden=\"true\" />With flowers and my love<br aria-hidden=\"true\" />Both never to come back</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I've seen people turn their heads<br aria-hidden=\"true\" />And quickly look away<br aria-hidden=\"true\" />Like a newborn baby<br aria-hidden=\"true\" />It just happens everyday</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I look inside myself<br aria-hidden=\"true\" />And see my heart is black<br aria-hidden=\"true\" />I see my red door<br aria-hidden=\"true\" />I must have it painted black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">Maybe then, I'll fade away<br aria-hidden=\"true\" />And not have to face the facts<br aria-hidden=\"true\" />It's not easy facing up<br aria-hidden=\"true\" />When your whole world is black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">No more will my green sea<br aria-hidden=\"true\" />Go turn a deeper blue<br aria-hidden=\"true\" />I could not foresee this thing<br aria-hidden=\"true\" />Happening to you</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">If I look hard enough<br aria-hidden=\"true\" />Into the setting sun<br aria-hidden=\"true\" />My love will laugh with me<br aria-hidden=\"true\" />Before the morning comes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see a red door<br aria-hidden=\"true\" />And I want it painted black<br aria-hidden=\"true\" />No colors anymore<br aria-hidden=\"true\" />I want them to turn black</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb\">I see the girls walk by<br aria-hidden=\"true\" />Dressed in their summer clothes<br aria-hidden=\"true\" />I have to turn my head<br aria-hidden=\"true\" />Until my darkness goes</div>\n<div class=\"ujudUb\">&nbsp;</div>\n<div class=\"ujudUb WRZytc\">I wanna see it painted<br aria-hidden=\"true\" />Painted black<br aria-hidden=\"true\" />Black as night<br aria-hidden=\"true\" />Black as coal</div>\n<div class=\"ujudUb WRZytc\"><br aria-hidden=\"true\" />I wanna see the sun<br aria-hidden=\"true\" />Blotted out from the sky<br aria-hidden=\"true\" />I wanna see it painted, painted, painted<br aria-hidden=\"true\" />Painted black, yeah</div>\n</div>\n</div>"
+    }
+  ]
+}
