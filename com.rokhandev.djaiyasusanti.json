@@ -30,19 +30,19 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "image": "file:///android_asset/image/check.jpg"
     },
 	{
       "id": 2,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ MAPOPO MBONA WAMESHA SYALALA",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_1.mp3",
@@ -50,7 +50,7 @@
     },
     {
       "id": 2,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ TUHAN BANTU AKU TUK LULUHKAN DIA",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_2.mp3",
@@ -58,7 +58,7 @@
     },
     {
       "id": 3,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ SHINE OVER ME x MUKA KAYA KINGKONG",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_3.mp3",
@@ -66,7 +66,7 @@
     },
     {
       "id": 4,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ RUNGKAD ENTEK-ENTEK'AN",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_4.mp3",
@@ -74,7 +74,7 @@
     },
     {
       "id": 5,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ IH ABANG JAHAT AKU TUH CINTA BERAT",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_5.mp3",
@@ -82,7 +82,7 @@
     },
     {
       "id": 6,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ GET OUT MY FACE",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_6.mp3",
@@ -90,7 +90,7 @@
     },
     {
       "id": 7,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ EL PERDON X MELODY VIRAL",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_7.mp3",
@@ -98,7 +98,7 @@
     },
     {
       "id": 8,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ CARE BEBEK JEGEG BULAN",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_8.mp3",
@@ -106,7 +106,7 @@
     },
     {
       "id": 9,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ YO NDAK MAMPU AKU DUDU SPEK IDAMANMU",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_9.mp3",
@@ -114,7 +114,7 @@
     },
     {
       "id": 10,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ Abang Banting Dedek Bang",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_10.mp3",
@@ -122,7 +122,7 @@
     },
     {
       "id": 11,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "KARA BORUTO x WELCOME TO SAHARA",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_11.mp3",
@@ -130,7 +130,7 @@
     },
 	{
       "id": 12,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ WHAT YOU COME X TEKI GAN PARGOY",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_12.mp3",
@@ -138,7 +138,7 @@
     },
     {
       "id": 13,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ PELUKLAH TUBUHKU KECUP KENINGKU",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_13.mp3",
@@ -146,7 +146,7 @@
     },
     {
       "id": 14,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ IKAN DI DALAM KOLAM REMIX",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_14.mp3",
@@ -154,7 +154,7 @@
     },
     {
       "id": 15,
-      "name_category": "Daftar 1",
+      "name_category": "PLAYLIST 1",
       "title": "DJ CLOSE YOUR EYES x TEKI TEKI GAM GAM",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_15.mp3",
@@ -162,7 +162,7 @@
     },
     {
       "id": 16,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ CAK CULAY NABUY NABUY",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_16.mp3",
@@ -170,7 +170,7 @@
     },
     {
       "id": 17,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ AND NO ONE KNOW JEDAG JEDUG",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_17.mp3",
@@ -178,7 +178,7 @@
     },
     {
       "id": 18,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ TOLONGLAH AKU DARI KEHAMPAAN INI",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_18.mp3",
@@ -186,7 +186,7 @@
     },
     {
       "id": 19,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ SATU RASA CINTA REMIX",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_19.mp3",
@@ -194,7 +194,7 @@
     },
     {
       "id": 20,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ RUNTAH REMIX",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_20.mp3",
@@ -202,7 +202,7 @@
     },
     {
       "id": 21,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ MAKE IT BUMDEM X HIDING HALA HIDING",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_21.mp3",
@@ -210,7 +210,7 @@
     },
     {
       "id": 22,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ HAYYA HAYYA BETTER TOGETHER REMIX",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_22.mp3",
@@ -218,7 +218,7 @@
     },
     {
       "id": 23,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ DALINDA",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_23.mp3",
@@ -226,7 +226,7 @@
     },
     {
       "id": 24,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ MUKA MU MANIS SEPERTI GULA LEMON KECAP ABC",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_24.mp3",
@@ -234,7 +234,7 @@
     },
     {
       "id": 25,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ Ben De Yoluma Giderim",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_25.mp3",
@@ -242,7 +242,7 @@
     },
     {
       "id": 26,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ ISTILAH KATA JEDAG JEDUG",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_26.mp3",
@@ -250,7 +250,7 @@
     },
     {
       "id": 27,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "Dj Ghost Jedag Jedug",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_27.mp3",
@@ -258,7 +258,7 @@
     },
     {
       "id": 28,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ BEBASKAN DIRIKU",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_28.mp3",
@@ -266,7 +266,7 @@
     },
     {
       "id": 29,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ TRUMPET NARCO",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_29.mp3",
@@ -274,7 +274,7 @@
     },
     {
       "id": 30,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ SIPAK NANDO NANDO MEYDEN",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_30.mp3",
@@ -282,7 +282,7 @@
     },
     {
       "id": 31,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ Ojo Dibandingke Remix",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_31.mp3",
@@ -290,7 +290,7 @@
     },
     {
       "id": 32,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ MUNGKIN SEKARANG KAU MASIH BERBAHAGIA",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_32.mp3",
@@ -298,7 +298,7 @@
     },
     {
       "id": 33,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "Dj Aiya Susanti",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_33.mp3",
@@ -306,7 +306,7 @@
     },
     {
       "id": 34,
-      "name_category": "Daftar 2",
+      "name_category": "PLAYLIST 2",
       "title": "DJ DEVIL INSIDE ME",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "susanto/aiya_34.mp3",
