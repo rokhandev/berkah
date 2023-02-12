@@ -1,0 +1,833 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737x2",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ESSAM SAASA",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 1,
+      "name_category": "ESSAM SAASA",
+      "image": "file:///android_asset/image/check2.jpg"
+    },
+	{
+      "id": 1,
+      "name_category": "ESSAM SAASA",
+      "image": "file:///android_asset/image/check3.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان احنا الجيزاوية - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان تعبت من الايام - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "ESSAM SAASA",
+      "title": "اه يا بخته اللي يزاملني - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان قلبي في خطر - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان امى ينن عينى - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اموت فى القشطة - عصام صاصا و احمد موزه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان  خمسه استرلينى - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان قرب تعلالى - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان خلصانه معاكو بشياكه - سامر المدنى وعصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان كاره حياتي - نور التوت و عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان جامده اوي وسطها فيبريشن - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان كله سابني بقيت لوحدي - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان قسى وجراح - عصام صاصا واحمد نافع",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان هدي في قلبك طلقه - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اعذرنى هبعد وغصب عنى - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان يا غزال - عصام صاصا و سامرالمدنى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اصحالى فوقلى (كل يوم بسكر) - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان نفسى افرح - عصام صاصا وسامر المدنى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان  سلامات سلامات - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان قد اى حد - عصام صاصا و سامر المدنى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اعداء كتير ( قالوا فلاتي ) - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "ESSAM SAASA",
+      "title": "انا بعشقني اوي يابا (تعبان انا مين قدرني) - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان دنيا غريبه - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "ESSAM SAASA",
+      "title": "قلبى ناسى قاسى - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان لو قلبك جايبك هات حبايبك - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مساكو بلون قلوبكم - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان منجاية بلدى - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اية الحكاية فى المرايا - مسلم و عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "ESSAM SAASA",
+      "title": "بعشق امك يا روح امك (يا شاب سفن اب) - عصام صاصا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ياكوين ولابسه تاج - عصام صاصا و سامر المدنى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "mp3/musik_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان جاي يظيط - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان وسط دموع وجراح - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان زمان كان ليكو هيبه - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "ESSAM SAASA",
+      "title": "واقع وسط العقارب ( انا عارف اني بابا ) - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان هوا انت مين انا اللي تايه بين خاينين - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان قنبلة يخربيتك مشكله - عصام صاصا الكروان",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان كله فارق حاله طوارئ - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مسجل ارقام اصحابي - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان دنيا معفره ( هم جالي ومش في بالي ) - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ممنوع حد يقرب منك - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اللهم كانسر يسكن اللي كرهني - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان طب بوم طخ طخ طخ - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان صحي الاخصام بطلقه - حمو بيكا و عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان دنيا زيطه (قلبي انا ابيض قلبك اسود) - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "ESSAM SAASA",
+      "title": "شايف عيال محدثه - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان شكل المجال خرف - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مع احترامي ليكو - علي قدوره وعصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان هل تعلم ان المصلحه - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ايوا احتليت كوكب كونتر - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان لما اخويا حبيبي غاب - معاذ موزه و عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مات قلبي ومليش اخوات - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_51.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اللي باعنا مش تبعنا - عصام صاصا الكروان",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_52.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان يلا نفتح الحساب - احمد موزه و عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_53.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اللي خان طار في الدخان - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_54.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مليون سلام علي اللي جم عليا - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_55.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اسمع حضرت يابني انا جيت - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان بين صحابي عشت ادور ع الاصيل - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_57.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان لو يحتاجوني رن رن - عصام صاصا و حمو الطيخا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_58.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان تعالي شوف في ايه يا صديق - عصام صاصا و حمو الطيخا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان محدش يقولي ياخويا - عصام صاصا",
+      "image": "file:///android_asset/image/check2.jpg",
+      "link_mp3": "mp3/musik_57.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان شايف بط وغمزت غمزة - الجوكر و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_61.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان تكرهلي الخير هكره امك - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_62.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اسلكو بقي يخربيتكو - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_63.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان معرفش اخاف من حد - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_64.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان العيال علي ايدها سلعه - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_65.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان انا مش انا (وحيد وحيد و مفيش جديد) - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_66.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان انا اسف اعذريني - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_67.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ورق خلا قلوب الناس تتحرق - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_68.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان من سنين بتخان - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_69.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ضحكتونى ياللى فارقتونى - حمو الطيخا و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_70.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 71,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مبقتش حبيبك يا حبيبتي - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_71.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان طز في صحابي الاندال - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_72.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان بغرق علي بحر ندالة - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_73.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان انا اكتر واحد ع الارض شايل جواه هموم - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_74.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان انتي زي الماندولينا - حمو بيكا و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_75.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان بهواك يا ابو قلب بلاك - كيمو الديب و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_76.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان علشان مين تبعوني ( الدنيا دي بقت كرهاني ) - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_77.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 78,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان كانو ملمومين حواليا - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_78.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان حبك عشقك يا موزتي ( بص يا ابو الهبل ) - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_79.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اه لو دول اصحاب - حلقولو و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_80.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 81,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان احنا اللي مننا التراب بجد اشتكي - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_81.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان خلق افترت ( كيت كات دي غير كل البنات ) - علي قدوره و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_82.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان زمايلى اتغيرو معايا - معاذ موزه وعصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_83.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اسف علشان حبيتك - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_84.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 85,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان فاتح مدارس صيط تعالو اتصيطو - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_85.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان حبيتها وبقيت بعشق حضرتها - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_86.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان كوبايه لاتيه ده حبيبي - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_87.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اسد ومجنن الاشبال - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_88.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان مفيش براحه ولا راحه - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_89.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان جت الحكومه قمت مالص - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_90.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 91,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان شحططه صنف الحريم مرمطه - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_91.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 92,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ميت انا مش عارفني - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_92.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان شبح و اي خصم ادبح - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_93.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان اي حد شطانو ساقو ( ماي وايف وام عيالي ) عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_94.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان ندمان عارف يا باشا - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_95.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان عايشها لوحدى - عصام صاصا وشواحه و سامر المدنى",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_96.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "ESSAM SAASA",
+      "title": "مهرجان بكايا في عينهم جميل - عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_97.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "ESSAM SAASA",
+      "title": "اون فاير - عنبه و عصام صاصا",
+      "image": "file:///android_asset/image/check3.jpg",
+      "link_mp3": "mp3/musik_98.mp3",
+      "lyrics": ""
+    }
+  ]
+}
