@@ -1,0 +1,279 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978xxx",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173xxx",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97xxx",
+      "backup_ads_intertitial":"518cd97722c60xxx",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "ابو القاسم ود دوبا",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "ساكن جنبنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "بتحرن",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "يا زول يا زول",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "يابلوم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "الدكتوره",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "قالو لي عرسك قريب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "امشي ليها يا القريه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "الفزاله",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "غرامك ولع النيران",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "ام سماح تعالي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "مادام خلاص خطبو",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song11.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "انا عيني حليلن",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song12.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 13,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "الزيتونه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "الشوق يا عسل",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "عذاب الريد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "زولي الوحيد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "يابلوم امشيلو",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "بتحرن",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "شيل همومي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "فرع البانه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "نوحن يا قماري",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "تل تل قطع القلوب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "بريدو انا الحب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "العب يا صفير",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "تل تل قطع القلوب تل",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "ود امي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "تل طق طق دا ض",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "المسرح القومي كوستي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "ربي قاسم لي اتالم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "ابو القاسم ود دوبا",
+      "title": "ولع ولع",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "qasim/song30.mp3",
+      "lyrics": ""
+    }
+  ]
+}
