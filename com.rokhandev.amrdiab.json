@@ -1,0 +1,391 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "عمرو دياب",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "عمرو دياب",
+      "title": "أحلى ونص",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "عمرو دياب",
+      "title": "أماكن السهر",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "عمرو دياب",
+      "title": "أنا غير",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "عمرو دياب",
+      "title": "أنت الحظ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "عمرو دياب",
+      "title": "أهه أهه   اهي اهي",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "عمرو دياب",
+      "title": "إتقل وراضي   اعلان بيبسي",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "عمرو دياب",
+      "title": "الجو جميل",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "عمرو دياب",
+      "title": "الدنيا الحلوة   اعلان باديا",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "عمرو دياب",
+      "title": "الدنيا بترقص   اعلان فودافون",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "عمرو دياب",
+      "title": "انت مغرور ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "عمرو دياب",
+      "title": "اول يوم في البعد",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_11.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "عمرو دياب",
+      "title": "اول يوم في البعد ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "عمرو دياب",
+      "title": "ببتدي م الزيرو",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "عمرو دياب",
+      "title": "بحبو",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "عمرو دياب",
+      "title": "تحيرك",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "عمرو دياب",
+      "title": "حلو التغيير",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "عمرو دياب",
+      "title": "خلى الحجر ينطق ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "عمرو دياب",
+      "title": "ده لو اتساب",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "عمرو دياب",
+      "title": "رايقة",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "عمرو دياب",
+      "title": "روح",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "عمرو دياب",
+      "title": "زي ما انتي",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "عمرو دياب",
+      "title": "سهران",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "عمرو دياب",
+      "title": "شكرا",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "عمرو دياب",
+      "title": "عايز أعمل زيك",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "عمرو دياب",
+      "title": "عودوني",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "عمرو دياب",
+      "title": "فاكرني ياحب",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "عمرو دياب",
+      "title": "قدام مرايتها",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "عمرو دياب",
+      "title": "كتر من قربك",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "عمرو دياب",
+      "title": "كل حياتي",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "عمرو دياب",
+      "title": "كنت في بالي ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "عمرو دياب",
+      "title": "لو بتحب",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "عمرو دياب",
+      "title": "مالك غيران",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "عمرو دياب",
+      "title": "متغير",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "عمرو دياب",
+      "title": "محسود",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "عمرو دياب",
+      "title": "معدى الناس",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "عمرو دياب",
+      "title": "مكانك في قلبي",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "عمرو دياب",
+      "title": "نغمة الحرمان ",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "عمرو دياب",
+      "title": "هدد",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "عمرو دياب",
+      "title": "هيعيش يفتكرني",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "عمرو دياب",
+      "title": "يا اجمل عيون",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "عمرو دياب",
+      "title": "يا بلدنا يا حلوة",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "عمرو دياب",
+      "title": "يا روقانك",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "عمرو دياب",
+      "title": "يتعلموا",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "عمرو دياب",
+      "title": "يوم تلات",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/ram_44.mp3",
+      "lyrics": ""
+    }
+  ]
+}
