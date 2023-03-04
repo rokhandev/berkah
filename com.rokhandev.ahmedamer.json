@@ -30,241 +30,73 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "احمد عامر",
+      "name_category": "Mahrajanat",
       "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "احمد عامر",
-      "title": "بيعهم يشتروك",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 1",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_1.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Uw6nQfrIMMmTFCnCFYz9HtIXt_-ybcBG",
       "lyrics": ""
     },
     {
       "id": 2,
-      "name_category": "احمد عامر",
-      "title": "طبعه غريب",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 2",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_2.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1mGuExh0XuPIcdxuz_cmkB5qvhoZQwQQM",
       "lyrics": ""
     },
     {
       "id": 3,
-      "name_category": "احمد عامر",
-      "title": "مستغناش عن حبك",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 3",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_3.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1G-rSxBya9py7XeYdtjbZUH3uRP4BXFzq",
       "lyrics": ""
     },
     {
       "id": 4,
-      "name_category": "احمد عامر",
-      "title": "متستاهلوش",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 4",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_4.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1iWG09ei3TRTz_Ncj3EuTkGMsG0Psu1NV",
       "lyrics": ""
     },
     {
       "id": 5,
-      "name_category": "احمد عامر",
-      "title": "كدبة أنت",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 5",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_5.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1rh0mv7K5HHlBJB-TwPWhiWeSM6brpGTv",
       "lyrics": ""
     },
     {
       "id": 6,
-      "name_category": "احمد عامر",
-      "title": "أخر الزمن",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 6",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_6.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=13lJhNhImrDnl7ZtabI5Ve21P5rqA0O6U",
       "lyrics": ""
     },
     {
       "id": 7,
-      "name_category": "احمد عامر",
-      "title": "حبك صالحني",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 7",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_7.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1YbLKhqxss8Vd8QLCqsmEVwx0KrZ49KO-",
       "lyrics": ""
     },
     {
       "id": 8,
-      "name_category": "احمد عامر",
-      "title": "إنتي وانا",
+      "name_category": "Mahrajanat",
+      "title": "DJRemix 8",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_8.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 9,
-      "name_category": "احمد عامر",
-      "title": "لما الأصل بيظهر",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_9.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 10,
-      "name_category": "احمد عامر",
-      "title": "قالي قلبي لاء",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_10.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 11,
-      "name_category": "احمد عامر",
-      "title": "عالم جاحده",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_11.mp3",
-      "lyrics": ""
-    },
-	{
-      "id": 12,
-      "name_category": "احمد عامر",
-      "title": "زارع وردك يشبهلك",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_12.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 13,
-      "name_category": "احمد عامر",
-      "title": "بعدك مش هيموتني",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_13.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 14,
-      "name_category": "احمد عامر",
-      "title": "أضحك يا حظ",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_14.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 15,
-      "name_category": "احمد عامر",
-      "title": "بتبعد عني",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_15.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 16,
-      "name_category": "احمد عامر",
-      "title": "صحاب ناقصه",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_16.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 17,
-      "name_category": "احمد عامر",
-      "title": "جرحونا",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_17.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 18,
-      "name_category": "احمد عامر",
-      "title": "يا عيني عليكي",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_18.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 19,
-      "name_category": "احمد عامر",
-      "title": "حياتي روح قلبي انا",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_19.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 20,
-      "name_category": "احمد عامر",
-      "title": "وليه طيب",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_20.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 21,
-      "name_category": "احمد عامر",
-      "title": "يا زارع وردك يشبهلك",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_21.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 22,
-      "name_category": "احمد عامر",
-      "title": "نور العيون يا شاغلني",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_22.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 23,
-      "name_category": "احمد عامر",
-      "title": "ابقى افتكرني",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_23.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 24,
-      "name_category": "احمد عامر",
-      "title": "علي مهلك",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_24.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 25,
-      "name_category": "احمد عامر",
-      "title": "ليك عين تبكي",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_25.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 26,
-      "name_category": "احمد عامر",
-      "title": "السبع له هيبة",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_26.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 27,
-      "name_category": "احمد عامر",
-      "title": "يا مالك قلبي بالهوا",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_27.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 28,
-      "name_category": "احمد عامر",
-      "title": "عزيز النفس",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_28.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 29,
-      "name_category": "احمد عامر",
-      "title": "انا مش شايفكوا",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "ahmed/amer_29.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1dwEuX84EPpj4FUtUDz5uNH1WkWshlROi",
       "lyrics": ""
     }
   ]
