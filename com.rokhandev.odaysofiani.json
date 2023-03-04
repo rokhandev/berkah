@@ -1,0 +1,199 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "زوامل عدي السفياني",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "زوامل عدي السفياني",
+      "title": "اَخر محطة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "زوامل عدي السفياني",
+      "title": "إني قريب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "زوامل عدي السفياني",
+      "title": "ما به خلاف الناس عند الله سواى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "زوامل عدي السفياني",
+      "title": "غدر الذياب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "زوامل عدي السفياني",
+      "title": "اقوى زامل جديد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "زوامل عدي السفياني",
+      "title": "ياعز من قال المؤمن التقوى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "زوامل عدي السفياني",
+      "title": "زامل عدى السفياني",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "زوامل عدي السفياني",
+      "title": "اترك الهم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "زوامل عدي السفياني",
+      "title": "الفصول اربعه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "زوامل عدي السفياني",
+      "title": "التجربة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "زوامل عدي السفياني",
+      "title": "الصبر ياقلبي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "زوامل عدي السفياني",
+      "title": "إني قريب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "زوامل عدي السفياني",
+      "title": "حبال الأطماع",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "زوامل عدي السفياني",
+      "title": "زامل لا عشق كل حد خله",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "زوامل عدي السفياني",
+      "title": "فرصة سعيدة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "زوامل عدي السفياني",
+      "title": "زامل اترك الهم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "زوامل عدي السفياني",
+      "title": "مابه خلاف",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "زوامل عدي السفياني",
+      "title": "كافح وكافح وكافح",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "زوامل عدي السفياني",
+      "title": "قدك داري",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "زوامل عدي السفياني",
+      "title": "فرصة سعيدة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "uday/al_20.mp3",
+      "lyrics": ""
+    }
+  ]
+}
