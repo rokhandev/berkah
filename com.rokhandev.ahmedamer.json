@@ -30,73 +30,49 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Mahrajanat",
+      "name_category": "احمد عامر",
       "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 1",
+      "name_category": "احمد عامر",
+      "title": "بيعهم يشتروك",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1Uw6nQfrIMMmTFCnCFYz9HtIXt_-ybcBG",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1tWNlnAtn_tljqZ6ozSVWYP-zhNYOvR-O",
       "lyrics": ""
     },
     {
       "id": 2,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 2",
+      "name_category": "احمد عامر",
+      "title": "طبعه غريب",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1mGuExh0XuPIcdxuz_cmkB5qvhoZQwQQM",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1n1N3WItuv6LwvI7eJ7LedyMTKGDDVXZY",
       "lyrics": ""
     },
     {
       "id": 3,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 3",
+      "name_category": "احمد عامر",
+      "title": "مستغناش عن حبك",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1G-rSxBya9py7XeYdtjbZUH3uRP4BXFzq",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1k-5tt1CpofCMp2g9GrDtxOnLle9fDeOR",
       "lyrics": ""
     },
     {
       "id": 4,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 4",
+      "name_category": "احمد عامر",
+      "title": "متستاهلوش",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1iWG09ei3TRTz_Ncj3EuTkGMsG0Psu1NV",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1O-UQFnqfOSvvs1UNsO_UDJtDzjASUY93",
       "lyrics": ""
     },
     {
       "id": 5,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 5",
+      "name_category": "احمد عامر",
+      "title": "كدبة أنت",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1rh0mv7K5HHlBJB-TwPWhiWeSM6brpGTv",
-      "lyrics": ""
-    },
-    {
-      "id": 6,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 6",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=13lJhNhImrDnl7ZtabI5Ve21P5rqA0O6U",
-      "lyrics": ""
-    },
-    {
-      "id": 7,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 7",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1YbLKhqxss8Vd8QLCqsmEVwx0KrZ49KO-",
-      "lyrics": ""
-    },
-    {
-      "id": 8,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 8",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1dwEuX84EPpj4FUtUDz5uNH1WkWshlROi",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Nf0kEmim4iisG0duegUv74Vi7joP4bg_",
       "lyrics": ""
     }
   ]
