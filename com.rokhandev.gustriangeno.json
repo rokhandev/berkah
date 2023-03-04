@@ -30,73 +30,49 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Mahrajanat",
+      "name_category": "Gustrian Geno",
       "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 1",
+      "name_category": "Gustrian Geno",
+      "title": "Aia Mato Mande",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1Uw6nQfrIMMmTFCnCFYz9HtIXt_-ybcBG",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1t3--oo5sXzyWCEDYvsKHF2HJAAx0nBAr",
       "lyrics": ""
     },
     {
       "id": 2,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 2",
+      "name_category": "Gustrian Geno",
+      "title": "Aku Ingin Bahagia",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1mGuExh0XuPIcdxuz_cmkB5qvhoZQwQQM",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1ZPwydwk7MxGRFjO6SGAuleNND6ANqe71",
       "lyrics": ""
     },
     {
       "id": 3,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 3",
+      "name_category": "Gustrian Geno",
+      "title": "Ba Ayah Ka Ayah Urang",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1G-rSxBya9py7XeYdtjbZUH3uRP4BXFzq",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Pyh5RsrlDP-wSfGmIjCI7fANLRohKeyG",
       "lyrics": ""
     },
     {
       "id": 4,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 4",
+      "name_category": "Gustrian Geno",
+      "title": "Balada Anak Rantau",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1iWG09ei3TRTz_Ncj3EuTkGMsG0Psu1NV",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1D5xF4RyYdb3HlkQYqfQuNzcF1uqBPE95",
       "lyrics": ""
     },
     {
       "id": 5,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 5",
+      "name_category": "Gustrian Geno",
+      "title": "Berbeza Kasta",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1rh0mv7K5HHlBJB-TwPWhiWeSM6brpGTv",
-      "lyrics": ""
-    },
-    {
-      "id": 6,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 6",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=13lJhNhImrDnl7ZtabI5Ve21P5rqA0O6U",
-      "lyrics": ""
-    },
-    {
-      "id": 7,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 7",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1YbLKhqxss8Vd8QLCqsmEVwx0KrZ49KO-",
-      "lyrics": ""
-    },
-    {
-      "id": 8,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 8",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1dwEuX84EPpj4FUtUDz5uNH1WkWshlROi",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=12zILf7z3xJaCnhfXJjqHXV2KAqHKIT9r",
       "lyrics": ""
     }
   ]
