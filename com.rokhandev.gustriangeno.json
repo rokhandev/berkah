@@ -40,7 +40,7 @@
       "name_category": "Gustrian Geno",
       "title": "Aia Mato Mande",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1t3--oo5sXzyWCEDYvsKHF2HJAAx0nBAr",
+      "link_mp3": "gustrian/geno_1.mp3",
       "lyrics": ""
     },
     {
@@ -48,7 +48,7 @@
       "name_category": "Gustrian Geno",
       "title": "Aku Ingin Bahagia",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1ZPwydwk7MxGRFjO6SGAuleNND6ANqe71",
+      "link_mp3": "gustrian/geno_2.mp3",
       "lyrics": ""
     },
     {
@@ -56,7 +56,7 @@
       "name_category": "Gustrian Geno",
       "title": "Ba Ayah Ka Ayah Urang",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1Pyh5RsrlDP-wSfGmIjCI7fANLRohKeyG",
+      "link_mp3": "gustrian/geno_3.mp3",
       "lyrics": ""
     },
     {
@@ -64,7 +64,7 @@
       "name_category": "Gustrian Geno",
       "title": "Balada Anak Rantau",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1D5xF4RyYdb3HlkQYqfQuNzcF1uqBPE95",
+      "link_mp3": "gustrian/geno_4.mp3",
       "lyrics": ""
     },
     {
@@ -72,7 +72,215 @@
       "name_category": "Gustrian Geno",
       "title": "Berbeza Kasta",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=12zILf7z3xJaCnhfXJjqHXV2KAqHKIT9r",
+      "link_mp3": "gustrian/geno_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Gustrian Geno",
+      "title": "Bunga Sakura",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Gustrian Geno",
+      "title": "Dek Ulah Pitih",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Gustrian Geno",
+      "title": "Gagal Merangkai Hati",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Gustrian Geno",
+      "title": "Hanya Bisa Merelakan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Gustrian Geno",
+      "title": "Hatimu Bukan Milikku",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Gustrian Geno",
+      "title": "Ibu",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Gustrian Geno",
+      "title": "Jaso Mande",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Gustrian Geno",
+      "title": "Kasihmu Oh Ibu",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Gustrian Geno",
+      "title": "Katiko Sanak Ado Kandaknyo",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Gustrian Geno",
+      "title": "Kesetiaan Tiada Arti",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Gustrian Geno",
+      "title": "Ku Puja Puja",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Gustrian Geno",
+      "title": "Maafkan Aku Kasih",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Gustrian Geno",
+      "title": "Masih Bertahan Untukmu",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Gustrian Geno",
+      "title": "Percuma",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Gustrian Geno",
+      "title": "Pergi Untuk Kembali",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Gustrian Geno",
+      "title": "Perjanjian Dusta",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Gustrian Geno",
+      "title": "Rela Menanggung Luka",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Gustrian Geno",
+      "title": "Salah Menilai",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Gustrian Geno",
+      "title": "Seharusnya Aku",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Gustrian Geno",
+      "title": "Selamat Pagi Luka",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Gustrian Geno",
+      "title": "Selamat Tinggal",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Gustrian Geno",
+      "title": "Sia Sia Mengharap Cintamu",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Gustrian Geno",
+      "title": "Sinyal Cinta",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Gustrian Geno",
+      "title": "Tak Pantas Kurindukan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Gustrian Geno",
+      "title": "Tak Sanggup Lagi Bertahan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Gustrian Geno",
+      "title": "Tega Dirimu Ayah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "gustrian/geno_31.mp3",
       "lyrics": ""
     }
   ]
