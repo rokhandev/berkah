@@ -1,0 +1,681 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Klakson 1",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Klakson 2",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "Klakson 3",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Klakson 1",
+      "title": "Telolet 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Klakson 1",
+      "title": "Telolet 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Klakson 1",
+      "title": "Telolet 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Klakson 1",
+      "title": "Telolet 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Klakson 1",
+      "title": "Telolet 5",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Klakson 1",
+      "title": "Telolet 6",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Klakson 1",
+      "title": "Telolet 7",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Klakson 1",
+      "title": "Telolet 8",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Klakson 1",
+      "title": "Telolet 9",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Klakson 1",
+      "title": "Telolet 10",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Klakson 1",
+      "title": "Telolet 11",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Klakson 1",
+      "title": "Telolet 12",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Klakson 1",
+      "title": "Telolet 13",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Klakson 1",
+      "title": "Telolet 14",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Klakson 1",
+      "title": "Telolet 15",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Klakson 1",
+      "title": "Telolet 16",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Klakson 1",
+      "title": "Telolet 17",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Klakson 1",
+      "title": "Telolet 18",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Klakson 1",
+      "title": "Telolet 19",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Klakson 1",
+      "title": "Telolet 20",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Klakson 1",
+      "title": "Telolet 21",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Klakson 1",
+      "title": "Telolet 22",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Klakson 1",
+      "title": "Telolet 23",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Klakson 1",
+      "title": "Telolet 24",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Klakson 1",
+      "title": "Telolet 25",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Klakson 1",
+      "title": "Telolet 26",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Klakson 1",
+      "title": "Telolet 27",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Klakson 1",
+      "title": "Telolet 28",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Klakson 1",
+      "title": "Telolet 29",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Klakson 1",
+      "title": "Telolet 30",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Klakson 2",
+      "title": "Telolet 31",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Klakson 2",
+      "title": "Telolet 32",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Klakson 2",
+      "title": "Telolet 33",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Klakson 2",
+      "title": "Telolet 34",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Klakson 2",
+      "title": "Telolet 35",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Klakson 2",
+      "title": "Telolet 36",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Klakson 2",
+      "title": "Telolet 37",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Klakson 2",
+      "title": "Telolet 38",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Klakson 2",
+      "title": "Telolet 39",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Klakson 2",
+      "title": "Telolet 40",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Klakson 2",
+      "title": "Telolet 41",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Klakson 2",
+      "title": "Telolet 42",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Klakson 2",
+      "title": "Telolet 43",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Klakson 2",
+      "title": "Telolet 44",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Klakson 2",
+      "title": "Telolet 45",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Klakson 2",
+      "title": "Telolet 46",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Klakson 2",
+      "title": "Telolet 47",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Klakson 2",
+      "title": "Telolet 48",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Klakson 2",
+      "title": "Telolet 49",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Klakson 2",
+      "title": "Telolet 50",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Klakson 2",
+      "title": "Telolet 51",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_51.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Klakson 2",
+      "title": "Telolet 52",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_52.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Klakson 2",
+      "title": "Telolet 53",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_53.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Klakson 2",
+      "title": "Telolet 54",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_54.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Klakson 2",
+      "title": "Telolet 55",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_55.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Klakson 2",
+      "title": "Telolet 56",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Klakson 2",
+      "title": "Telolet 57",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_57.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Klakson 2",
+      "title": "Telolet 58",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_58.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Klakson 2",
+      "title": "Telolet 56",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Klakson 2",
+      "title": "Telolet 57",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_57.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "Klakson 3",
+      "title": "Telolet 61",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_61.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "Klakson 3",
+      "title": "Telolet 62",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_62.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "Klakson 3",
+      "title": "Telolet 63",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_63.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "Klakson 3",
+      "title": "Telolet 64",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_64.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "Klakson 3",
+      "title": "Telolet 65",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_65.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "Klakson 3",
+      "title": "Telolet 66",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_66.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "Klakson 3",
+      "title": "Telolet 67",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_67.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "Klakson 3",
+      "title": "Telolet 68",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_68.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "Klakson 3",
+      "title": "Telolet 69",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_69.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "Klakson 3",
+      "title": "Telolet 70",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_70.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 71,
+      "name_category": "Klakson 3",
+      "title": "Telolet 71",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_71.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "Klakson 3",
+      "title": "Telolet 72",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_72.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "Klakson 3",
+      "title": "Telolet 73",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_73.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "Klakson 3",
+      "title": "Telolet 74",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_74.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "Klakson 3",
+      "title": "Telolet 75",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_75.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "Klakson 3",
+      "title": "Telolet 76",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_76.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "Klakson 3",
+      "title": "Telolet 77",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_77.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 78,
+      "name_category": "Klakson 3",
+      "title": "Telolet 78",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_78.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "Klakson 3",
+      "title": "Telolet 79",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "klakson/telolet_79.mp3",
+      "lyrics": ""
+    }
+  ]
+}
