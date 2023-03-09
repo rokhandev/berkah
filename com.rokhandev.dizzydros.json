@@ -40,7 +40,7 @@
       "name_category": "Dizzy Dros",
       "title": "Airmax",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_1.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1RlVr23vO8alDoI_Lm61kYF7Lcg7BNqq7",
       "lyrics": ""
     },
     {
@@ -48,7 +48,7 @@
       "name_category": "Dizzy Dros",
       "title": "Habeel",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_2.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1l6O_pDbsoWBd-aCTR3gjgU9DgC_eqaKO",
       "lyrics": ""
     },
     {
@@ -56,7 +56,7 @@
       "name_category": "Dizzy Dros",
       "title": "l Kora 7na Maliha",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_3.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1sTDpkoU7JwGY69cWMkhbqkSfQ9w9f5hC",
       "lyrics": ""
     },
     {
@@ -64,7 +64,7 @@
       "name_category": "Dizzy Dros",
       "title": "M3a l3echrane",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_4.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1DkB5vTEYf7Ee76C4P55o5BYKl9yTsa1a",
       "lyrics": ""
     },
     {
@@ -72,31 +72,7 @@
       "name_category": "Dizzy Dros",
       "title": "Moutanabbi",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_5.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 6,
-      "name_category": "Dizzy Dros",
-      "title": "Moutanabbi_v2",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_6.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 7,
-      "name_category": "Dizzy Dros",
-      "title": "Nota",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_7.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 8,
-      "name_category": "Dizzy Dros",
-      "title": "Redlbal",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "dizzy/dros_8.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Q5X1uPaeTkol7HXOWGSbEr94NRpKonDw",
       "lyrics": ""
     }
   ]
