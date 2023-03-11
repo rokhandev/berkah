@@ -1,0 +1,268 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "محمد عزت 1",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "محمد عزت 2",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "محمد عزت 1",
+      "title": "مش مرتاح",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "محمد عزت 1",
+      "title": "مشينا كتير ودوسنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "محمد عزت 1",
+      "title": "نسيتى اصلك",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "محمد عزت 1",
+      "title": "العيال كبرت علينا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "محمد عزت 1",
+      "title": "يا حزن عاوزك",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "محمد عزت 1",
+      "title": "بعد ابويا السند مين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "محمد عزت 1",
+      "title": "من بيت ابونا شبعانين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "محمد عزت 1",
+      "title": "قرصني الزمن",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "محمد عزت 1",
+      "title": "يامهاجر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "محمد عزت 1",
+      "title": "عجبي عليك يا زمان",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "محمد عزت 1",
+      "title": "يا دنيا حسي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "محمد عزت 1",
+      "title": "من صغري انا حظي قليل",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "محمد عزت 1",
+      "title": "حكم الزمان عليا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "محمد عزت 1",
+      "title": "كان ودى نلتقى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "محمد عزت 1",
+      "title": "يا بحر موجك عالي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "محمد عزت 2",
+      "title": "لينا اسم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "محمد عزت 2",
+      "title": "زعل القرايب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "محمد عزت 2",
+      "title": "يا قمر الزمان",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "محمد عزت 2",
+      "title": "خليني على بالك",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "محمد عزت 2",
+      "title": "في سن الشباب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "محمد عزت 2",
+      "title": "لو رحتي بضلى بقلبي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "محمد عزت 2",
+      "title": "خلينا ساكتين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "محمد عزت 2",
+      "title": "وصف الصبيه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "محمد عزت 2",
+      "title": "يا حمام بتنوح ليه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "محمد عزت 2",
+      "title": "يا طير",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "محمد عزت 2",
+      "title": "حبك لسه منستهوش",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "محمد عزت 2",
+      "title": "الرجوله",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "محمد عزت 2",
+      "title": "يا بختك ياللي صاحي الليل",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "music/ezat_28.mp3",
+      "lyrics": ""
+    }
+  ]
+}
