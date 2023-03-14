@@ -54,7 +54,7 @@
     {
       "id": 3,
       "name_category": "شيخ فاروق صابر",
-      "title": "سورة الرحمن-surat Al Rahman",
+      "title": "سورة الرحمن-Surat Ar Rahman",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "saber/farouk_3.mp3",
       "lyrics": ""
@@ -62,7 +62,7 @@
     {
       "id": 4,
       "name_category": "شيخ فاروق صابر",
-      "title": "سورة الضحى-surat Ad Duha",
+      "title": "سورة الضحى-Surat Ad Duha",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "saber/farouk_4.mp3",
       "lyrics": ""
@@ -70,7 +70,7 @@
     {
       "id": 5,
       "name_category": "شيخ فاروق صابر",
-      "title": "سُوۡرَةُ الطّارق-Surah al-Tariq",
+      "title": "سُوۡرَةُ الطّارق-Surat al-Tariq",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "saber/farouk_5.mp3",
       "lyrics": ""
@@ -78,7 +78,7 @@
     {
       "id": 6,
       "name_category": "شيخ فاروق صابر",
-      "title": "سورة العلق-Surah Al-Alaq",
+      "title": "سورة العلق-Surat Al-Alaq",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "saber/farouk_6.mp3",
       "lyrics": ""
@@ -86,7 +86,7 @@
     {
       "id": 7,
       "name_category": "شيخ فاروق صابر",
-      "title": "سورة الفجر-Surah Al-Fajr",
+      "title": "سورة الفجر-Surat Al-Fajr",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "saber/farouk_7.mp3",
       "lyrics": ""
