@@ -1,0 +1,332 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/10331737x2",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Daftar 1",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Daftar 2",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Daftar 1",
+      "title": "DJ Giginya Ompong 1",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Daftar 1",
+      "title": "DJ Giginya Ompong 2",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Daftar 1",
+      "title": "DJ SHINE OVER ME x MUKA KAYA KINGKONG",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Daftar 1",
+      "title": "DJ RUNGKAD ENTEK-ENTEK'AN",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Daftar 1",
+      "title": "DJ IH ABANG JAHAT AKU TUH CINTA BERAT",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Daftar 1",
+      "title": "DJ GET OUT MY FACE",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Daftar 1",
+      "title": "DJ EL PERDON X MELODY VIRAL",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Daftar 1",
+      "title": "DJ CARE BEBEK JEGEG BULAN",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Daftar 1",
+      "title": "DJ YO NDAK MAMPU AKU DUDU SPEK IDAMANMU",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Daftar 1",
+      "title": "DJ Abang Banting Dedek Bang",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Daftar 1",
+      "title": "KARA BORUTO x WELCOME TO SAHARA",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Daftar 1",
+      "title": "DJ WHAT YOU COME X TEKI GAN PARGOY",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Daftar 1",
+      "title": "DJ PELUKLAH TUBUHKU KECUP KENINGKU",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Daftar 1",
+      "title": "DJ IKAN DI DALAM KOLAM REMIX",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Daftar 1",
+      "title": "DJ CLOSE YOUR EYES x TEKI TEKI GAM GAM",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Daftar 2",
+      "title": "DJ CAK CULAY NABUY NABUY",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Daftar 2",
+      "title": "DJ AND NO ONE KNOW JEDAG JEDUG",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Daftar 2",
+      "title": "DJ TOLONGLAH AKU DARI KEHAMPAAN INI",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Daftar 2",
+      "title": "DJ SATU RASA CINTA REMIX",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Daftar 2",
+      "title": "DJ RUNTAH REMIX",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Daftar 2",
+      "title": "DJ MAKE IT BUMDEM X HIDING HALA HIDING",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Daftar 2",
+      "title": "DJ HAYYA HAYYA BETTER TOGETHER REMIX",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Daftar 2",
+      "title": "DJ DALINDA",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Daftar 2",
+      "title": "DJ MUKA MU MANIS SEPERTI GULA LEMON KECAP ABC",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Daftar 2",
+      "title": "DJ Ben De Yoluma Giderim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Daftar 2",
+      "title": "DJ ISTILAH KATA JEDAG JEDUG",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Daftar 2",
+      "title": "Dj Ghost Jedag Jedug",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Daftar 2",
+      "title": "DJ BEBASKAN DIRIKU",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Daftar 2",
+      "title": "DJ TRUMPET NARCO",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Daftar 2",
+      "title": "DJ SIPAK NANDO NANDO MEYDEN",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Daftar 2",
+      "title": "DJ Ojo Dibandingke Remix",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Daftar 2",
+      "title": "DJ MUNGKIN SEKARANG KAU MASIH BERBAHAGIA",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Daftar 2",
+      "title": "Dj Aiya Susanti",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Daftar 2",
+      "title": "DJ DEVIL INSIDE ME",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_34.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 35,
+      "name_category": "Daftar 2",
+      "title": "DJ MAPOPO MBONA WAMESHA SYALALA",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Daftar 2",
+      "title": "DJ TUHAN BANTU AKU TUK LULUHKAN DIA",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ompong/gigi_2.mp3",
+      "lyrics": ""
+    }
+  ]
+}
