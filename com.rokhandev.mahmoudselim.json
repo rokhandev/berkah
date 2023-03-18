@@ -32,11 +32,6 @@
       "id": 1,
       "name_category": "محمود سليم 1",
       "image": "file:///android_asset/image/check.jpg"
-    },
-	{
-      "id": 2,
-      "name_category": "محمود سليم 2",
-      "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
@@ -45,7 +40,7 @@
       "name_category": "محمود سليم 1",
       "title": "ياساكنه جوه عينى",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_1.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1_jRtrqme-6VPNgfnw4xI_N7K2NEhzH7r",
       "lyrics": ""
     },
     {
@@ -53,7 +48,7 @@
       "name_category": "محمود سليم 1",
       "title": "القلب الحديد",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_2.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1R8D1aMD1tsxjOWk-2hR6COi0t4KjJ259",
       "lyrics": ""
     },
     {
@@ -61,7 +56,7 @@
       "name_category": "محمود سليم 1",
       "title": "الصاحب الزين",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_3.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1jTPRY63EYSPURM2_N60VrI0HsHDfLpDV",
       "lyrics": ""
     },
     {
@@ -69,223 +64,7 @@
       "name_category": "محمود سليم 1",
       "title": "تعبنا والنفس طمت",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_4.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 5,
-      "name_category": "محمود سليم 1",
-      "title": "موال الصاحب",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_5.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 6,
-      "name_category": "محمود سليم 1",
-      "title": "موال البلكونه بيدلع",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_6.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 7,
-      "name_category": "محمود سليم 1",
-      "title": "زماني قاسي مرحمشي",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_7.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 8,
-      "name_category": "محمود سليم 1",
-      "title": "قلولى جرحك واعر",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_8.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 9,
-      "name_category": "محمود سليم 1",
-      "title": "شوفت اللى حصل يازمن",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_9.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 10,
-      "name_category": "محمود سليم 1",
-      "title": "يا صاحبى",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_10.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 11,
-      "name_category": "محمود سليم 1",
-      "title": "فتح بابة وندانى",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_11.mp3",
-      "lyrics": ""
-    },
-	{
-      "id": 12,
-      "name_category": "محمود سليم 1",
-      "title": "الحب الاولانى",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_12.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 13,
-      "name_category": "محمود سليم 1",
-      "title": "يا جرح فى ظهر الفرس",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_13.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 14,
-      "name_category": "محمود سليم 1",
-      "title": "شفت الى حصل",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_14.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 15,
-      "name_category": "محمود سليم 1",
-      "title": "يا وجع القرايب",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_15.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 16,
-      "name_category": "محمود سليم 1",
-      "title": "بطلنا مشي العيال",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_16.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 17,
-      "name_category": "محمود سليم 1",
-      "title": "وانا راجع من السفر",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_17.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 18,
-      "name_category": "محمود سليم 1",
-      "title": "تعبنا والنفس طمت",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_18.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 19,
-      "name_category": "محمود سليم 2",
-      "title": "معقولة بعد الحب",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_19.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 20,
-      "name_category": "محمود سليم 2",
-      "title": "محتاجة حبة",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_20.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 21,
-      "name_category": "محمود سليم 2",
-      "title": "يالى غواى السمع",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_21.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 22,
-      "name_category": "محمود سليم 2",
-      "title": "امين السبب ياعين",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_22.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 23,
-      "name_category": "محمود سليم 2",
-      "title": "يااجمل غزالة",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_23.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 24,
-      "name_category": "محمود سليم 2",
-      "title": "ياطالب السعد",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_24.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 25,
-      "name_category": "محمود سليم 2",
-      "title": "امانة يالى انت جاى",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_25.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 26,
-      "name_category": "محمود سليم 2",
-      "title": "انت غاوى علام",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_26.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 27,
-      "name_category": "محمود سليم 2",
-      "title": "قرصنى الزمان",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_27.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 28,
-      "name_category": "محمود سليم 2",
-      "title": "سكر مبيحليش",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_28.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 29,
-      "name_category": "محمود سليم 2",
-      "title": "ياقرايب تسند يابلاش",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_29.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 30,
-      "name_category": "محمود سليم 2",
-      "title": "ياحظ مالك",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_30.mp3",
-      "lyrics": ""
-    },
-    {
-      "id": 31,
-      "name_category": "محمود سليم 2",
-      "title": "البحر واحد",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "song/selim_31.mp3",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1oDbHkDKZNdT7d0CTkPS2yw3K0N3KV4Ek",
       "lyrics": ""
     }
   ]
