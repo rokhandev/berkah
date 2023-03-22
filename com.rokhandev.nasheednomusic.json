@@ -1,0 +1,588 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nasheed 1",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Nasheed 2",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Nasheed 1",
+      "title": "ابدا لن نحيد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Nasheed 1",
+      "title": "أبقى مسلما",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Nasheed 1",
+      "title": "ابكي على شام الهوى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Nasheed 1",
+      "title": "أحببتها مند الصغر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Nasheed 1",
+      "title": "أخي - وليد ابو زياد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Nasheed 1",
+      "title": "ادا كنت في نعمة فارعها",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Nasheed 1",
+      "title": "ادا ما قال لي ربي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Nasheed 1",
+      "title": "اراك تهيم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Nasheed 1",
+      "title": "أضيفيت",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Nasheed 1",
+      "title": "أغروي امرؤ",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Nasheed 1",
+      "title": "الا صلاتي - مشاري العفاسي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Nasheed 1",
+      "title": "الفكر يا انسان",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Nasheed 1",
+      "title": "ألقيت بين يديك السيف و القلم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Nasheed 1",
+      "title": "الله أكبر و انتهى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Nasheed 1",
+      "title": "المبحر في دكرياتي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Nasheed 1",
+      "title": "المصطفى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Nasheed 1",
+      "title": "أمتي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Nasheed 1",
+      "title": "انا العبد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Nasheed 1",
+      "title": "انا مالي فياش",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Nasheed 1",
+      "title": "انتم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Nasheed 1",
+      "title": "اننا الابطال",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Nasheed 1",
+      "title": "أوقعتني في حب ليلي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Nasheed 1",
+      "title": "ايا من يدعي الفهم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Nasheed 1",
+      "title": "تأمل انك يوما تتوب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Nasheed 1",
+      "title": "تدكرت الوقوف امام ربي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Nasheed 1",
+      "title": "تهون الحياة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Nasheed 1",
+      "title": "حنه ماهر زين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Nasheed 1",
+      "title": "رحلت الى بحار العشق",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Nasheed 1",
+      "title": "سوف أعود يا امي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Nasheed 1",
+      "title": "سوف نبقى هنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Nasheed 2",
+      "title": "سوف يمضي بنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Nasheed 2",
+      "title": "شكرا يا ربي شكرا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Nasheed 2",
+      "title": "شوق الليالي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Nasheed 2",
+      "title": "صبرا - ادريس أبكر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Nasheed 2",
+      "title": "صفى الله - ادريس ابكر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Nasheed 2",
+      "title": "ضحكت فقالوا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Nasheed 2",
+      "title": "غريب زماني",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Nasheed 2",
+      "title": "فداك العباد و جند شداد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Nasheed 2",
+      "title": "فرش التراب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Nasheed 2",
+      "title": "فليقولوا عن حجابي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Nasheed 2",
+      "title": "فما لنا بعد الفرح",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Nasheed 2",
+      "title": "فمحمد باقي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Nasheed 2",
+      "title": "قباب الحق خودتنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Nasheed 2",
+      "title": "قبل منامي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Nasheed 2",
+      "title": "قول الصوارم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Nasheed 2",
+      "title": "كالشمس حين ",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Nasheed 2",
+      "title": "كان في مصر أمير",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Nasheed 2",
+      "title": "كفاكي يا نفس",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Nasheed 2",
+      "title": "لا تحسب ان الدين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Nasheed 2",
+      "title": "ليس غير الله دائم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Nasheed 2",
+      "title": "ما هم بأمت أحمد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_51.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Nasheed 2",
+      "title": "ما و هنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_52.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Nasheed 2",
+      "title": "ماضي كسيف",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_53.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Nasheed 2",
+      "title": "متفائل و اليأس بالمرصاد",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_54.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Nasheed 2",
+      "title": "نجم التريا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_55.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Nasheed 2",
+      "title": "نحن مسلمون",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Nasheed 2",
+      "title": "وجي بالقران",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_57.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Nasheed 2",
+      "title": "وكن راضيا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_58.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Nasheed 2",
+      "title": "يا اخوتي مادا نقوم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Nasheed 2",
+      "title": "يا داكر الاصحاب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_57.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "Nasheed 2",
+      "title": "يا راحلين الى منى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_61.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "Nasheed 2",
+      "title": "يا رسول الله و قدوتنا",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_62.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "Nasheed 2",
+      "title": "يا رفيق الدرب",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_63.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "Nasheed 2",
+      "title": "يا كاتب التاريخ",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_64.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "Nasheed 2",
+      "title": "يا نجوم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_65.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "Nasheed 2",
+      "title": "ياسائلي عن عقيدتي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_66.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "Nasheed 2",
+      "title": "يتيم ليس لي أم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_67.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "Nasheed 2",
+      "title": "يوم تجتو كل امة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "nasheed/nash_68.mp3",
+      "lyrics": ""
+    }
+  ]
+}
