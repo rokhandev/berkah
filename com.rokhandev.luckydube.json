@@ -1,0 +1,444 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playlist 1",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Playlist 2",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Playlist 1",
+      "title": "Celebrate Life",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_1.mp3",
+      "lyrics": "<div>\n<div>We're living in the world<br />With a lot of crazy people<br />We're living in the world<br />With psychopaths<br />Everyone of them wants to rule<br />The world<br />Some people have the front row seat<br />At the top of the world<br />Some people have nothing but just a life<br />Problems are there left and right<br />Liars, cheaters, politicians and black stabbers<br />Making life a little bit more unbearable<br />It is a give or take world<br />So you got to take what you can when you can<br />Make the best of it. Wo!!<br />Say yeah!! Celebrate life<br />Say year!! Life is good.<br />We're living in the world<br />With demented people<br />There's a man standing on the edge of the bridge<br />Ready to end it all<br />Some people don't know what life is worth<br />Some people have the front row seat at the gates of hell<br />You could be having problems right now<br />But there's no problem worth your life<br />People fight to stay alive every day<br />Cause they know, life is worth more than worries.<br />So you got to take what you can when can<br />Make the best of it, Wo!! Ho!! Wo!! Ho!!<br />Say Yeah, yeah celebrate life<br />Say Yeah, yeah life is good.<br />Till fade.</div>\n</div>"
+    },
+    {
+      "id": 2,
+      "name_category": "Playlist 1",
+      "title": "Children in the Streets",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_2.mp3",
+      "lyrics": "<div>\n<div>Sitting by the door one morning<br />Looking at the children<br />Going to school, man<br />Then I thought about the ones in the streets<br />Moving up and down<br />Nowhere to go<br />No education, no future<br />Then I thought about their parents, man<br />Why do they suffer so much<br />If they have parents, why?<br />If you really don't want no children<br />Why do you have them?<br />If you really don't want no children, man<br />Why, why?<br />It's a cold winter, man<br />Moving bare-footed down Khilo street, man<br />His father is relaxing in the best bar in town<br />Asking them to fill up his glass, man<br />His mother is kissing on another man<br />If you really don't want no children<br />Why do you have them?<br />If you can't care for them<br />Why?</div>\n</div>"
+    },
+    {
+      "id": 3,
+      "name_category": "Playlist 1",
+      "title": "Crazy World",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_3.mp3",
+      "lyrics": "<div>\n<div>So far so good we still living today<br />But we don't know what tomorrow brings<br />In this crazy world people dying like flies every day<br />You read about it in the news but you don't believe it<br />You'll only know about it<br />When the man in the long dark coat<br />Knocks on your door<br />'Cause you're his next victim<br />As you are living in (living in) living in, (living in) this crazy world<br />I tell you we are living in (living in) we're living in (living in) this crazy world<br />We are living in (living in) are living in (living in) this crazy world<br />Tell you we're living in (living in) living in (living in) this crazy world<br />Leaders starting wars anytime they want<br />Some for their rights, some for fun and then their own glory (eh eh eh)<br />Letting people die for the wrong that they do<br />Oh it's painful<br />Come on now little boy<br />Say your prayers before you sleep<br />Little boy went down on his knees<br />And he said<br />\"Oh Lord, now I lay me down to sleep<br />I pray the Lord my soul to keep<br />And if I die before I wake<br />I pray the Lord my soul to take\"<br />'Cause he's living in this crazy world<br />Oh Lord<br />I'ma born living in (living in) I'm living in (living in) this crazy world<br />I'ma born living in (living in) I'm living in (living in) this crazy world<br />I tell you imabon living in (living in)<br />I'm living in (living in) this crazy world<br />I, I am a living in (living in) living in (living in) this crazy world<br />Yeah I'ma born living in (living in) I am a living in (living in) this crazy world<br />I'ma born living in (living in) I'm living in (living in) this crazy world<br />I, I am a living in (living in) living in (living in) this crazy world</div>\n</div>"
+    },
+    {
+      "id": 4,
+      "name_category": "Playlist 1",
+      "title": "Touch Your Dreams",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_4.mp3",
+      "lyrics": "<div>\n<div>Have you ever seen a dream walking?<br />Have you ever heard a dream talking?<br />You are the master of your dreams<br />If you pull the right strings<br />It could be talking to you<br />If you pull the right strings<br />It could be walking to you<br />You are the one to make it happen<br />You're the only one that knows what it is<br />You are holding the key to your dreams<br />Don't hesitate<br />Grab the chance<br />Before it's too late<br />Don't let them tell you it is impossible<br />That is what they told all heroes before<br />In a hero's mind the word does not exist<br />When you're eighty years old<br />Thinking about your past<br />Regretting every minute of your life<br />That you've lost<br />You will wonder where the time went<br />If you do the right thing<br />It could be talking to you<br />Don't hesitate<br />Grab the chance<br />Before it's too late</div>\n</div>"
+    },
+    {
+      "id": 5,
+      "name_category": "Playlist 1",
+      "title": "Eyes of the Beholder",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_5.mp3",
+      "lyrics": "<div>\n<div>They tell you that I'm a jailbird<br />They tell you that I'm a no-good man, yeah<br />They can't imagine you<br />How happy you would be in the arms of another man<br />And they tell you all the things I do when you're not there, yeah<br />And there's one thing that they forget<br />They don't know how much you mean to me<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />They tell me you got legs like scrambled eggs, yeah<br />And they tell me all the things you do when I'm not there, yeah<br />And I got to be aware of the decisions I make<br />I got to be aware of who I listen to, yeah, mmm<br />There is one thing they don't understand, yeah<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder<br />Beauty lies on the eyes of the beholder</div>\n</div>"
+    },
+    {
+      "id": 6,
+      "name_category": "Playlist 1",
+      "title": "I'm a Prisoner",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_6.mp3",
+      "lyrics": "<div>\n<div>\n<p>Somebody told me about it<br />When I was still a little boy<br />He said to me, crime does not pay<br />He said to me, education is the key, yeah<br />As a little boy I thought I knew<br />What I was doing, yeah man<br />But today here I am in jail</p>\n<p>I'm a prisoner [x3]</p>\n<p>I looked all around me<br />But to see nothing<br />But four grey walls staring at me<br />The policeman said to me, son<br />They won't build no schools anymore<br />All they'll build will be prison, prison [x3]<br />'Cause today, yeah</p>\n<p>I am a prisoner [x3]<br />Dear lord</p>\n<p>I asked the policeman and said<br />How much must I pay for my freedom?<br />He said to me, son<br />They won't build no schools anymore<br />They won't build no hospitals [x2]<br />All they'll build will be prison, prison [x4]</p>\n<p>I am a prisoner [x3]</p>\n</div>\n</div>"
+    },
+    {
+      "id": 7,
+      "name_category": "Playlist 1",
+      "title": "Back To My Roots Live",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_7.mp3",
+      "lyrics": "<div>\n<div>I and my go to a naughty party one day<br />Them said it' s gonna be irie there<br />But when I and my go to a naughty party<br />I and I was disappointed yeah<br />All we could hear there was their crackadoo<br />All we could hear there was their<br />Shoobee doobee yeah<br />And the music they played there<br />Was not good for a rasta man yeah<br />It was not good for a Jah man<br />I' m going back to my roots yeah yeah<br />Reggae music is all that I need<br />All we could hear there was their crackadoo<br />All we could hear there was their<br />Shoobee doobee yeah<br />And the music they played there<br />Was not good for a rasta man<br />It was not good for a Jah man<br />Reggae is mine reggae is mine yeah yeah<br />Reggae is mine yeah yeah yeah yeah yeah<br />(fade)<br />I' m going back to my roots yeah yeah<br />Reggae music is all that I need</div>\n</div>"
+    },
+    {
+      "id": 8,
+      "name_category": "Playlist 1",
+      "title": "Don't Cry",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_8.mp3",
+      "lyrics": "<div>\n<div>Everytime I say I'm going<br />I can see you gonna cry<br />Everytime I say I wanna go<br />I can tell you gonna cry<br />Thinking of the lonely nights<br />When I'm not there<br />Thinking of the days<br />When I'm gone<br />Thousands of people<br />Wanna see me<br />Millions are waiting<br />For the message, I say<br />Billions are dying<br />For the message<br />I am going round the world<br />Spreading the message<br />I'm going round the world<br />Spreading the word<br />Don't cry baby, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />They wanna hear me saying<br />\"Ayobayo!\"<br />They wanna hear me say<br />\"I've got you babe!\"<br />They wanna hear me saying<br />\"Together as one!\"<br />They wanna hear me say<br />\"I'm a slave!\"<br />Don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />Everytime I say I wanna go<br />I can see you gonna cry<br />Everytime I say I'm going<br />I can tell you gonna cry<br />Thinking of the lonely nights<br />When I'm not there<br />Thinking of the lonely days<br />When I'm gone<br />Thousands of people<br />Wanna see me<br />Millions are waiting<br />For the message<br />Billions are dying<br />To hear the message<br />I am going round the world<br />Spreading the message<br />I'm going round the world<br />Spreading the word<br />Don't cry baby, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry<br />Don't cry, don't cry</div>\n</div>"
+    },
+    {
+      "id": 9,
+      "name_category": "Playlist 1",
+      "title": "I want to know what love is",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_9.mp3",
+      "lyrics": "<div>\n<div>I've got to take a little time<br />A little time to think things over<br />I'd better read between the lines<br />In case I need it when I'm older<br />This big mountain I must climb<br />Oh, feels like the world upon my shoulders<br />Through the crowds I see love shine<br />It keeps me warm as life grows colder<br />In my life, there's been heartaches and pain<br />I don't know, if I can face it again<br />Can't stop now<br />I've travelled so far<br />To change this lonely life, ohh<br />I wanna know what love is (Oh baby)<br />Reggae can show me (Oh yeah)<br />I wanna feel what love is (I wanna know, I wanna feel it)<br />Reggae can show me (Ohh)<br />I wanna know what love is (I wanna feel it)<br />Reggae can show me (Oh baby ohh)<br />Gonna take a little time<br />A little time to look around me<br />I've got nowhere left to hide<br />It looks like reggae has finally found me<br />In my life, there's been heartaches and pain<br />I don't know, if I can face it again<br />Can't stop now<br />I've travelled so far<br />To change this lonely life<br />I wanna know what love is (I wanna know)<br />Reggae can show me (Reggae can show me)<br />I want to feel what love is (Oh oh oh oh oh oh oh oh oh oh oh oh oh oh)<br />Reggae can show me (Reggae can show me, yeah-hey)<br />I wanna know what love is (Ohh, I wanna know, I wanna know, know, know)<br />Reggae can show me (Oh baby, ohh)<br />I wanna feel what love is (Oh oh oh oh oh oh oh oh oh oh oh oh oh oh)<br />Reggae can show me (Reggae can show me, yeah-hey)<br />I wanna know what love is (Ohh, I wanna know, I wanna know, know, know)<br />Reggae can show me (Oh baby, ohh)</div>\n</div>"
+    },
+    {
+      "id": 10,
+      "name_category": "Playlist 1",
+      "title": "Reggae Strong live",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_10.mp3",
+      "lyrics": "<div>\n<div>This is called no matter how hard they can try but<br />Nobody can stop reggae because<br />Reggae is strong<br />Reggae in the bathroom<br />Reggae in the bedroom<br />Reggae everywhere<br />Reggae in jail<br />Reggae in church<br />Everybody likes it<br />Reggae in the bathroom<br />Reggae in the bedroom<br />Reggae everywhere<br />Reggae in jail<br />Reggae in church<br />Everybody likes it<br />They tried to kill it many years ago<br />Killing the prophets of reggae<br />Destroying the prophets of reggae<br />But somebody said<br />To all the bald heads<br />Respect the Rasta man<br />Cause he's the only one<br />Only one left in Jah creation<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />You can change the style of playing reggae<br />You can change the rhythm of playing reggae<br />But never ever change the message<br />Every time I play it<br />A Babylon a wish me fe dead<br />Every time I play it<br />A Babylon A wish me fe dead<br />They tried to destroy it many years ago<br />Killing the prophets of reggae<br />Destroying the prophets of reggae<br />But somebody said<br />To all the bald heads<br />Respect the Rasta man<br />Cause he's the only one<br />Only one left in Jah creation<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Nobody can stop reggae<br />Cause reggae's strong</div>\n</div>"
+    },
+    {
+      "id": 11,
+      "name_category": "Playlist 1",
+      "title": "Cool down",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_11.mp3",
+      "lyrics": "<div>\n<div>They've been married<br />For seventeen years<br />But you can see<br />She doesn't trust him at all<br />And you can see she doesn't believe that he is not cheating<br />You can't blame a poor girl<br />He's been a busy man all his life, just like the rest of us<br />One day she caught him with another girl<br />He said it was his mother<br />She caught with another one<br />He said it was his sister<br />He's in deep water again<br />I don't know what he gonna say today but<br />I won't be surprise if he gets out of this one like the other ones<br />Cause I know he's the Houdini<br />Of cheaters, hear him now when he says<br />Cool down baby everything is under control<br />It doesn't matter where I get my appetite<br />I will always eat at home [Repeat: x2]<br />Oh, oh<br />They've been married for seventeen years<br />But you can see<br />He doesn't trust her at all<br />And you can see he doesn't believe<br />She's not cheating<br />You can't blame a poor man<br />She's been a busy girl<br />All her life just like the rest of us<br />One day he caught her with another man<br />She said it was her father<br />He caught her with another one<br />She said it was her brother<br />I believe that it is true<br />Birds of a feather fly together<br />She has learned from master<br />I wasn't surprise at all<br />When I heard her say hey<br />Cool down baby everything is under control<br />It doesn't matter where I get my appetite<br />I will always eat at home [Repeat: x2]<br />Oh, oh</div>\n</div>"
+    },
+	{
+      "id": 12,
+      "name_category": "Playlist 1",
+      "title": "Rasta man's prayer",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_12.mp3",
+      "lyrics": "<div>\n<div>There comes a time in every man's life<br />Where he's got to face the truth (No matter what)<br />We are coming to you father<br />With our sins and everything<br />To thank you<br />Those that smoke marijuana<br />Wanna thank you father<br />For making it grow<br />Internationally<br />They wanna thank you Lord<br />Even though<br />Police cut it down<br />Sometimes they burn it down<br />But it grows again<br />Thank you father<br />We wanna thank you father (For everything you've given us yehe)<br />We wanna thank you father (For everything you've given us yehe)<br />We wanna thank you father (For everything you've given us yehe)<br />Nations that oppress other nations<br />Wanna thank you father<br />Even though it's painful to be oppressed<br />But they thank you<br />For making them strong<br />Politicians wanna thank you father<br />For making them to be able to lie<br />With a straight face<br />While the nation cries<br />They wanna thank you Lord<br />We wanna thank you father (For everything you've given us yehehe)<br />We wanna thank you father</div>\n</div>"
+    },
+    {
+      "id": 13,
+      "name_category": "Playlist 1",
+      "title": "Number In The Book",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_13.mp3",
+      "lyrics": "<div>\n<div>No glove, no love<br />You've been hearing this so many times<br />Don't you think it's time<br />To be a little more responsible<br />Too many people die these days, oh<br />If you read the papers, check out the news<br />The numbers are there<br />Every number, represents a human being<br />Who was a father, who was a mother<br />A son or a daughter of this land...oh<br />You don't make the commitment but your body does<br />Even if you're dead silent<br />You are here today, tomorrow you are gone<br />You don't want to be another number in the book (x3)<br />In the shadows of the night<br />A lady from the street corner talks to a customer<br />Money exchanges hands<br />That's the formality and she says<br />No glove, no love<br />You can pay me well, but it ain't worth my life<br />Too many people die these days<br />If you read the papers, check out the news<br />The numbers are there<br />Every number, represents a human being<br />Who was a father, who was a mother<br />A son or a daughter of this land...oh<br />It ain't worth my life...oh</div>\n</div>"
+    },
+    {
+      "id": 14,
+      "name_category": "Playlist 1",
+      "title": "Born to Suffer",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_14.mp3",
+      "lyrics": "<div>\n<div>Born to suffer people are depending on<br />For the growth of children ) on the deeds of the children<br />If they teach them right<br />They gonna have a brighter future<br />If they teach them wrong<br />We gonna have nothing in the world<br />If they grow up without their parent<br />Whose gonna tell them this is right<br />If they grow up without their parent<br />Whose gonna tell this is wrong<br />Without their mother (Without their mother)<br />Children suffering (Children suffering)<br />Without their father (Without their father)<br />Children suffering (Children suffering)<br />Without their parent's help (Born to suffer)<br />Born to suffer<br />Born to suffer<br />Born to suffer<br />Born to suffer<br />Born to suffer<br />l watch out my son<br />If your mother doesn't care for you<br />You gonna watch out mother<br />If your mother doesn't care for you<br />Kwashiokor is there<br />Its gonna attack you<br />They need parental care<br />They need spiritual care<br />If they grow up without their parent<br />Whose gonna tell this is right (tell them )<br />If they grow up without their parent<br />Whose gonna tell them this is wrong<br />Without the mother (Without their mother)<br />Children suffering (Children suffering)<br />Without the father (Without their father)<br />Children suffering (Children suffering)<br />Without the parent help<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer<br />We are born to suffer</div>\n</div>"
+    },
+    {
+      "id": 15,
+      "name_category": "Playlist 1",
+      "title": "Different Colours",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_15.mp3",
+      "lyrics": "<div>\n<div>Breaking those barriers<br />All over the world (Was not an easy thing)<br />Yesterday your mouth was shut<br />Couldn't make a sound eh boy<br />But it's such a good feeling today<br />When I can hear them from across the ocean (Singing this song)<br />That the whole world should be singing<br />All the time<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Hey you government<br />Never try to separate the people<br />Hey you politician<br />Never try to separate the people here<br />They were created in the image of God<br />And who are you to separate them<br />Bible says He made man in his image (But it didn't say black or white)<br />Look at me (You see black)<br />I look at you (I see White)<br />Now is the time to kick that away<br />Join me (In my song)<br />Different colours (One people)<br />Different colours (We are one people)<br />Different colours (One people)<br />Different colours (We are one people)<br />Different colours (One people)<br />Different colours<br />Hey you government<br />Never separate the people<br />You politician<br />Never try to separate the people here<br />Some were from America (We were from South Africa)<br />Some were from Japan (We were from China)<br />Some were from Australia (We were from the UK)<br />Some were from Zimbabwe (We were from Ghana)<br />Some were from Jamaica (We were from Russia)<br />You are from Uganda<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />Different colours (One people)<br />One people</div>\n</div>"
+    },
+    {
+      "id": 16,
+      "name_category": "Playlist 1",
+      "title": "FEEL IRIE",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_16.mp3",
+      "lyrics": "<div>\n<div>How long shall you carry that burden on your shoulders?<br />How long shall those tears keep running down<br />Your beautiful face? We all have troubles<br />Now and again, know what I'm saying?<br />No matter how hard we try<br />Trouble will find us<br />One way or another people had troubles<br />Since the Pope was an altar boy<br />People had worries from<br />When the Dead Sea was only wrinkled<br />Hear those drums running<br />And listen to those guitars skanking<br />Yeah, put a smile on your face<br />Don't let the troubles get you down<br />Shoop shoop doo doo<br />Put a smile on your face<br />Don't let the troubles get you down<br />Let me tell you how we feel<br />We feel Irie, Irie<br />We feel Irie, Irie<br />We feel Irie, yeah yeah, Irie<br />We feel so Irie, Irie<br />Tell me, do you feel like we do?<br />Do you feel like we do?<br />I say, do you feel like we do?<br />No man can hide from his fears<br />Since they are part of him<br />They always know where to find him<br />Come on walk tall and, keep your head high<br />I tell you again and again<br />Put a smile on your face<br />Don't let the troubles get you down<br />Shoop shoop doo doo<br />Put a smile on your face<br />Don't let the troubles get you down<br />We feel Irie, Irie<br />We feel Irie, yeah, Irie<br />We feel Irie, Irie<br />We feel Irie, yeah, irie<br />Tell me, do you feel like we do?<br />Do you feel like we do?<br />Tell me now, do you feel like we do?<br />'Cause we feel Irie, Irie<br />We feel Irie, yeah, Irie<br />We feel Irie, Irie<br />We feel so Irie, Irie<br />Do you feel like we do?<br />Listen now, put a smile on your face<br />Don't let the troubles get you down<br />Shoop shoop doo doo<br />Put a smile on your face<br />Don't let the troubles get you down<br />Shoop shoop doo doo<br />Put a smile on your face<br />Don't let the troubles get you down<br />Shoop shoop doo doo</div>\n</div>"
+    },
+    {
+      "id": 17,
+      "name_category": "Playlist 1",
+      "title": "Good girl",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_17.mp3",
+      "lyrics": "<div>\n<div>When you were a little girl<br />I had dreams and I had plans for you<br />As a single father I knew<br />There was gonna be turbulance<br />Along the way<br />I did not know that so soon<br />I' d have to stand on the side<br />Watch you go through life<br />Without my guidance you see<br />I wanted to be there when you cry<br />I wanted to be there when you smile<br />I wanted to be there when you play<br />I wanted to be there all your life<br />I would say it' s wrong<br />She' d say it' s right<br />Words got spoken since<br />I live in a glass house<br />I didn't want no stones to be thrown<br />I didn't want no blows to be thrown<br />But I would hate to see my...<br />Good girl go bad<br />Good girl go bad<br />The games we played<br />The rhymes you taught me<br />Everything we did together<br />Those were the best days of my life<br />I will always remember<br />The little girl you were once<br />I wanted to be there when you cry<br />I wanted to be there when you smile<br />I wanted to be there when you play<br />I wanted to be there all your life<br />I would say it' s right<br />She' d say it' s wrong<br />I would say it' s wrong<br />She' d say it' s right<br />Words got spoken since<br />I live in a glass house<br />I didn't want no stones to be thrown<br />I didn't want no blows to be thrown<br />But I would hate to see my...<br />Good girl go bad<br />Good girl go bad</div>\n</div>"
+    },
+    {
+      "id": 18,
+      "name_category": "Playlist 1",
+      "title": "Hand That Giveth",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_18.mp3",
+      "lyrics": "<div>\n<div>What type of rich man are you<br />Who doesn't care about the poor people?<br />What type of rich man are you<br />Who doesn't care about the helpless people?<br />I said what type of rich man are you<br />Who doesn't care about the poor people?<br />What type of rich man are you<br />Who doesn't care about the helpless people?<br />There you read it in the Bible<br />But don't understand what it says<br />It says blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Are you feeling happy?<br />When you see another man starving<br />I said are you feel happy?<br />When you see another man with no food<br />Does it make you feel great, maybe?<br />To see another man, without a thing<br />You read it in the Bible<br />But didn't understand it what it say<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh<br />Blessed is the hand that giveth<br />Than the one that taketh</div>\n</div>"
+    },
+    {
+      "id": 19,
+      "name_category": "Playlist 1",
+      "title": "Hold On",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_19.mp3",
+      "lyrics": "<div>\n<div>I knew exactly, what you were going through<br />It's just that I didn't have the right to discuss your problems<br />I saw you struggling for our education<br />I saw you struggling to get us clothes to wear, mama<br />This man you got married to<br />Is dead alive?<br />Over the years I asked myself many questions<br />Is he my real dad or was I adopted, mama<br />I know it's difficult for you but hold on<br />I am a little grown up now<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />You were a laughing stock in the community<br />The press didn't rest makin' news out of you, mama<br />Now is the time to show them<br />That he who laughs last, laughs the best, that's the way it is<br />That he who laughs last, laughs the best, that's the way it is mama<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />I know it's not easy for you mama<br />But your tears will turn to laughter<br />Now that I'm a grown up mama<br />Hold on just a little bit longer now (little bit now)<br />Hold on just a little bit longer now (just a little bit longer now)<br />Hold on just a little bit longer now (little bit now)<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now<br />Hold on just a little bit longer now</div>\n</div>"
+    },
+    {
+      "id": 20,
+      "name_category": "Playlist 1",
+      "title": "House of Exile",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_20.mp3",
+      "lyrics": "<div>\n<div>Freedom fighter standing on a mountain<br />In a foreign country<br />Trying to send a message<br />To his people, back in the ghetto<br />He had a home one time<br />Love of a girl<br />But he left that behind<br />Oh yes I can hear him clearly as he whispers in the air<br />His voice came out loud and clear<br />All he asked for was a prayer and as he turns to walk away he said<br />I'm still here in the house of exile<br />For the love of the nation<br />Sun went down on the mountain<br />Birds flew back to their hiding places<br />Leaving him standing there like a telephone pole<br />In the still of the night<br />You and I dream<br />Dreaming of Romeo &amp; Juliet<br />All he dreams about is the freedom of the nation<br />When every man will be equal In the eyes of the law<br />As he closes his eyes<br />For the last time he said again<br />I'm still here in the house of exile<br />For the love of the nation</div>\n</div>"
+    },
+    {
+      "id": 21,
+      "name_category": "Playlist 1",
+      "title": "How will I know if she loves me",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_21.mp3",
+      "lyrics": "<div>\n<div>&hellip; There's lady that I love so much<br />She's always on my mind, night and day<br />But people told me she's in love<br />With another guy in town<br />This news makes me so sad<br />I'm confused, I don't know what to do about it<br />How will I know if she loves me<br />I'm confused<br />How will I know if she loves me<br />Does she really care for me<br />How will I know if she loves me<br />I'm confused<br />I've tried to get her off my mind<br />But the love she gives to me, draws me every time<br />I've tried to get her off my mind<br />But the love she gives to me is so strong<br />Each time when we were together<br />She use to tell me that I'm the only guy<br />[I felt this myself to this woman]?<br />Now I'm so confused<br />People told me she's in love<br />With another guy in town<br />This really makes me so sad<br />I'm confused<br />What am I going to do about it?<br />Oh God<br />Does she really care for me<br />How will I know if she loves me<br />How will I know if she loves me<br />I wanna know oh baby yeah<br />How will I know if she loves me<br />You know she's the only one for me<br />How will I know if she loves me<br />Does she really care for me<br />I need her by my side<br />How will I know if she loves me<br />I wanna know oh baby yea<br />How will I know if she loves me [till fade]</div>\n</div>"
+    },
+    {
+      "id": 22,
+      "name_category": "Playlist 1",
+      "title": "It's Not Easy",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_22.mp3",
+      "lyrics": "<div>\n<div>Uuuhhh! yeaahh haahh ahh<br />Lord of mercy!<br />I remember the day I called mama on the telephone<br />I told her mama I'm getting married, I could hear her voice<br />On the other side of the telephone, she was smiling<br />And she asked me a question that I proudly answered<br />She said, \"Son did you take time to know her?\"<br />I said mama she's the best but today it hurts me so<br />To go back to mama and say mama I'm getting divorced<br />Oh I'm getting divorced<br />This choice I made didn't work out<br />The way I thought it would<br />This choice I made. It hurts me so mama,<br />This choice i made, didnt work out the way i thought it would, this choice of mine oh!<br />Mama said me.<br />It's not easy to understand it son<br />But I hope you'll make it, you'll be happy again. 2x<br />I remember in church, when the preacher man read the scriptures<br />You looked so beautiful, so beautiful and so innocent<br />I did not know that behind that beauty<br />Lies the true colors that will destroy me in the near future<br />This choice I made didn't work out to be what i thought it be<br />Oh!, mama<br />This choice i made didnt work out the way i thought it would now am hurting.<br />I remember when I held you<br />By the hand preacher man read the scriptures<br />Putting words in your mouth.<br />Maybe what the preacher man said<br />Was not something that was within you.<br />Now I know what they mean when they say<br />\"Beautiful woman is another man's play thing\"<br />Oh! Lord! I'm hurting now<br />This choice I made didn't work out<br />The way I thought it would, this choice of mine oh!<br />Mama said to me<br />It's not easy to understand it son<br />But I hope you'll make it, you'll be happy again.</div>\n</div>"
+    },
+    {
+      "id": 23,
+      "name_category": "Playlist 1",
+      "title": "I've Got You Babe",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_23.mp3",
+      "lyrics": "<div>\n<div>I have gone right 'round the world, trying to find a woman<br />A woman that'll understand me<br />I have gone right 'round the world, trying to find a woman<br />A woman that'll understand me<br />All the women I had before, never understood me<br />Now that I've found you baby<br />I ain't gonna look no further<br />Now that I've found you baby<br />I ain't gonna look no further<br />Now that I've found you baby<br />I ain't gonna look no further<br />It's so nice when you're there<br />So nice, so nice<br />I love you, I love you<br />I love you, I love you<br />I love you<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright<br />Baby you know how much I need you, baby<br />Please never leave me baby<br />Never leave me, ooh<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />Ayo, ayo (Ayo, ayo)<br />You know baby my life depends on you<br />You are my future you are everything I've got<br />Please baby, please baby, yeah<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright<br />I've got you babe<br />To make me feel alright</div>\n</div>"
+    },
+    {
+      "id": 24,
+      "name_category": "Playlist 1",
+      "title": "Kiss No Frog",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_24.mp3",
+      "lyrics": "<div>\n<div>\n<p>She wanted to be<br />Like her mother in many ways<br />The way she walks<br />The way she smiles<br />Over and above all<br />The way she brushes her hair back<br />She heard it all being said to her<br />Saw it all happening in her life<br />Like every woman<br />She's been trapped in this<br />Fairy tale<br />Find a frog, kiss it,<br />And hope it would turn<br />Into a handsome prince<br />How many frogs has she kissed<br />In her life?<br />None of them turned into<br />A handsome prince<br />The little girl made a decision<br />In her life ohh<br />And she promised to keep it</p>\n<p>[Chorus:]<br />I'm gonna kiss no frog</p>\n<p>Everything went<br />The way she wanted<br />Every dream was what she wanted<br />But when it came to finding someone<br />To spend her life with<br />Same old story</p>\n<p>Find a frog, kiss it<br />And hope it'll turn into a prince ohh<br />Better to be alone and be happy<br />Than being with someone<br />And be unhappy<br />All your life</p>\n<p>[Chorus:]<br />I'm gonna kiss no frog<br />[Till fade]</p>\n</div>\n</div>"
+    },
+    {
+      "id": 25,
+      "name_category": "Playlist 1",
+      "title": "Love me",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_25.mp3",
+      "lyrics": "<div>\n<div>\n<p>Who's child am I gonna be tonight?<br />Who's bed am I gonna sleep in tonight?<br />You told the other ones<br />I was your brother's child<br />You told the other ones<br />I was your sister's child<br />Everytime they come to the house<br />I got to change my name<br />Everytime they come to the house<br />I got to change my identity<br />Whose child am I gonna be tonight?<br />As he walked away with tears in his eyes<br />I felt every pain that he felt<br />I cried every tear that he cried<br />Mama why?</p>\n<p>I wish you could love me the way I am...</p>\n<p>Whose dogs are gonna be my friends tonight?<br />Whose bin am I gonna eat out of tonight?<br />The welfare people when they come<br />To the house you told me to say nothing<br />Every time they wanna take me away<br />You say everything is alright<br />Who's bins am I gonna eat out of tonight?<br />As he walked away with tears in his eyes<br />I felt every pain that he felt<br />I cried every tear that he cried<br />Mama why?</p>\n<p>I wish you could love me the way I am...</p>\n</div>\n</div>"
+    },
+    {
+      "id": 26,
+      "name_category": "Playlist 2",
+      "title": "Never leave you",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_26.mp3",
+      "lyrics": "<div>\n<div>We were only eighteen years old<br />Didn't know much about anything<br />The only thing we knew was this love<br />That we have for each other<br />You were the millionaire's daughter<br />I was the grave digger's son<br />They told me to keep away from you<br />They told you to stay away from me<br />Look at us now, we are living our dreams<br />Which goes to say, love is thicker than blood.<br />Love is thicker than blood.<br />Love is thicker than blood.<br />Take your time, take your time<br />Take your time don't hurry<br />We have all aternity ahead of us.<br />I will never, I will never leave you.<br />No matter what happenes, no matter where life<br />Takes us, I will never leave you.<br />Take your time take your time love me<br />Take your time, we have all etrnity ahead of us.<br />You had a chance to be, with anyone you want<br />You chose to be with me.<br />Even though you knew, I had nothing to my name<br />You still love me<br />You were the millionaire's daughter<br />I was the grave digger's son,<br />They told me to keep away from you<br />They told you to stay away from me<br />Look at us now, we are living our dreams<br />Which goes to say, love is thicker than blood<br />Love is thicker than blood.<br />Take your time take your time<br />Take your time love me<br />We have all eternity ahead of us<br />I will never, I will never leave you, I will never,<br />I will never leave you<br />No matter what happenes, No matter where life<br />Takes us, I will never leave you.</div>\n</div>"
+    },
+    {
+      "id": 27,
+      "name_category": "Playlist 2",
+      "title": "Peace Perfect Peace",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_27.mp3",
+      "lyrics": "<div>\n<div>We cry for peace, perfect peace<br />Lord, we cry for love in this neighborhood<br />I tell you no water can put out this fire<br />Only the lord can save us<br />We cry for peace in South Africa<br />Let me tell you we cry for peace in South Africa<br />We cry for peace, perfect peace<br />Lord, we cry for love in this neighborhood<br />Let me tell you no water can put out this fire<br />Only the lord can save us<br />We cry for peace in South Africa<br />Let me tell you we cry for peace in South Africa</div>\n</div>"
+    },
+    {
+      "id": 28,
+      "name_category": "Playlist 2",
+      "title": "Prisoner",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_28.mp3",
+      "lyrics": "<div>\n<div>\n<p>Somebody told me about it<br />When I was still a little boy<br />He said to me, crime does not pay<br />He said to me, education is the key, yeah<br />As a little boy I thought I knew<br />What I was doing, yeah man<br />But today here I am in jail</p>\n<p>[Chorus:]<br />I'm a prisoner [x3]</p>\n<p>I looked all around me<br />But to see nothing<br />But four grey walls staring at me<br />The policeman said to me, son<br />They won't build no schools anymore<br />All they'll build will be prison, prison [x3]<br />'Cause today, yeah</p>\n<p>[Chorus:]<br />I am a prisoner [x3]<br />Dear lord</p>\n<p>I asked the policeman and said<br />How much must I pay for my freedom?<br />He said to me, son<br />They won't build no schools anymore<br />They won't build no hospitals [x2]<br />All they'll build will be prison, prison [x4]</p>\n<p>[Chorus: till fade]<br />I am a prisoner [x3]</p>\n</div>\n</div>"
+    },
+    {
+      "id": 29,
+      "name_category": "Playlist 2",
+      "title": "Reap what you sow",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_29.mp3",
+      "lyrics": "<div>\n<div>We hear you crying<br />So bitterly<br />Trying to get people to help you yeah yeah yeah yeah yeah yeah<br />But nobody will<br />Your son was brutalizing's people every time<br />But you said nothing<br />Now is the time to pay the price<br />It's time to pay yeah yeah yeah yeah yeah yeah<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />Coming back home with stolen things<br />Instead of telling him how wrong he was<br />You told him how clever he was<br />People coming out of burning houses<br />It's your son<br />Driving stolen cars every time (It's your son)<br />But you said nothing<br />But now he's turned against you<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />Everybody knows<br />No jail can keep him<br />Cause you rubbing shoulders with the law<br />But now it's time you pay the price<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow<br />You gonna reap just what you sow</div>\n</div>"
+    },
+    {
+      "id": 30,
+      "name_category": "Playlist 2",
+      "title": "Release Me",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_30.mp3",
+      "lyrics": "<div>\n<div>You don' t have to come with me<br />Down this road<br />'Cause I know my way around here<br />Very well<br />It may not seem like it<br />From where you stand<br />But believe you me, I know what<br />I'm talking about<br />Letting it all go<br />Didn' t matter to me<br />'Cause I' ve done it all before<br />But when you left<br />Part of me left with you<br />That is why I call you now<br />On this phone<br />So please, oh please<br />Don' t hang up on me<br />Release me let me go<br />But remember that<br />Some bridges never burn<br />You took your way<br />And I took mine<br />We were sure our ways<br />Will never meet again<br />Everytime I go out<br />With another man<br />I find myself calling your name<br />Now I know that it' s true<br />What they say<br />Sometimes love<br />Never knows when to die<br />When you went<br />Part of me went with you<br />That' s why I called you on the phone<br />Release me let me go<br />Remember that<br />Some bridges never burn<br />Release me let me go<br />Remember that<br />Some bridges never burn<br />Oh-ho-oh-ho... ho<br />Oh-ho-oh-ho... ho<br />Release me let me go<br />Remember that<br />Some bridges never burn</div>\n</div>"
+    },
+    {
+      "id": 31,
+      "name_category": "Playlist 2",
+      "title": "Remember Me",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_31.mp3",
+      "lyrics": "<div>\n<div>Daddy, wherever you are<br />Remember me<br />In whatever you do<br />I love you<br />Daddy, wherever you are<br />Remember me<br />In whatever you do<br />I love you<br />You left for the city<br />Many years ago<br />Promised to come back<br />And take care of us<br />Many years has gone by now<br />Still no sign of you, daddy, eh<br />Mother died of a heart attack<br />Many years ago when she heard<br />That you were married again<br />Now I'm the only one left in this family<br />Daddy, wherever you are<br />Remember me<br />In whatever you do<br />I love you<br />Daddy, wherever you are<br />Remember me<br />In whatever you do<br />I love you<br />Wandering up and down<br />The streets of Soweto<br />No place to call my home<br />I tried to find you<br />Many years ago<br />But the women you're married to<br />Was no good at all<br />Daddy, wherever you are<br />Remember me (Remember me)<br />In whatever you do<br />I love you (Daddy, oh)<br />Daddy, wherever you are<br />Remember me (Daddy, oh)<br />In whatever you do<br />I love you<br />(Daddy, oh)<br />Daddy, wherever you are<br />Remember me (Daddy, oh)<br />In whatever you do<br />I love you (Daddy, oh)<br />Daddy, wherever you are<br />Remember me (Remember me)<br />In whatever you do<br />I love you (Daddy, oh)<br />Daddy, wherever you are<br />Remember me<br />In whatever you do<br />I love you (Yeah)<br />Daddy, wherever you are<br />Remember me (Remember me)<br />In whatever you do (Daddy, oh)<br />I love you (Remember)<br />Daddy, wherever you are<br />Remember me (Daddy, oh)<br />In whatever you do<br />I love you</div>\n</div>"
+    },
+    {
+      "id": 32,
+      "name_category": "Playlist 2",
+      "title": "Running, Falling",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_32.mp3",
+      "lyrics": "<div>\n<div>Something somewhere<br />Is calling out your name<br />In the middle of the night<br />Your eyes go wide<br />I see your legs are shaking<br />You don't believe it's happening<br />Oppressor man, yeah<br />Don't tell me you are scared now<br />It's not the end of your life<br />But it's the end of your kingdom<br />It's not the end of your life<br />But it's the end of your shitty kingdom<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Down pressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />You run for your gun<br />To your surprise, it's empty<br />'Cause we had those bullets for breakfast<br />Jah children did yeah, yeah, yeah<br />Teargas<br />Won't make me cry anymore<br />Your handcuffs won't hurt my arms<br />Anymore<br />It's not the end of your life<br />But it's the end of your kingdom<br />It's not the end of your life<br />But it's the end of your shitty kingdom<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Downpressor man, you running (Running)<br />Your kingdom is falling, yeah, yeah (Falling)<br />I won't do to you<br />What you did to my people, yeah<br />Four hundred years ago (Four hundred years)<br />Turning them to slaves<br />Making them your prisoners, I said<br />I won't do to you<br />What you did to my people, yeah<br />Four hundred years ago (Four hundred years)<br />Making them your slaves, I say<br />Turning them to your prisoners<br />You can run, but you can't hide<br />Your time has come now, now, now<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Downpressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Downpressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Downpressor man, you running, running, running (Running)<br />Your kingdom is falling, yeah, yeah (Falling)<br />Oppressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />Downpressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />I can see you running, running, running, running, running (Running)<br />But you know it's falling, falling, falling (Falling)<br />Downpressor man, you running (Running)<br />Your kingdom is falling (Falling)<br />You never just-a-run away (you running (Running) (You know you running running)<br />'Cause your kingdom is falling (Falling)<br />Downpressor man, downpressor man, yeah, yeah yeah, yeah, yeah, yeah (Running)<br />Yeah man, downpressor man, he gonna run<br />A-run, a-run, a-run<br />Downpressor man<br />Go run, a-run, a-run<br />Downpressor man<br />Go run, a-run</div>\n</div>"
+    },
+    {
+      "id": 33,
+      "name_category": "Playlist 2",
+      "title": "Slave",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_33.mp3",
+      "lyrics": "<div>\n<div>This a song called slave<br />Ministers of religion have visited me many times to talk about it<br />They say to me<br />I gotta leave it<br />I gotta leave it<br />It's a bad habit for a man<br />But when I try<br />To leave it<br />My friends keep telling me fools l'm fool<br />Now I'm a slave (Slave)<br />A slave (Slave)<br />I'm a slave<br />Just a liquor slave (Liquor slave)<br />I'm a slave (Slave)<br />A slave (Slave)<br />I'm a slave<br />Just a liquor slave (Liquor slave)<br />I have lost my dignity I had before<br />Trying to please everybody<br />Some say to me yo yo<br />I look better when I'm drunk<br />Some say no no no<br />I look bad you know<br />Sometimes I cry<br />Me alone I cry<br />My crying never helps me cause now<br />I am a slave (Slave)<br />A slave (Slave)<br />I'm a slave<br />Just a liquor slave (Liquor slave)<br />I am a slave (Slave)<br />A slave (Slave)<br />I'm a slave<br />In my own country (Liquor slave)<br />Every night when I'm coming back home<br />My wife gets worried cos she knows<br />She's got double trouble coming home<br />Sometimes I cry<br />I cry<br />My crying never helps me<br />Slave (A slave)<br />Slave<br />I'm a slave<br />A liquor slave (Liquor slave)<br />I am a slave (Slave)<br />A prisoner (Slave)<br />I'm a slave<br />Just a liquor slave (Liquor slave)</div>\n</div>"
+    },
+    {
+      "id": 34,
+      "name_category": "Playlist 2",
+      "title": "Victim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_34.mp3",
+      "lyrics": "<div>\n<div>Didn't know she was crying<br />Until now as she turns to look at me<br />She said, \"Boy oh boy, you bring tears to my eyes\"<br />I said, \"What?\"<br />She said, \"Boy oh boy, you bring tears to my eyes\"<br />Bob Marley said<br />\"How long shall they kill our prophets<br />While we stand aside and look?\"<br />Little did he know that eventually<br />The enemy will stand aside and look<br />While we slash and kill our own brothers<br />Knowing that already<br />They are the victims of the situation<br />Still licking wounds from brutality<br />Still licking wounds from humiliation<br />She said these words<br />And the wrinkles on her face<br />Became perfect trail for the tears, then she said<br />\"We are the victims every time<br />We've got double troubles every time<br />We are the victims every time<br />We've got double troubles every time<br />We are the victims every time<br />We've got double troubles every time\"<br />She took me outside to the churchyard<br />Showed me graves on the ground<br />Then she said<br />\"There lies a man who fought for equality<br />There lies a boy who died in his struggle<br />Can all these heroes die in vain?\"<br />While we slash and kill our own brothers?<br />Knowing that already, they are the victims of the situation<br />Still licking wounds, from brutality<br />Still licking wounds, from humiliation<br />We are the victims every time<br />We've got double troubles every time<br />We are the victims every time<br />We've got double troubles every time<br />We are the victims...</div>\n</div>"
+    },
+    {
+      "id": 35,
+      "name_category": "Playlist 2",
+      "title": "War & Crime live",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_35.mp3",
+      "lyrics": "<div>\n<div>\n<p>Every where in the world<br />People are fighting for freedom<br />Nobody knows what is right<br />Nobody knows what is wrong<br />The black man say it's the white man<br />The white man say it's the black man<br />Indians say it's the coloureds<br />Coloureds say it's everyone<br />Your mother didn't tell you the truth<br />Cause my father didn't tell me the truth<br />Nobody knows what is wrong<br />And what is right<br />How long is this gonna last<br />Cause we've come so far so fast</p>\n<p>When it started, you and I were not there so<br />Why don't we<br />Bury down apartheid<br />Fight down war and crime<br />Racial discrimination<br />Tribal discrimination</p>\n<p>Bury down apartheid<br />Fight down war and crime<br />Racial discrimination<br />Tribal discrimination</p>\n<p>You and I were not there when it started<br />We don't know where it's coming from<br />And where it's going<br />So why don't we</p>\n<p>I'm not saying this<br />Because I'm a coward<br />But I'm thinking of the lives<br />That we lose everytime we fight<br />Killing innocent people<br />Women and children yeah<br />Who doesn't know about the government<br />Who doesn't know about the wars<br />Your mother didn't tell you the truth<br />Cause my father did not tell me the truth<br />Yeah</p>\n<p>Black man say it's the white man<br />White man say it's the black man<br />Indians say it's the coloureds<br />Coloureds say it's everyone</p>\n<p>When it started we were not there<br />We know where we come from<br />But we don't know where we're going<br />So why don't we</p>\n<p>Bury down apartheid<br />Fight down war and crime<br />Racial discrimination<br />Tribal discrimination</p>\n<p>Bury down apartheid<br />Fight down war and crime<br />Racial discrimination<br />Tribal discrimination</p>\n<p>Bury down apartheid<br />Fight down war and crime<br />Racial...</p>\n</div>\n</div>"
+    },
+    {
+      "id": 36,
+      "name_category": "Playlist 2",
+      "title": "You Stand Alone",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_36.mp3",
+      "lyrics": "<div>\n<div>Liar, liar, your pants are on fire<br />You've got a nose as long as a telephone wire<br />I swear to tell the truth<br />Nothing but the truth<br />So help me god<br />I cross my heart and hope to die<br />These are the words we use<br />To get out of situations<br />Then I wonder why<br />We don' t mean what we say<br />Then I remembered the terrible truth<br />About the truth<br />If you stand for the truth<br />You will always stand alone<br />The holy book tells us<br />The truth will set us free<br />But in this world I know different<br />Do you believe in the truth<br />Do you believe in righteousness<br />Do you believe in innocent<br />Till proven guilty<br />'Cause those that tell the truth<br />Are always on the run...Oh God<br />Then I wonder why<br />We don' t mean what we say<br />Then I remembered the terrible truth<br />About the truth<br />If you stand for the truth<br />You will always stand alone</div>\n</div>"
+    },
+    {
+      "id": 37,
+      "name_category": "Playlist 2",
+      "title": "Up with hope, down with dope",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_37.mp3",
+      "lyrics": "<div>\n<div>I have know this preacherman<br />For a long time, he was a good man<br />I have known this judge<br />For a long time, he was a good man<br />I have known this teacher<br />For a long time, he was a good man too<br />But because of the drugs<br />They've been taking secretly<br />Them are in loony houses today<br />We cannot stand aside and look<br />While the nation is going down the drain<br />While the nation is going down the drain<br />Up with hope, down with dope<br />Up with hope, down with dope<br />Up with hope, down with dope<br />We cannot stand aside and look<br />While the nation is going down the drain.<br />We really, really cannot stand aside and look while the nation is going down the drain<br />Oh Yo<br />I am telling you now<br />Cocaine, no good for you<br />Liquor, no good for you<br />You go sniffling them glue<br />No good for you<br />They give it to you and say it's the sense of knowledge<br />But I known I've been around<br />For a while<br />I cannot stand aside<br />And look while the nation<br />And look while the nation<br />Is going down the drain<br />Oh yo yo yo<br />Up with hope, down with dope</div>\n</div>"
+    },
+    {
+      "id": 38,
+      "name_category": "Playlist 2",
+      "title": "Choose Your Friends",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_38.mp3",
+      "lyrics": "<div>\n<div>Danny got out of<br />The yellow school bus<br />Looking so sad today<br />You see it on his face<br />Mommy and Daddy have been fighting again<br />Every time they fight<br />He's caught in the middle of it all<br />He has dreams<br />Like every little boy<br />In the world<br />But right now his main dream<br />Is to get out of here<br />Is to make Mommy and Daddy disappear forever<br />He doesn't wanna hear those angry voices anymore<br />Danny<br />Be careful<br />What you wish for<br />You might just<br />Get it<br />Be careful<br />Oh, oh, oh<br />He goes up to his room<br />He's not feeling good today<br />But it's no use telling<br />Nobody listens here<br />No use complaining<br />Nobody cares around here<br />Little boys go to sleep and pray<br />For toys and candy<br />He prays for one thing<br />God, I need a miracle down here<br />Will you make<br />Mommy and Daddy disappear forever?<br />Danny, be careful<br />What you wish for<br />You might just<br />Get it<br />Be careful<br />What you wish for (What you wish for)<br />Be careful<br />Oh, oh, oh</div>\n</div>"
+    },
+    {
+      "id": 39,
+      "name_category": "Playlist 2",
+      "title": "Ding Ding Licky Licky Bong Live in Uganda, 2003",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_39.mp3",
+      "lyrics": "<div>\n<div>It seems like it only happened yesterday<br />Now that I think about it<br />Tears cannot bring you joy<br />But joy can bring you tears<br />Even though I cry today<br />I will not hide it<br />It is for a different reason (cry)<br />That is why I'll shout it out<br />For the world to hear<br />I say, \"Hello, hello happiness\"<br />Oh Jah, thank you<br />For another day<br />I say<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />I say<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Another tear drop falls<br />But I don't care<br />I took a wrong turn in life before<br />But I've paid my dues<br />Objects in the rear view mirror<br />They appear closer than they are<br />If you don't talk the talk<br />Don't walk the walk<br />If you won't please, don't tease<br />Another lesson learned<br />I'm gonna shout it out again<br />\"Hello, hello happiness\"<br />Oh God, thank you<br />For another chance<br />There is no future in the past<br />So shout it out<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />Ding ding licky licky licky bong<br />They say<br />Ding ding licky licky licky bong<br />Hey Ringo come and dance with me<br />Come on, come on<br />Rasta faster<br />Come and spend my shoes<br />Hey Greek women<br />Rasta</div>\n</div>"
+    },
+    {
+      "id": 40,
+      "name_category": "Playlist 2",
+      "title": "Family Ties",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_40.mp3",
+      "lyrics": "<div>\n<div>Family ties<br />Ever since they were born<br />She was worried about their friends<br />Even when they turned twenty five<br />She was worried about the company they'd keep<br />One day it was three in the morning<br />The door bell rang<br />She got up in a sweat<br />Blue lights flashing everywhere<br />The boys in blue standing at the door<br />The look on their faces scared her enough<br />Before they told her what she was always afraid of<br />Do you know where your son/daughter is tonight<br />I'm afraid they won't be coming home tonight<br />Ever since she was brought to this home<br />She's been cursing every woman with a child<br />She says they brought to this world the curse<br />That have stained the good name of mankind<br />One day it was three in the morning<br />The guard came running to tell us she's gone<br />Blue lights flashing everywhere<br />All over again<br />The boys in blue, looking for her<br />The look on their faces<br />Scared us enough when they told us to strengthen our family ties<br />Do you know where your mother/father is tonight<br />I'm afraid they won't be coming home tonight</div>\n</div>"
+    },
+    {
+      "id": 41,
+      "name_category": "Playlist 2",
+      "title": "Fugitive",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_41.mp3",
+      "lyrics": "<div>\n<div>I've been sitting here for many days now<br />They've been looking for me for many days too<br />From where I' m sitting<br />I can see their angry faces<br />It' s only a matter of time<br />They' ll be on to me<br />The sirens, helicopters and tings<br />The bloodhounds are on my tail, Oh God<br />Just in minutes<br />They' ll be tearing me apart<br />If I don' t do now<br />What I've been doing all my life<br />I' ll be running...all my life<br />I' m the running man<br />The fugitive<br />Seeking political asylum is not easy down here FONT</div>\n</div>"
+    },
+    {
+      "id": 42,
+      "name_category": "Playlist 2",
+      "title": "Group Areas Act",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_42.mp3",
+      "lyrics": "<div>\n<div>If I'm dreaming (Don't wake me up)<br />If it's a lie (Don't tell me the truth)<br />Cause what the truth will do<br />It's gonna hurt my heart<br />Being in the darkness<br />For so long now<br />Mr President<br />Did I hear you well last night on TV you said<br />Group areas act is going<br />Apartheid is going<br />Group areas act is going<br />Apartheid is going<br />Ina me eye yeah<br />Me sight the future so bright<br />I mean I my eyes<br />I see the future so bright<br />That the blackie manna's coming a together with the whitey manna<br />The whitey manna a coming a together with the black man yeah<br />I say the blackie manna's coming a together with the whitey manna<br />The whitey manna a coming a together with the black man<br />If I'm dreaming (Don't wake me up)<br />If it's a lie (Don't tell me the truth)<br />Gazing at my crystal ball<br />I see the future so bright<br />The fighting's gonna stop now<br />We'll forgive and forget<br />I know Mr President<br />You can't please everyone<br />But everybody liked it<br />When you said<br />Group areas act is going<br />Apartheid is going<br />Group areas act is going<br />Apartheid is going<br />And the blackie manna's coming a together with the whitey manna<br />The whitey manna a coming a together with the black man<br />The blackie manna's coming a together with the whitey manna<br />I say he blackie manna's coming a together with the whitey manna<br />The whitey manna a coming a together with the black man<br />If I'm dreaming (Don't wake me up)<br />If it's a lie (Don't tell me the truth)<br />If I'm dreaming (Don't wake me up)<br />If it's a lie (Don't tell me the truth)<br />If I'm dreaming (Don't wake me up)<br />If it's a lie (Now tell Iiar Iair the truth)<br />If I'm dreaming (Don't wake me up)<br />If it's a lie (Now tell Iiar Iiar the truth)<br />If I'm dreaming</div>\n</div>"
+    },
+    {
+      "id": 43,
+      "name_category": "Playlist 2",
+      "title": "Let Jah Be Praised",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_43.mp3",
+      "lyrics": "<div>\n<div>We've got the wind that blows every day,<br />We've got the moon and the stars that gives us light every day.<br />We've got the wind that blows every day,<br />We've got the moon and the stars that gives us light in the dark.<br />We've got life, we've got clothes,<br />But at the corners of our minds we've got a question.<br />And the question is, where do all these things come from?<br />This world is turning around but we don't know how it happens.<br />The world is turning around but we don't know how it happens.<br />Only God knows.<br />Let Jah be praised. The world is turning around, but we don't know how it happens.<br />They say the world is turning around, but we don't know how it happens.<br />Only God knows.<br />We see the flowers and the trees,<br />They are growing out there where nobody cares.<br />They've got life, they've got energy,<br />But at the corners of our minds we've got a question.<br />And the question is, where do all these things come from?<br />Ooh, nobody knows.<br />We are living in this world that's turning around, but we don't know how it happens.<br />The world is turning around but we don't know how...<br />Only God knows.<br />Let Jah be Praised (Let him be praised, whoever you are, whatever you may do<br />Igziabeher, Negusa Negast praise the Lord.<br />I said praise.)<br />The world is turning around, but we don't know how it happens.<br />The world is turning around, but we don't know how it happens.<br />Oh Jah, Jah...<br />We've got the wind that blows every day...</div>\n</div>"
+    },
+    {
+      "id": 44,
+      "name_category": "Playlist 2",
+      "title": "Man In The Mirror",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_44.mp3",
+      "lyrics": "<div>\n<div>When I look in the mirror<br />It's your face I see<br />Even when I go to sleep at night<br />It's your face I see<br />You are the one to congratulate me<br />When I've done right<br />You are the last to criticize me<br />When I've done wrong<br />You are the star of my show<br />Oh... man... oh... man<br />I don't know where to start to thank you<br />Everything I own I owe it all to you<br />The man in the mirror<br />The man in the mirror<br />The man in the mirror<br />The man in the mirror<br />I don't know where, how to thank you<br />This happiness I have<br />I owe it all to you, man in the mirror<br />When there's decisions to be made<br />You leave it up to me<br />I leave it up to you<br />And whatever you decide is alright with me<br />Some people say you're so difficult to live with<br />Oh my<br />But I know different<br />Follow me I'm right behind you<br />I don't know where, how to thank you<br />This happiness I have<br />I owe it all to you<br />The man in the mirror<br />The man in the mirror<br />The man in the mirror<br />The man in the mirror<br />The man in the mirror</div>\n</div>"
+    },
+    {
+      "id": 45,
+      "name_category": "Playlist 2",
+      "title": "Shembe Is The Way",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_45.mp3",
+      "lyrics": "<div>\n<div>It wasn't the valley of death, I was walking in<br />It was the valley of confusion for many years<br />Different religions, different beliefs<br />Undermining my culture<br />Looking down upon my tradition<br />Making fun of my language<br />Telling my children, they have no God<br />Finally I can tell them about,<br />Shembe is the way<br />Oh SHEMBE thank you for showing us the way.<br />Shembe nobunazaretha.<br />Oh SHEMBE thank you for healing my people.<br />Shembe nobunazaretha.<br />Shemebe is the way.<br />I hear them shoulting Amen,<br />At the top of the mountain<br />I hear them shouting Uyingcwele<br />At the top of the mountain.<br />No one will undermine my religion<br />No one will undermine my culture anymore,<br />Cause God sent him from above, to be with the people.<br />Bring them back to what is their own<br />Take them back to the ways Of our forefathers.<br />Finally I can tell generations and generations<br />That Shembe is the way<br />Oh Shemebe THANK YOU FOR SHOWING US THE WAY.<br />Shembe Nobunazaretha.</div>\n</div>"
+    },
+    {
+      "id": 46,
+      "name_category": "Playlist 2",
+      "title": "Take It To Jah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_46.mp3",
+      "lyrics": "<div>\n<div>All this pain in this world<br />All the crying in this world<br />I'll take it to Jah<br />All the worries in this world<br />And all the troubles in this world<br />I will take to Jah<br />I really will<br />All the suffering<br />Right where we are<br />I'll take to my father<br />'Cause he said<br />Come to I with all thine sins<br />And I will wash away the impurities<br />He said I'm your father<br />My lord you said<br />The creator of everything<br />That's why I say<br />All this pain I'll take to Jah<br />All these worries I'll take to Jah<br />All this pain I'll take to Jah<br />All these worries I'll take to Jah<br />He said<br />Come to I with your problems<br />No problem too big or small<br />He said<br />No one, no one will be rejected<br />And I am your father, the creator<br />Oh, Lord I cry<br />Oh, my Lord I cry<br />Even when Satan comes<br />With him demons<br />Turn everything I believed in<br />Upside down<br />I will never forget<br />With Jah on our side<br />Who can be against us<br />Oh no<br />Most high omnipotent one<br />Praise him forever<br />Most high omnipotent one (Omnipotent one)<br />All this pain in this world<br />All the suffering in this world<br />I will take to Jah (All this pain I'll take to Jah)<br />All this crying I'll take to Jah</div>\n</div>"
+    },
+    {
+      "id": 47,
+      "name_category": "Playlist 2",
+      "title": "The One",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_47.mp3",
+      "lyrics": "<div>\n<div>It started like a joke<br />I never thought it would come to this<br />Today I'm walking in the bushes, like a criminal<br />Today I'm walking so slow, like a predator<br />Just to get a glimpse of you<br />As you play in the play ground<br />Your mother spoke to the lawyers<br />Told them I was not good around you<br />The lawyers spoke to the judges<br />Told them I was not good around you<br />The judges gave your mother a letter<br />That is keeping me away from you<br />Don't worry, you are never far from me<br />Inside my heart, I keep a little box<br />It is the box of memories I created about you<br />Inside my heart, I keep a little box<br />It is the box of memories I created about you<br />You are the one, you are the one<br />You are the one, you are the one<br />You are the one, you are the one<br />You are the one, you are the one<br />You are the one, you are<br />You are<br />Whenever I miss you bad<br />I walk around the park<br />Looking at little boys and girls<br />They remind me of you<br />There's a lot of stories, I'd like to share with you<br />There's a lot of games, I'd would like to play with you<br />Tears come down my face<br />When I think about what happened<br />The lawyer spoke to the judges<br />Told them I was not good around you<br />The judges gave your mother a letter<br />That is keeping me away from you<br />Don't worry, you are never far from me<br />Inside my heart I keep a little box<br />It is a box of memories I created about you<br />Inside my heart I keep a little box<br />It is a box of memories I created about you<br />You are the one, you are the one<br />You are the one, you are the one<br />You are the one, you are the one<br />(You are the one, you are the one)</div>\n</div>"
+    },
+    {
+      "id": 48,
+      "name_category": "Playlist 2",
+      "title": "Hero",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_48.mp3",
+      "lyrics": "<div>\n<div>My whole life my whole life<br />I have got a dream<br />My whole life my whole life<br />I have got a dream<br />My whole life my whole life<br />I have got a dream<br />My whole life my whole life<br />I have got a dream<br />My dream is to be like luck dube<br />My dream is to be like luck dube<br />My dream is to be like luck dube<br />My dream is to be like luck dube<br />People in africa respect lucky dube<br />People in america respect lucky dube<br />People in asia respect lucky dube<br />People in jamaica respect lucky dube<br />People in africa respect lucky dube (ohooow oh oh ohoow)<br />People in america respect lucky dube (ohooow oh oh ohoow)<br />People in asia respect lucky dube (ohooow oh oh ohoow)<br />People in jamaica respect lucky dube (ohooow oh oh ohoow)<br />Lucky dube, he was a hero<br />Lucky dube, he was a conquer<br />Lucky dube, he was a hero<br />Lucky dube, he was a conquer<br />Lucky dube<br />My whole life my whole life<br />I have got a dream<br />My whole life my whole life<br />I have got a dream<br />My whole life my whole life<br />I have got a dream<br />My whole life my whole life<br />I have got a dream<br />My dream is to be like luck dube<br />My dream is to be like luck dube<br />My dream is to be like luck dube<br />My dream is to be like luck dube</div>\n</div>"
+    },
+    {
+      "id": 49,
+      "name_category": "Playlist 2",
+      "title": "Romeo & Juliet",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_49.mp3",
+      "lyrics": "<div>\n<div>I've been looking everywhere for you<br />Since the day we met<br />I've never been my old self again oh<br />You don't have to believe in everything<br />I say right now<br />'Cause to you I'm just another man<br />Until I prove myself to be worthy of your love you<br />See, I'm not the kind of guy<br />That will bring you flowers everyday<br />I'm not the kind of guy<br />That will tell you I love you in many fancy ways<br />Oh girl!<br />I've got to tell you this<br />I love you<br />I want you<br />I love you<br />I want you<br />Oh-oh-ohh<br />I'm your Romeo<br />(Could you be) could you be my Juliet<br />(I am, I am) I'm your Romeo<br />(Could you be) could you be my Juliet<br />(I am, I am) I'm your Romeo<br />(Could you be) could you be my Juliet<br />(I am, I am) I'm your Romeo<br />(Could you be) could you be my Juliet<br />(Oh-oh-oh-oh-oh) I'm your Romeo<br />(Could you be) could you be my Juliet<br />I know what women want<br />I've been around long enough<br />To understand it<br />But I want you to tell me<br />How to love you<br />'Cause I want to love you<br />The way you wanna be loved<br />It is better to have loved and lost<br />Than never to have loved at all<br />See, I'm not the kind of guy<br />That will bring you flowers everyday<br />I'm not the kind of guy<br />That will tell you I love you in many fancy ways<br />But my girl, I've got to tell you this<br />I love you!<br />I want you<br />I love you!<br />I want you<br />I think I'll prove myself<br />To be worthy of your love<br />I'm your Romeo<br />(Could you be) could you be my Juliet<br />(I am) I'm your Romeo<br />(Could you be) could you be my Juliet<br />(Oh-oh-oh-oh-oh) I'm your Romeo (I am)<br />Could you be my Juliet<br />(Oh-oh-oh-oh-oh) I'm your Romeo<br />Could you be my Juliet<br />(I am) I'm your Romeo<br />Could you be my Juliet<br />(Oh-oh-oh-oh-oh)<br />I'm your Romeo<br />Could you be my Juliet<br />(I am) I'm your Romeo<br />(Could you be) could you be my Juliet</div>\n</div>"
+    },
+    {
+      "id": 50,
+      "name_category": "Playlist 2",
+      "title": "Teach The World",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "lucky/dube_50.mp3",
+      "lyrics": "<div>\n<div>It takes a million people<br />To build up a good reputation<br />But it takes one stupid fool<br />To destroy everything they done<br />The world knows your people as<br />The most violent in the world<br />The world knows your nation as<br />The most oppresive in the world<br />Take it upon yourself<br />To restore your nation's dignity<br />It takes you to teach the world<br />That is why I got to say<br />Wherever you go (teach the world)<br />(Teach them right)<br />Teach the world (teach the world)<br />About your people (teach them right)<br />About your nation (teach the world)<br />Teach the world (teach them right)<br />About your religion (teach the world)<br />Teach them right (teach them right)<br />It takes a million lives<br />To get the respect you deserve<br />When people see your kind<br />Some of them would run a mile<br />The world knows your people<br />As a nation of crooks<br />Everyone around you should<br />Always keep their eyes opened<br />The world knows your nation<br />As a nation of drug lords<br />Everyone blames your people<br />For the destruction of the world<br />Take it upon yourself<br />To restore your nation's dignity<br />Everywhere you go<br />Teach the world (about your people)<br />Teach them right (teach them right)<br />Teach the world (about your culture)<br />Teach them right (teach them right)<br />Teach the world (religion)<br />Teach them right<br />Teach them about Rastafara<br />Teach the world (about your nation)<br />Teach them right (teach them about)<br />Teach the world (about your people)<br />Teach them right (teach)<br />Teach the world (about your culture)<br />Teach them right...</div>\n</div>"
+    }
+  ]
+}
