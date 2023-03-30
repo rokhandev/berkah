@@ -1,0 +1,819 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "سور كاملة",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "صلاة التروايح",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "اناشيد",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "ادعيه",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "آيات من القرآن الكريم",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "سور كاملة",
+      "title": "سورة الرحمن",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "سور كاملة",
+      "title": "سورة الفجر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "سور كاملة",
+      "title": "سورة الحجر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "سور كاملة",
+      "title": "سورة الصافات",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "سور كاملة",
+      "title": "سورة القيامة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1zgRgaJLP8YPUU-tj35hPJLIn8iqY0_xR",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "سور كاملة",
+      "title": "سورة الملك",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1QywNFXweh6mOr_Auopq0fx8X8JH4tdeb",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "سور كاملة",
+      "title": "سورة مريم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1zkbOuKZKZtV8_YtAxVEALN8P9BZrUWe1",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "سور كاملة",
+      "title": "سورة النازعات",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1UzcYm_AfbeK44PdzytiwTo7H8lGLSryo",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"1\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1uJHgfJvHJMjCVOgnfQWFoTNMHra1gOHU",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"2\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1LlWgY0SyGdCc_NA6MxBLJmGqtLLxypOp",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"3\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1W0UALTBridPDmUPNWt4Hdd8ukMMYQVQN",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"4\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=19SD7sY-I-oW9ohvFjTAQssgp85I0E2a4",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"5\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1LP8LjLD_stSwEYz-YM19WxUxnDRlBtka",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"6\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1Ku26zlkWP0RrQESSPL0LYOLOYDXLVAyq",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "صلاة التروايح",
+      "title": "صلاة التراويح \"7\"",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://drive.google.com/uc?export=download&id=1bg1v3CG2frc4SR3apcPIZHX1jxB3as6N",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "اناشيد",
+      "title": "انشودة اخي انت حراً",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "اناشيد",
+      "title": "انشودة قد بعتوها دنيا الهوان",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "ادعيه",
+      "title": "دعاء الاقصى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "ادعيه",
+      "title": "دعاء",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الرحمن -الاية 133",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة النور-الاية 35",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "اوائل سورة الرحمن",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "اوائل سورة الشمس",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "اوائل سورة القلم",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "اوائل سورة الملك",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "اوائل سورة طه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "اية الكرسي",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة ابراهيم-الاية 12",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة ابراهيم-الاية 42",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة ال عمران-الاية 11",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الاحزاب الاية 56",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الاسراء-الاية 82",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الاسراء-الاية 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الاعراف-الاية 183",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "ايات من سورة الانبياء",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة البقرة-الاية  155",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة البقرة-الاية 185",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة البقرة-الاية 186",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة البقرة-الاية 260",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة البقرة-الاية 286",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة التغابن-الاية11",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة التغابن-الاية 13",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة التغابن كاملة",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة التوبة -الاية 128",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة التين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الحجر-الاية 91",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الحجر-الاية 97",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الحشر-الاية 14",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الرحمن-الاية 26",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الرعد-الاية 28",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الزخرف -الاية 68",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_51.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الزمر -الاية 53",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_52.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الزمر- الاية 73",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_53.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الزمر- الاية 74",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_54.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الزمر- الاية36",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_55.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الشرح",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الشورى -الاية 19",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_57.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الصافات- اية 114",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_58.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الضحى",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_59.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة العنكبوت- الاية 10",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_60.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الفتح-الاية 4",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_61.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة القاتحه",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_62.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة القدر",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_63.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة القيامة- الاية 20",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_64.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة المائده -الاية 40",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_65.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الملك",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_66.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة المنافقون-الاية 11",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_67.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "ايات من سورة النازعات",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_68.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة النبا -الاية 36",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_69.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة النجم- الاية 39",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_70.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 71,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة النساء -الاية 27",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_71.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة النمل- الاية 59",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_72.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة النور -الاية 43",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_73.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الواقعة -الاية 10",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_74.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الرحمن- الاية 58",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_75.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة سبا -الاية 13",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_76.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة سبا -الاية15",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_77.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 78,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة ص-الاية 44",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_78.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة طه -الاية 105",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_79.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة طه -الاية 46",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_80.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 81,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة فاطر- الاية 34",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_81.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة فصلت- الاية 30",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_82.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة ق- الاية 29",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_83.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة مريم -الاية 59",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_84.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 85,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة نوح -الاية11",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_85.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة يس- الاية 81",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_86.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة يوسف -الاية 86",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_87.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة يوسف- الاية 87",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_88.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة يونس- الاية 107",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_89.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سوره ابراهيم- الاية 12",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_90.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 91,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سوره التوبة- الاية 40",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_91.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 92,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سوره التين",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_92.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سوره طه -الاية 25",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_93.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "ايات من سورة نوح",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_94.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "آيات من القرآن الكريم",
+      "title": "سورة الصافات -الاية  116",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "azzam/hus_95.mp3",
+      "lyrics": ""
+    }
+  ]
+}
