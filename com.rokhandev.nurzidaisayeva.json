@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 15,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -43,7 +43,7 @@
     {
       "id": 1,
       "name_category": "Playlist 1",
-      "title": "O‘ynab kuling",
+      "title": "Oâ€˜ynab kuling",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "isayeva/nur_1.mp3",
       "lyrics": ""
@@ -123,7 +123,7 @@
     {
       "id": 11,
       "name_category": "Playlist 2",
-      "title": "Onam qo‘ng‘iroq qildi - Doston Ergashev & Nurzida",
+      "title": "Onam qoâ€˜ngâ€˜iroq qildi - Doston Ergashev & Nurzida",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "isayeva/nur_11.mp3",
       "lyrics": ""
@@ -163,7 +163,7 @@
     {
       "id": 16,
       "name_category": "Playlist 2",
-      "title": "Dona dona (cover to‘liq versiya)",
+      "title": "Dona dona (cover toâ€˜liq versiya)",
       "image": "file:///android_asset/image/check.jpg",
       "link_mp3": "isayeva/nur_16.mp3",
       "lyrics": ""
