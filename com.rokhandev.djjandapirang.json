@@ -1,0 +1,311 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978XXX",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173XXX",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "DJ Rambut Pirang",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "DJ Rambut Pirang",
+      "title": "DJ Ayo Ayo Demi Janda Pirang Funky Night",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "DJ Rambut Pirang",
+      "title": "DJ Demi Janda Pirang 2023",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "DJ Rambut Pirang",
+      "title": "DJ Janda Bodong",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "DJ Rambut Pirang",
+      "title": "DJ Janda Rambut Pirang 2023",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "DJ Rambut Pirang",
+      "title": "DJ Merayu Janda Pirang 2023",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "DJ Rambut Pirang",
+      "title": "DJ Pantun Janda Pirang 2023",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Aishiteru 3",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Aiya Susanti",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Bojoku Tak Kekne Uwong Remix",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Bojomu Sesok Tak Silihe",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Calm Down Pargoy",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Dayak Malihi Janji",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Demi Cinta yang Menyala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Domba Kuring",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Dua Tahun Ngana",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Ego Thailand Style",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Gubuk Jadi Istana",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Ih Abang Jahat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Ikan Dalam Kolam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Jangan Lupa Bahagia",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Jangan Pernah Kau Sakiti Aku Lagi",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Janji Janji Seribu Janji",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Kara Boruto",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Mapopo Syalala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Melepas Masa Lajangku",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Menungso Ora Toto",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Ramadhan Maher Zain",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Rasah Nyangkem",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Saha Jaluna Domba Kuring",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Satu Rasa Cinta",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj She Doesn't Mind",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Suwung Heyek Crew",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Tolong Pangana",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "DJ Rambut Pirang",
+      "title": "Dj Wahdana",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "janda/pirang_34.mp3",
+      "lyrics": ""
+    }
+  ]
+}
