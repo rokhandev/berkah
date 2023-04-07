@@ -1,0 +1,951 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Ahmad Sulaiman",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Ahmad Sulaiman",
+      "title": "001 : Al Fatiha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491132193.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Ahmad Sulaiman",
+      "title": "002 : Al Baqarah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491148330.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Ahmad Sulaiman",
+      "title": "003 : A'al Imran",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491157773.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Ahmad Sulaiman",
+      "title": "004 : Al Nesa'a",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491166723.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Ahmad Sulaiman",
+      "title": "005 : Al Ma'edah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491174344.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Ahmad Sulaiman",
+      "title": "006 :  Al Ana'am",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491184268.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Ahmad Sulaiman",
+      "title": "007 : Al A`araf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491193700.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Ahmad Sulaiman",
+      "title": "008 : Al Anfal",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491199625.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Ahmad Sulaiman",
+      "title": "009 : At Tawba",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491206508.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Ahmad Sulaiman",
+      "title": "010 : Yunus",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618491213055.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Ahmad Sulaiman",
+      "title": "011 : Hud",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492522484.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Ahmad Sulaiman",
+      "title": "012 : Yusuf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492532000.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Ahmad Sulaiman",
+      "title": "013 : Ar Rad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492537967.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Ahmad Sulaiman",
+      "title": "014 : Ibrahim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492545055.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Ahmad Sulaiman",
+      "title": "015 : Al Hijr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492551702.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Ahmad Sulaiman",
+      "title": "016 : Al Nahl",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492560819.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Ahmad Sulaiman",
+      "title": "017 : Al Isra",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492569102.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Ahmad Sulaiman",
+      "title": "018 : Al Kahf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492583957.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Ahmad Sulaiman",
+      "title": "019 : Maryam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492607608.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Ahmad Sulaiman",
+      "title": "020 : Taha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492615182.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Ahmad Sulaiman",
+      "title": "021 : Al Anbiya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492623136.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Ahmad Sulaiman",
+      "title": "022 : Al Najj",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492630414.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Ahmad Sulaiman",
+      "title": "023 : Al Mumenoon",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492637824.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Ahmad Sulaiman",
+      "title": "024 : An Noor",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492645202.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Ahmad Sulaiman",
+      "title": "025 : Al Furqan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492652408.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Ahmad Sulaiman",
+      "title": "026 : Ash Shuara",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492660698.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Ahmad Sulaiman",
+      "title": "027 : An Naml",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492668822.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Ahmad Sulaiman",
+      "title": "028 : Al Qasas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492675238.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Ahmad Sulaiman",
+      "title": "029 : Al Ankaboot",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492686358.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Ahmad Sulaiman",
+      "title": "030 : Ar Room",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492692926.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Ahmad Sulaiman",
+      "title": "031 : Luqman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492702214.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Ahmad Sulaiman",
+      "title": "032 : AS Sajda",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492709977.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Ahmad Sulaiman",
+      "title": "033 : Al Ahzab",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492718430.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Ahmad Sulaiman",
+      "title": "034 : Saba",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492726620.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Ahmad Sulaiman",
+      "title": "035 : Fatir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492737365.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Ahmad Sulaiman",
+      "title": "036 : Yaseen",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492747990.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Ahmad Sulaiman",
+      "title": "037 : As Saaffat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492757080.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Ahmad Sulaiman",
+      "title": "038 : Sad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492764244.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Ahmad Sulaiman",
+      "title": "039 : Az Zumar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492771841.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Ahmad Sulaiman",
+      "title": "040 : Ghafir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492781344.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Ahmad Sulaiman",
+      "title": "041 : Fussilat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492788934.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Ahmad Sulaiman",
+      "title": "042 : Ash Shura",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492797015.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Ahmad Sulaiman",
+      "title": "043 : Az Zukhruf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492805850.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Ahmad Sulaiman",
+      "title": "044 : Ad Dukhan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492815437.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Ahmad Sulaiman",
+      "title": "045 : Al Jathiya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492826989.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Ahmad Sulaiman",
+      "title": "046 : Al Ahqaf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492834602.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Ahmad Sulaiman",
+      "title": "047 : Muhammad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492841709.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Ahmad Sulaiman",
+      "title": "048 : Al Fath",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492849919.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Ahmad Sulaiman",
+      "title": "049 : Al Hujraat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492857064.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Ahmad Sulaiman",
+      "title": "050 : Qaf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492867269.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Ahmad Sulaiman",
+      "title": "051 : Ad Dhariyat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492874266.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Ahmad Sulaiman",
+      "title": "052 : At Tur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492883189.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Ahmad Sulaiman",
+      "title": "053 : An Najm",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492891454.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Ahmad Sulaiman",
+      "title": "054 : Al Qamar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492901011.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Ahmad Sulaiman",
+      "title": "055 : Ar Rahman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492912525.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Ahmad Sulaiman",
+      "title": "056 : Al Waqia",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492925325.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Ahmad Sulaiman",
+      "title": "057 : Al Hadid",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492932598.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Ahmad Sulaiman",
+      "title": "058 : Al Mujadala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492940665.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Ahmad Sulaiman",
+      "title": "059 : Al Hashr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618492997221.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Ahmad Sulaiman",
+      "title": "060 : Al Mumtahana",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493003657.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "Ahmad Sulaiman",
+      "title": "061 : As Saff",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493008952.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "Ahmad Sulaiman",
+      "title": "062 : Al Jumua",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493031443.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "Ahmad Sulaiman",
+      "title": "063 : Al Munafiqoon",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493038141.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "Ahmad Sulaiman",
+      "title": "064 : At Taghabun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493045321.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "Ahmad Sulaiman",
+      "title": "065 : At Talaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493050086.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "Ahmad Sulaiman",
+      "title": "066 : At Tahrim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493055694.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "Ahmad Sulaiman",
+      "title": "067 :  Al Mulk",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493061172.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "Ahmad Sulaiman",
+      "title": "068 : Al Qalam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493067204.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "Ahmad Sulaiman",
+      "title": "069 : Al Haqqa",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493074611.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "Ahmad Sulaiman",
+      "title": "070 : Al Maarij",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493081273.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 71,
+      "name_category": "Ahmad Sulaiman",
+      "title": "071 : Nooh",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493088699.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "Ahmad Sulaiman",
+      "title": "072 : Al Jinn",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493095239.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "Ahmad Sulaiman",
+      "title": "073 : Al Muzzamill",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493101926.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "Ahmad Sulaiman",
+      "title": "074 : Al Muddaththir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493109107.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "Ahmad Sulaiman",
+      "title": "075 : Al Qiyama",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493136918.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "Ahmad Sulaiman",
+      "title": "076 : Al Insan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493145292.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "Ahmad Sulaiman",
+      "title": "077 : Al Mursalat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493150996.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 78,
+      "name_category": "Ahmad Sulaiman",
+      "title": "078 : An Naba",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493160083.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "Ahmad Sulaiman",
+      "title": "079 : An Naziat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493244522.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "Ahmad Sulaiman",
+      "title": "080 : Abasa",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493254758.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 81,
+      "name_category": "Ahmad Sulaiman",
+      "title": "081 : Al Takwir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493262926.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "Ahmad Sulaiman",
+      "title": "082 : Al Infitar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493269784.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "Ahmad Sulaiman",
+      "title": "083 : Al Mutaffifin",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493280891.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "Ahmad Sulaiman",
+      "title": "084 : Al Inshiqaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493286942.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 85,
+      "name_category": "Ahmad Sulaiman",
+      "title": "085 : Al Burooj",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493293741.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "Ahmad Sulaiman",
+      "title": "086 : At Tariq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493302014.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "Ahmad Sulaiman",
+      "title": "087 : Al Ala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493309658.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "Ahmad Sulaiman",
+      "title": "088 : Al Ghashiya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493316961.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "Ahmad Sulaiman",
+      "title": "089 : Al Fajr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493324301.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "Ahmad Sulaiman",
+      "title": "090 : Al Balad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493332574.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 91,
+      "name_category": "Ahmad Sulaiman",
+      "title": "091 : Ash Shams",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493340050.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 92,
+      "name_category": "Ahmad Sulaiman",
+      "title": "092 : Al Layl",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493347351.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "Ahmad Sulaiman",
+      "title": "093 : Ad Dhuha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493354880.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "Ahmad Sulaiman",
+      "title": "094 : As Sharh",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493362035.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "Ahmad Sulaiman",
+      "title": "095 : At Tin",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493368934.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "Ahmad Sulaiman",
+      "title": "096 : Al Alaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493375413.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "Ahmad Sulaiman",
+      "title": "097 : Al Qadr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493382879.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "Ahmad Sulaiman",
+      "title": "098 : Al Bayyina",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493389618.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 99,
+      "name_category": "Ahmad Sulaiman",
+      "title": "099 : Az Zalzala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493402883.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 100,
+      "name_category": "Ahmad Sulaiman",
+      "title": "100 : Al Adiyat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493410935.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 101,
+      "name_category": "Ahmad Sulaiman",
+      "title": "101 : Al Qaria",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493420076.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 102,
+      "name_category": "Ahmad Sulaiman",
+      "title": "102 : At Takathur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493429490.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 103,
+      "name_category": "Ahmad Sulaiman",
+      "title": "103 : Al Asr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493438799.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 104,
+      "name_category": "Ahmad Sulaiman",
+      "title": "104 : Al Humaza",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493448446.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 105,
+      "name_category": "Ahmad Sulaiman",
+      "title": "105 : Al Fil",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493457093.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 106,
+      "name_category": "Ahmad Sulaiman",
+      "title": "106 : Quraish",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493569443.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 107,
+      "name_category": "Ahmad Sulaiman",
+      "title": "107 : Al Maun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493577100.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "Ahmad Sulaiman",
+      "title": "108 : Al Kauther",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493584421.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 109,
+      "name_category": "Ahmad Sulaiman",
+      "title": "109 : Al Kafiroon",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493592195.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 110,
+      "name_category": "Ahmad Sulaiman",
+      "title": "110 : An Nasr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493601791.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 111,
+      "name_category": "Ahmad Sulaiman",
+      "title": "111 : Al Masadd",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493615975.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 112,
+      "name_category": "Ahmad Sulaiman",
+      "title": "112 : Al Ikhlas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493624570.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 113,
+      "name_category": "Ahmad Sulaiman",
+      "title": "113 : Al Falaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493633228.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 114,
+      "name_category": "Ahmad Sulaiman",
+      "title": "114 : An Nas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "ahmad/file_1618493640569.mp3",
+      "lyrics": ""
+    }
+  ]
+}
