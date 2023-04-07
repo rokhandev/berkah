@@ -1,0 +1,447 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978xxx",
+      "main_ads_intertitial":"ca-app-pub-1196974020157885/9199746366",
+      "main_ads_natives":"ca-app-pub-1196974020157885/5067684764",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"ef233dd45be8524c",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"2469c14640d8a64d",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-1196974020157885/9769632512",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Best Tilawah",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Best Tilawah",
+      "title": "001 - Al Fatihah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Best Tilawah",
+      "title": "003 - Al Imran 1-41",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Best Tilawah",
+      "title": "005 - Al Maidah 12-66",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Best Tilawah",
+      "title": "006 - Al Anaam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Best Tilawah",
+      "title": "007 - Al A'araf 130-206",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Best Tilawah",
+      "title": "008 - Al Anfal 1-69",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Best Tilawah",
+      "title": "009 - At Taubah 69-129",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Best Tilawah",
+      "title": "010 - Yunus",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Best Tilawah",
+      "title": "011 - Hood 15-95",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Best Tilawah",
+      "title": "012 - Yusuf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Best Tilawah",
+      "title": "013 - Ar Ra'd",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Best Tilawah",
+      "title": "014 - Ibrahim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Best Tilawah",
+      "title": "015 - Al Hijr 1-25",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Best Tilawah",
+      "title": "018 - Al Kahf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Best Tilawah",
+      "title": "019 - Maryam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Best Tilawah",
+      "title": "021 - Al Anbiya 51-90",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Best Tilawah",
+      "title": "022 - Al Hajj 26-37",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Best Tilawah",
+      "title": "023 - Al Mu'minun 93-118",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Best Tilawah",
+      "title": "025 - Al Furqan 53-77",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Best Tilawah",
+      "title": "027 - An Naml 59-89",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Best Tilawah",
+      "title": "029 - Al 'Ankabut 46-69",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Best Tilawah",
+      "title": "030 - Ar Room",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Best Tilawah",
+      "title": "031 - Luqman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Best Tilawah",
+      "title": "032 - As Sajdah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Best Tilawah",
+      "title": "033 - Al Ahzab 1-30",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Best Tilawah",
+      "title": "036 - Yaseen",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Best Tilawah",
+      "title": "039 - Az Zumar 68-75",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Best Tilawah",
+      "title": "040 - Ghafir 23-65",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Best Tilawah",
+      "title": "041 - Fussilat 30-39",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Best Tilawah",
+      "title": "048 - Al Fath",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Best Tilawah",
+      "title": "049 - Al Hujurat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Best Tilawah",
+      "title": "050 - Qaf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Best Tilawah",
+      "title": "051 - Az Zariyat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Best Tilawah",
+      "title": "052 - At Tur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Best Tilawah",
+      "title": "055 - Ar Rahman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Best Tilawah",
+      "title": "058 - Al Mujadilah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Best Tilawah",
+      "title": "059 - Al Hashr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Best Tilawah",
+      "title": "060 - Al Mumtahinah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Best Tilawah",
+      "title": "061 - As Saff",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Best Tilawah",
+      "title": "062 - Al Jumuah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Best Tilawah",
+      "title": "063 - Al Munafiqun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Best Tilawah",
+      "title": "064 - At Taghabun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Best Tilawah",
+      "title": "065 - At Talaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Best Tilawah",
+      "title": "066 - At Tahrim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Best Tilawah",
+      "title": "067 - Al Mulk",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Best Tilawah",
+      "title": "076 - Al Insan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Best Tilawah",
+      "title": "091 - Ash Shams",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Best Tilawah",
+      "title": "093 - Ad-Duha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Best Tilawah",
+      "title": "103 - Al Asr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Best Tilawah",
+      "title": "112 - Al-Ikhlas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Best Tilawah",
+      "title": "Dua",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/afif_51.mp3",
+      "lyrics": ""
+    }
+  ]
+}
