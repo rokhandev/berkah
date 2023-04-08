@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 15,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -40,7 +40,7 @@
       "name_category": "Mahrajanat",
       "title": "DJRemix 1",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1Uw6nQfrIMMmTFCnCFYz9HtIXt_-ybcBG",
+      "link_mp3": "https://archive.org/download/Koesplus-/01.%20Koes%20Plus%20-%20Tul%20Jaenak.mp3",
       "lyrics": ""
     },
     {
@@ -48,55 +48,7 @@
       "name_category": "Mahrajanat",
       "title": "DJRemix 2",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1mGuExh0XuPIcdxuz_cmkB5qvhoZQwQQM",
-      "lyrics": ""
-    },
-    {
-      "id": 3,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 3",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1G-rSxBya9py7XeYdtjbZUH3uRP4BXFzq",
-      "lyrics": ""
-    },
-    {
-      "id": 4,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 4",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1iWG09ei3TRTz_Ncj3EuTkGMsG0Psu1NV",
-      "lyrics": ""
-    },
-    {
-      "id": 5,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 5",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1rh0mv7K5HHlBJB-TwPWhiWeSM6brpGTv",
-      "lyrics": ""
-    },
-    {
-      "id": 6,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 6",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=13lJhNhImrDnl7ZtabI5Ve21P5rqA0O6U",
-      "lyrics": ""
-    },
-    {
-      "id": 7,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 7",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1YbLKhqxss8Vd8QLCqsmEVwx0KrZ49KO-",
-      "lyrics": ""
-    },
-    {
-      "id": 8,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 8",
-      "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://drive.google.com/uc?export=download&id=1dwEuX84EPpj4FUtUDz5uNH1WkWshlROi",
+      "link_mp3": "https://archive.org/download/Koesplus-/01._Koes_Plus_-_Lagu_Dalam_Impian.mp3",
       "lyrics": ""
     }
   ]
