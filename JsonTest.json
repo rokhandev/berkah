@@ -30,25 +30,510 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Mahrajanat",
+      "name_category": "Online",
+      "image": "file:///android_asset/image/check.jpg"
+    },
+	{
+      "id": 2,
+      "name_category": "Offline",
       "image": "file:///android_asset/image/check.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 1",
+      "name_category": "Offline",
+      "title": "Surah AlFatiha",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://archive.org/download/Koesplus-/01.%20Koes%20Plus%20-%20Tul%20Jaenak.mp3",
+      "link_mp3": "BestTilawah/SurahAlFatiha.mp3",
       "lyrics": ""
     },
     {
       "id": 2,
-      "name_category": "Mahrajanat",
-      "title": "DJRemix 2",
+      "name_category": "Offline",
+      "title": "Surah Alfurqan",
       "image": "file:///android_asset/image/check.jpg",
-      "link_mp3": "https://www.dropbox.com/s/bfffdo4sadi6t3c/Surah%20Ibrahim.mp3?dl=1",
+      "link_mp3": "BestTilawah/SurahAlfurqan.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Offline",
+      "title": "Surah AlKahf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahAlKahf.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Offline",
+      "title": "Surah ArRahman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahArRahman.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Offline",
+      "title": "Surah Hajj",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahHajj.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Offline",
+      "title": "Surah Ibrahim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahIbrahim.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Offline",
+      "title": "Surah Maryam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahMaryam.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Offline",
+      "title": "Surah Yasin",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahYasin.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Offline",
+      "title": "Surah Yusuf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahYusuf.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Offline",
+      "title": "Surah Luqman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SurahLuqman.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Offline",
+      "title": "Surat Yaseen",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "BestTilawah/SuratYaseen.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Online",
+      "title": "001 - Al Fatihah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Online",
+      "title": "003 - Al Imran 1-41",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Online",
+      "title": "005 - Al Maidah 12-66",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Online",
+      "title": "006 - Al Anaam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Online",
+      "title": "007 - Al A'araf 130-206",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_5.mp3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Online",
+      "title": "008 - Al Anfal 1-69",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Online",
+      "title": "009 - At Taubah 69-129",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Online",
+      "title": "010 - Yunus",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Online",
+      "title": "011 - Hood 15-95",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia801606.us.archive.org/30/items/afiftaj/afif_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Online",
+      "title": "012 - Yusuf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Online",
+      "title": "013 - Ar Ra'd",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 23,
+      "name_category": "Online",
+      "title": "014 - Ibrahim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Online",
+      "title": "015 - Al Hijr 1-25",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Online",
+      "title": "018 - Al Kahf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Online",
+      "title": "019 - Maryam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Online",
+      "title": "021 - Al Anbiya 51-90",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Online",
+      "title": "022 - Al Hajj 26-37",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Online",
+      "title": "023 - Al Mu'minun 93-118",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Online",
+      "title": "025 - Al Furqan 53-77",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Online",
+      "title": "027 - An Naml 59-89",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Online",
+      "title": "029 - Al 'Ankabut 46-69",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Online",
+      "title": "030 - Ar Room",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Online",
+      "title": "031 - Luqman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Online",
+      "title": "032 - As Sajdah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Online",
+      "title": "033 - Al Ahzab 1-30",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Online",
+      "title": "036 - Yaseen",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Online",
+      "title": "039 - Az Zumar 68-75",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Online",
+      "title": "040 - Ghafir 23-65",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Online",
+      "title": "041 - Fussilat 30-39",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Online",
+      "title": "048 - Al Fath",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Online",
+      "title": "049 - Al Hujurat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Online",
+      "title": "050 - Qaf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Online",
+      "title": "051 - Az Zariyat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Online",
+      "title": "052 - At Tur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Online",
+      "title": "055 - Ar Rahman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Online",
+      "title": "058 - Al Mujadilah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Online",
+      "title": "059 - Al Hashr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Online",
+      "title": "060 - Al Mumtahinah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Online",
+      "title": "061 - As Saff",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Online",
+      "title": "062 - Al Jumuah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Online",
+      "title": "063 - Al Munafiqun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Online",
+      "title": "064 - At Taghabun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Online",
+      "title": "065 - At Talaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Online",
+      "title": "066 - At Tahrim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Online",
+      "title": "067 - Al Mulk",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Online",
+      "title": "076 - Al Insan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Online",
+      "title": "091 - Ash Shams",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Online",
+      "title": "093 - Ad-Duha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Online",
+      "title": "103 - Al Asr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 61,
+      "name_category": "Online",
+      "title": "112 - Al-Ikhlas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "Online",
+      "title": "Dua",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "https://ia601606.us.archive.org/30/items/afiftaj/afif_51.mp3",
       "lyrics": ""
     }
   ]
