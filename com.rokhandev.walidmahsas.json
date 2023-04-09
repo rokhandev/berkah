@@ -1,0 +1,951 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 15,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Walid Mahsas",
+      "image": "file:///android_asset/image/check.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Walid Mahsas",
+      "title": "001 : Al Fatiha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_1.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Walid Mahsas",
+      "title": "002 : Al Baqarah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_2.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Walid Mahsas",
+      "title": "003 : Al Imran",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_3.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Walid Mahsas",
+      "title": "004 : An Nisa'",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_4.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Walid Mahsas",
+      "title": "005 : Al Ma'idah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_5.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Walid Mahsas",
+      "title": "006 :  Al Ana'am",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_6.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Walid Mahsas",
+      "title": "007 : Al A`araf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_7.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Walid Mahsas",
+      "title": "008 : Al Anfal",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_8.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Walid Mahsas",
+      "title": "009 : At Taubah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_9.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Walid Mahsas",
+      "title": "010 : Yunus",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_10.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Walid Mahsas",
+      "title": "011 : Hood",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_11.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 12,
+      "name_category": "Walid Mahsas",
+      "title": "012 : Yusuf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_12.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Walid Mahsas",
+      "title": "013 : Ar Ra'd",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_13.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Walid Mahsas",
+      "title": "014 : Ibrahim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_14.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Walid Mahsas",
+      "title": "015 : Al Hijr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_15.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Walid Mahsas",
+      "title": "016 : Al Nahl",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_16.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Walid Mahsas",
+      "title": "017 : Al Isra",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_17.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Walid Mahsas",
+      "title": "018 : Al Kahf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_18.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Walid Mahsas",
+      "title": "019 : Maryam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_19.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Walid Mahsas",
+      "title": "020 : Taha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_20.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Walid Mahsas",
+      "title": "021 : Al Anbiya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_21.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Walid Mahsas",
+      "title": "022 : Al Najj",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_22.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Walid Mahsas",
+      "title": "023 : Al Mu'minun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_23.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Walid Mahsas",
+      "title": "024 : An Nur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_24.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Walid Mahsas",
+      "title": "025 : Al Furqan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_25.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Walid Mahsas",
+      "title": "026 : Ash Shu'ara'",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_26.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Walid Mahsas",
+      "title": "027 : An Naml",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_27.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Walid Mahsas",
+      "title": "028 : Al Qasas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_28.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Walid Mahsas",
+      "title": "029 : Al 'Ankabut",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_29.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Walid Mahsas",
+      "title": "030 : Ar Room",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_30.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Walid Mahsas",
+      "title": "031 : Luqman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_31.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Walid Mahsas",
+      "title": "032 : AS Sajdah",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_32.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Walid Mahsas",
+      "title": "033 : Al Ahzab",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_33.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Walid Mahsas",
+      "title": "034 : Saba'",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_34.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Walid Mahsas",
+      "title": "035 : Fatir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_35.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Walid Mahsas",
+      "title": "036 : Yaseen",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_36.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Walid Mahsas",
+      "title": "037 : As Saffat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_37.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Walid Mahsas",
+      "title": "038 : Sad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_38.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Walid Mahsas",
+      "title": "039 : Az Zumar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_39.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Walid Mahsas",
+      "title": "040 : Ghafir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_40.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Walid Mahsas",
+      "title": "041 : Fussilat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_41.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Walid Mahsas",
+      "title": "042 : Ash Shura",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_42.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Walid Mahsas",
+      "title": "043 : Az Zukhruf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_43.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Walid Mahsas",
+      "title": "044 : Ad Dukhan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_44.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Walid Mahsas",
+      "title": "045 : Al Jathiya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_45.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Walid Mahsas",
+      "title": "046 : Al Ahqaf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_46.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Walid Mahsas",
+      "title": "047 : Muhammad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_47.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Walid Mahsas",
+      "title": "048 : Al Fath",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_48.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Walid Mahsas",
+      "title": "049 : Al Hujraat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_49.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Walid Mahsas",
+      "title": "050 : Qaf",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_50.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Walid Mahsas",
+      "title": "051 : Ad Dhariyat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_51.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Walid Mahsas",
+      "title": "052 : At Tur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_52.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Walid Mahsas",
+      "title": "053 : An Najm",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_53.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Walid Mahsas",
+      "title": "054 : Al Qamar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_54.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Walid Mahsas",
+      "title": "055 : Ar Rahman",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_55.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 56,
+      "name_category": "Walid Mahsas",
+      "title": "056 : Al Waqia",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_56.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 57,
+      "name_category": "Walid Mahsas",
+      "title": "057 : Al Hadid",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_57.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 58,
+      "name_category": "Walid Mahsas",
+      "title": "058 : Al Mujadala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_58.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 59,
+      "name_category": "Walid Mahsas",
+      "title": "059 : Al Hashr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_59.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 60,
+      "name_category": "Walid Mahsas",
+      "title": "060 : Al Mumtahana",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_60.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 61,
+      "name_category": "Walid Mahsas",
+      "title": "061 : As Saff",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_61.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 62,
+      "name_category": "Walid Mahsas",
+      "title": "062 : Al Jumua",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_62.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 63,
+      "name_category": "Walid Mahsas",
+      "title": "063 : Al Munafiqoon",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_63.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 64,
+      "name_category": "Walid Mahsas",
+      "title": "064 : At Taghabun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_64.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 65,
+      "name_category": "Walid Mahsas",
+      "title": "065 : At Talaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_65.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 66,
+      "name_category": "Walid Mahsas",
+      "title": "066 : At Tahrim",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_66.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 67,
+      "name_category": "Walid Mahsas",
+      "title": "067 :  Al Mulk",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_67.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 68,
+      "name_category": "Walid Mahsas",
+      "title": "068 : Al Qalam",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_68.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 69,
+      "name_category": "Walid Mahsas",
+      "title": "069 : Al Haqqa",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_69.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 70,
+      "name_category": "Walid Mahsas",
+      "title": "070 : Al Maarij",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_70.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 71,
+      "name_category": "Walid Mahsas",
+      "title": "071 : Nooh",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_71.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 72,
+      "name_category": "Walid Mahsas",
+      "title": "072 : Al Jinn",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_72.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 73,
+      "name_category": "Walid Mahsas",
+      "title": "073 : Al Muzzamill",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_73.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 74,
+      "name_category": "Walid Mahsas",
+      "title": "074 : Al Muddaththir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_74.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 75,
+      "name_category": "Walid Mahsas",
+      "title": "075 : Al Qiyama",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_75.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 76,
+      "name_category": "Walid Mahsas",
+      "title": "076 : Al Insan",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_76.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 77,
+      "name_category": "Walid Mahsas",
+      "title": "077 : Al Mursalat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_77.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 78,
+      "name_category": "Walid Mahsas",
+      "title": "078 : An Naba",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_78.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 79,
+      "name_category": "Walid Mahsas",
+      "title": "079 : An Naziat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_79.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 80,
+      "name_category": "Walid Mahsas",
+      "title": "080 : Abasa",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_80.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 81,
+      "name_category": "Walid Mahsas",
+      "title": "081 : Al Takwir",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_81.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 82,
+      "name_category": "Walid Mahsas",
+      "title": "082 : Al Infitar",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_82.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 83,
+      "name_category": "Walid Mahsas",
+      "title": "083 : Al Mutaffifin",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_83.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 84,
+      "name_category": "Walid Mahsas",
+      "title": "084 : Al Inshiqaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_84.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 85,
+      "name_category": "Walid Mahsas",
+      "title": "085 : Al Burooj",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_85.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 86,
+      "name_category": "Walid Mahsas",
+      "title": "086 : At Tariq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_86.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 87,
+      "name_category": "Walid Mahsas",
+      "title": "087 : Al Ala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_87.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 88,
+      "name_category": "Walid Mahsas",
+      "title": "088 : Al Ghashiya",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_88.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 89,
+      "name_category": "Walid Mahsas",
+      "title": "089 : Al Fajr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_89.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 90,
+      "name_category": "Walid Mahsas",
+      "title": "090 : Al Balad",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_90.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 91,
+      "name_category": "Walid Mahsas",
+      "title": "091 : Ash Shams",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_91.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 92,
+      "name_category": "Walid Mahsas",
+      "title": "092 : Al Layl",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_92.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 93,
+      "name_category": "Walid Mahsas",
+      "title": "093 : Ad Dhuha",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_93.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 94,
+      "name_category": "Walid Mahsas",
+      "title": "094 : As Sharh",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_94.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 95,
+      "name_category": "Walid Mahsas",
+      "title": "095 : At Tin",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_95.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 96,
+      "name_category": "Walid Mahsas",
+      "title": "096 : Al Alaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_96.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 97,
+      "name_category": "Walid Mahsas",
+      "title": "097 : Al Qadr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_97.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 98,
+      "name_category": "Walid Mahsas",
+      "title": "098 : Al Bayyina",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_98.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 99,
+      "name_category": "Walid Mahsas",
+      "title": "099 : Az Zalzala",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_99.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 100,
+      "name_category": "Walid Mahsas",
+      "title": "100 : Al Adiyat",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_100.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 101,
+      "name_category": "Walid Mahsas",
+      "title": "101 : Al Qaria",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_101.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 102,
+      "name_category": "Walid Mahsas",
+      "title": "102 : At Takathur",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_102.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 103,
+      "name_category": "Walid Mahsas",
+      "title": "103 : Al Asr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_103.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 104,
+      "name_category": "Walid Mahsas",
+      "title": "104 : Al Humaza",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_104.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 105,
+      "name_category": "Walid Mahsas",
+      "title": "105 : Al Fil",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_105.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 106,
+      "name_category": "Walid Mahsas",
+      "title": "106 : Quraish",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_106.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 107,
+      "name_category": "Walid Mahsas",
+      "title": "107 : Al Maun",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_107.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 108,
+      "name_category": "Walid Mahsas",
+      "title": "108 : Al Kauther",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_108.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 109,
+      "name_category": "Walid Mahsas",
+      "title": "109 : Al Kafiroon",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_109.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 110,
+      "name_category": "Walid Mahsas",
+      "title": "110 : An Nasr",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_110.mp3",
+      "lyrics": ""
+    },
+	{
+      "id": 111,
+      "name_category": "Walid Mahsas",
+      "title": "111 : Al Masadd",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_111.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 112,
+      "name_category": "Walid Mahsas",
+      "title": "112 : Al Ikhlas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_112.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 113,
+      "name_category": "Walid Mahsas",
+      "title": "113 : Al Falaq",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_113.mp3",
+      "lyrics": ""
+    },
+    {
+      "id": 114,
+      "name_category": "Walid Mahsas",
+      "title": "114 : An Nas",
+      "image": "file:///android_asset/image/check.jpg",
+      "link_mp3": "walid/mahsas_114.mp3",
+      "lyrics": ""
+    }
+  ]
+}
